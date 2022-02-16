@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Ambuzap
+parent_type: CourseSection
 parent_uid: bc5c9eac-df21-936f-ac53-72945b747c52
 title: Ambuzap - Page 2
 uid: accd11b1-0193-bb3d-7f64-ff2b6e4efcd6
 ---
 
-<< [Previous]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters) [1]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters) 2
+\<\< [Previous]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters) [1]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters) 2
 
 {{< anchor "Explanation_of_the_Two_Filters" >}}{{< /anchor >}}Explanation of the Two Filters  
 _by Michael Melgar_
@@ -116,4 +119,4 @@ So in the half hour or so that we had before the USAID arrived, we tried to make
 
 [Back to top](#Explanation_of_the_Two_Filters)
 
-<< [Previous]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters) [1]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters) 2
+\<\< [Previous]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters) [1]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters) 2

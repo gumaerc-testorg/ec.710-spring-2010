@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/dcfcdc5d5a67653d25f2fb9cb09463b2_Arduino_slide13.jpg
+file: /media/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/dcfcdc5d5a67653d25f2fb9cb09463b2_Arduino_slide13.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: BabyTrackr
+parent_type: CourseSection
 resourcetype: Image
 title: Arduino_slide13.jpg
 uid: dcfcdc5d-5a67-653d-25f2-fb9cb09463b2

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: fd032552-908b-39df-9f46-c936d1092c8c
 title: EyeHeme
 uid: 50b2cdae-c3d8-7904-96ad-3dffc1b0dad5
@@ -50,9 +54,9 @@ This equipment can be used any time a pulse ox or anemia diagnostic is needed. I
 
 **Readout declares:**
 
-*   9.5 < Hb < 11 = mildly anemic.
-*   7 < Hb < 9.5 = moderate anemia
-*   Hb < 7 = severe anemia. AND/OR similar using hematocrit. (Hct ~ 3 \* Hb).
+*   9.5 \< Hb \< 11 = mildly anemic.
+*   7 \< Hb \< 9.5 = moderate anemia
+*   Hb \< 7 = severe anemia. AND/OR similar using hematocrit. (Hct ~ 3 \* Hb).
 
 Correlation value w/ established lab test, r > 0.75
 
@@ -60,9 +64,9 @@ Sensitivity > 80%
 
 Specificity > 60%
 
-< $100 for device (could be subsidized w/ US sales)
+\< $100 for device (could be subsidized w/ US sales)
 
-<$0.50 per test (average maintenance, power consumption, sterilization, etc)
+\<$0.50 per test (average maintenance, power consumption, sterilization, etc)
 
 ### How is the Local User Community Approaching thePproblem? What Type of Improvised, or Local Solutions are Being Used?
 
@@ -123,14 +127,14 @@ Design Specifications
 
 Readout declares:
 
-*   9.5 < Hb < 11 = mildly anemic.
-*   7 < Hb < 9.5 = moderate anemia
-*   Hb < 7 = severe anemia. AND/OR similar using hematocrit. (Hct ~ 3 \* Hb).
+*   9.5 \< Hb \< 11 = mildly anemic.
+*   7 \< Hb \< 9.5 = moderate anemia
+*   Hb \< 7 = severe anemia. AND/OR similar using hematocrit. (Hct ~ 3 \* Hb).
 *   Correlation value w/ established lab test, r > 0.75
 *   Sensitivity > 80%
 *   Specificity > 60%
-*   < $100 for device (could be subsidized w/ US sales)
-*   <$0.50 per test (average maintenance, power consumption, sterilization, etc)
+*   \< $100 for device (could be subsidized w/ US sales)
+*   \<$0.50 per test (average maintenance, power consumption, sterilization, etc)
 
 Selection Matrix
 ----------------

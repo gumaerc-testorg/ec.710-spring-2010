@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Swiss Army Electrocautery
+parent_type: CourseSection
 parent_uid: c540ebe0-0382-03ff-bd95-87abe902d3f4
 title: Swiss Army Electrocautery - Page 2
 uid: 3afda621-10e0-e1d8-6bbf-98bd79ec4f99
 ---
 
-<< [Previous]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) [1]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) 2 [3]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2) [Next]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) >>
+\<\< [Previous]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) [1]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) 2 [3]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2) [Next]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) >>
 
 {{< anchor "Tip_Ideas" >}}{{< /anchor >}}Tip Ideas
 --------------------------------------------------
@@ -189,4 +192,4 @@ The third thing we talked about was the design of the scalpel tip. We thought ab
 
 [Back to top](#Tip_Ideas)
 
-<< [Previous]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) [1]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) 2 [3]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2) [Next]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) >>
+\<\< [Previous]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) [1]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) 2 [3]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2) [Next]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) >>

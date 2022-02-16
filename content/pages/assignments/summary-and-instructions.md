@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: fba44aef-aca5-c08e-c21b-aa606017c091
 title: 'Summary and Instructions '
 uid: 0ff0dfa9-90ca-535e-b4c9-f41e25e219c3

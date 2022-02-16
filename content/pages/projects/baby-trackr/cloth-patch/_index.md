@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: BabyTrackr
+parent_type: CourseSection
 parent_uid: bb097725-8aab-b7d2-7e42-559fcd0fbc98
 title: BabyTrackr - Page 3
 uid: f4a65097-6cb8-db2f-dac4-78dd84c5f5ef
 ---
 
-<< [Previous]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) [1]({{< baseurl >}}/pages/projects/baby-trackr) [2]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) 3
+\<\< [Previous]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) [1]({{< baseurl >}}/pages/projects/baby-trackr) [2]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) 3
 
 {{< anchor "Cloth_Patch" >}}{{< /anchor >}}Cloth Patch for Monitoring Contractions!  
 _by Karina Isaak_
@@ -158,7 +161,7 @@ Courtesy Hesperian Foundation. Used with permission. From Werner, David, Carol T
 
 We have been told that during a contraction, the uterus stiffens and moves about 1cm up. This is where the Toco comes in. It measures the pressure exerted by this upward force. After a long brainstorming section, we decided that a cool why to make a cheap and use to manufacture sensor was to make a capacitor. For a parallel plate capacitor, the equation is:
 
-C= ϵ0 ϵr _A/D_
+C= ϵ{{< sub "0" >}} ϵ{{< sub "r" >}} _A/D_
 
 so as you squeeze the plates together, the capacitance changes, and all you need for the sensor are 2 conductive plates, which is locally available!!! I thought it was brilliant. To measure the difference in capacitance, I was going to make a simple LC oscillator, and have the sensor is parallel with the oscillator C. Thus, as the plates are squeezed together, the frequency of the oscillator changes, and we can plot the frequency changes over time. Here is the oscillator, the antenna in the picture is our sensor:
 
@@ -228,7 +231,7 @@ _by Grace Yao_
 ---------------------------------------------------------------------------------------
 
 A couple of action shots from the museum presentations last week!
-{{< image-gallery id="f4a65097-6cb8-db2f-dac4-78dd84c5f5ef_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/" >}}
+{{< image-gallery id="f4a65097-6cb8-db2f-dac4-78dd84c5f5ef_nanogallery2" baseUrl="/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/" >}}
 {{< image-gallery-item href="8b5ae10973b98bee1a3fc1fc110f9408_presentation1.jpg" data-ngdesc="Presentation at the MIT Museum." text="Presentation at the MIT Museum." >}}
 {{< image-gallery-item href="a6fe975a5d2735cf5e79ed8165ccaf11_presentation2.jpg" data-ngdesc="Instructor Jose Gomez-Marquez introducing D-Lab Health to the audience." text="Instructor Jose Gomez-Marquez introducing D-Lab Health to the audience." >}}
 {{< image-gallery-item href="3363534db40eacec2df4b058dc236d41_presentation3.jpg" data-ngdesc="Demonstration at the MIT Museum." text="Demonstration at the MIT Museum." >}}

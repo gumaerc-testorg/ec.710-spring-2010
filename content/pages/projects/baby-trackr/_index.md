@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: fd032552-908b-39df-9f46-c936d1092c8c
 title: BabyTrackr
 uid: bb097725-8aab-b7d2-7e42-559fcd0fbc98

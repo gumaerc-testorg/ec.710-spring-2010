@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/8f0818780f12da51ad0a383810594341_prototype_3.jpg
+file: /media/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/8f0818780f12da51ad0a383810594341_prototype_3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: EyeHeme - Page 2
+parent_type: CourseSection
 resourcetype: Image
 title: prototype_3.jpg
 uid: 8f081878-0f12-da51-ad0a-383810594341

@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: EyeHeme
+parent_type: CourseSection
 parent_uid: 50b2cdae-c3d8-7904-96ad-3dffc1b0dad5
 title: EyeHeme - Page 2
 uid: f0a881e5-0cc4-23d7-a570-f619feff7140
 ---
 
-<< [Previous]({{< baseurl >}}/pages/projects/eyeheme) [1]({{< baseurl >}}/pages/projects/eyeheme) 2
+\<\< [Previous]({{< baseurl >}}/pages/projects/eyeheme) [1]({{< baseurl >}}/pages/projects/eyeheme) 2
 
 {{< anchor "New_Directions" >}}{{< /anchor >}}New Directions
 ------------------------------------------------------------
@@ -119,7 +122,7 @@ Extraneous Personal background:
 
 *   I like eyes. Aside from serving as a rich medical diagnostic tool, a person's eyes are a medium for emotional expression. Haven't you ever seen someone’s eyes smile?
 *   I'm not very good at drawing in general, but I remember that when I was about 11, I took an art class over the summer and managed to get through it by drawing eyes for most of my projects. The toughest part was trying to make each eye in a pair compatible with the other, but I managed to escape this by drawing only one in some more…abstract form.
-*   Some people are taken back by any sort of touching of the eye, but I've been comfortable with it from a young age. I think I first started wearing glasses in 2nd grade, and I've had contacts since middle school. My vision is terrible (about -8.0 in both eyes) and I've spent a large amount of time and money on diagnostic eye exams, prescription lens fittings, treatment for eye ulcers, etc. And because my brother also has terrible vision and when we were younger I went along with him to eye exams and our doctor allowed me to peer into her ophthalmoscope, I've been able to gain an appreciation for the complexity and elegance of this organ.
+*   Some people are taken back by any sort of touching of the eye, but I've been comfortable with it from a young age. I think I first started wearing glasses in 2{{< sup "nd" >}} grade, and I've had contacts since middle school. My vision is terrible (about -8.0 in both eyes) and I've spent a large amount of time and money on diagnostic eye exams, prescription lens fittings, treatment for eye ulcers, etc. And because my brother also has terrible vision and when we were younger I went along with him to eye exams and our doctor allowed me to peer into her ophthalmoscope, I've been able to gain an appreciation for the complexity and elegance of this organ.
 
 Please note that I do not prescribe to alternative medicine techniques like "eyelogy" or "iridology" or "scelerology." My impression is that although the eye can be a very useful tool for some diagnostic purposes, these fields are generally accepted as bogus.
 
@@ -245,4 +248,4 @@ But congrats to Biosense for drawing more attention to the worldwide anemia prob
 
 [Back to top](#New_Directions)
 
-<< [Previous]({{< baseurl >}}/pages/projects/eyeheme) [1]({{< baseurl >}}/pages/projects/eyeheme) 2
+\<\< [Previous]({{< baseurl >}}/pages/projects/eyeheme) [1]({{< baseurl >}}/pages/projects/eyeheme) 2

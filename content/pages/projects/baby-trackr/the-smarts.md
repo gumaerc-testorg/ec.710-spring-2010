@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: BabyTrackr
+parent_type: CourseSection
 parent_uid: bb097725-8aab-b7d2-7e42-559fcd0fbc98
 title: BabyTrackr - Page 2
 uid: 1f285a39-6e3b-596b-f990-f46eed40d51c
 ---
 
-<< [Previous]({{< baseurl >}}/pages/projects/baby-trackr) [1]({{< baseurl >}}/pages/projects/baby-trackr) 2 [3]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) [Next]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) >>
+\<\< [Previous]({{< baseurl >}}/pages/projects/baby-trackr) [1]({{< baseurl >}}/pages/projects/baby-trackr) 2 [3]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) [Next]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) >>
 
 {{< anchor "The_Smarts" >}}{{< /anchor >}}The Smarts, and How We Got There.  
 _by Maysun M. Hasan_
@@ -291,7 +294,7 @@ Our favorite is the big red button (picture 1) put into a latex glove which is f
 We also started programming the Arduino to record when the ball is squeezed, indicating that the women are having contraction. Grace posted the pseudo code that we are working on.
 
 The next step will be to connect it to the display and get everything running!
-{{< image-gallery id="1f285a39-6e3b-596b-f990-f46eed40d51c_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/" >}}
+{{< image-gallery id="1f285a39-6e3b-596b-f990-f46eed40d51c_nanogallery2" baseUrl="/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/" >}}
 {{< image-gallery-item href="a4f29ae628caf6c910b4c9aa23874ef4_gallery3img1.jpg" data-ngdesc="Big red button" text="Big red button" >}}
 {{< image-gallery-item href="1ba0044b509da0ca84557653a1194b1b_gallery3img2.jpg" data-ngdesc="Prototype with circuit board." text="Prototype with circuit board." >}}
 {{< image-gallery-item href="2b9c9daa4adfb1c1bed1667097e3b89f_gallery3img3.jpg" data-ngdesc="Couscous" text="Couscous" >}}
@@ -301,4 +304,4 @@ The next step will be to connect it to the display and get everything running!
 {{< image-gallery-item href="3ceac5f40e983a1c0bd569ece42e8f12_gallery3img7.jpg" data-ngdesc="Four test materials with squeeze toys." text="Four test materials with squeeze toys." >}}
 {{< image-gallery-item href="309aee961e455f6ebb011d8afff6f898_gallery3img8.jpg" data-ngdesc="Squeezing a toy ball." text="Squeezing a toy ball." >}}
 {{</ image-gallery >}}
-<< [Previous]({{< baseurl >}}/pages/projects/baby-trackr) [1]({{< baseurl >}}/pages/projects/baby-trackr) 2 [3]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) [Next]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) >>
+\<\< [Previous]({{< baseurl >}}/pages/projects/baby-trackr) [1]({{< baseurl >}}/pages/projects/baby-trackr) 2 [3]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) [Next]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) >>

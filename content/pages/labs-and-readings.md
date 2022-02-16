@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Labs and Readings
 uid: 1053c86f-f8f7-3883-4828-1c0a87e6ec57
 ---

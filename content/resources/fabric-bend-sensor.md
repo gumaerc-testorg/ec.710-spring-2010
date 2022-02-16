@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: BabyTrackr - Page 3
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Fabric Bend Sensor
 uid: c3b52fd9-0ed4-0060-6f3c-33147ad555d8

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: fd032552-908b-39df-9f46-c936d1092c8c
 title: Swiss Army Electrocautery
 uid: c540ebe0-0382-03ff-bd95-87abe902d3f4

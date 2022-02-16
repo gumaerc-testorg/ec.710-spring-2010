@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/7dd03c7a0642f23eafbd7a8d1f017932_baby_trakr.jpg
+file: /media/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/7dd03c7a0642f23eafbd7a8d1f017932_baby_trakr.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: BabyTrackr
+parent_type: CourseSection
 resourcetype: Image
 title: baby_trakr.jpg
 uid: 7dd03c7a-0642-f23e-afbd-7a8d1f017932

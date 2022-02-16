@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 31c94e8e-a397-6667-4b30-1994c73dd8f5
 ---
@@ -154,10 +156,10 @@ KEY DATES
 {{< tdopen >}}
 Introduction, global health overview
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Lab 1: Drug delivery
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Homework 1 due
 {{< tdclose >}}
 
@@ -178,10 +180,10 @@ Drug delivery overview
 {{< tdopen >}}
 Infectious diseases
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Lab 2: Diagnostics
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Homework 2 due
@@ -208,10 +210,10 @@ Non-communicable diseases
 {{< tdopen >}}
 Capturing heart and lung sounds on a mobile phone – guest lecture by Katherine Kuan
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Lab 3: Instrumentation
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Lab 2 homework due
 {{< tdclose >}}
 
@@ -232,10 +234,10 @@ Advances in telemedicine and patient monitoring
 {{< tdopen >}}
 Vaccines
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Lab 4: Vital signs monitoring
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Lab 3 homework due
 {{< tdclose >}}
 
@@ -268,10 +270,10 @@ Arduous Arduino – guest lecture by Paul Hlebowitsh
 {{< tdopen >}}
 User and setting-driven innovations to advance global healthcare – guest lecture by Kris Olson
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Lab 5: Microfluidics
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Homework 3 due
@@ -298,10 +300,10 @@ Prototyping of medical devices
 {{< tdopen >}}
 Neglected tropical diseases
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Visit to Shriners Hospital for Children, Boston, MA
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Lab 5 homework due
 {{< tdclose >}}
 
@@ -322,7 +324,7 @@ Disabilities in the developing world
 {{< tdopen >}}
 Project team formation
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="14" >}}
 Project team work
 {{< tdclose >}}
 {{< tdopen >}}
@@ -337,7 +339,7 @@ Lab 6 homework due
 {{< tdopen >}}
 FDA approvals
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 FDA 510(k) homework due
 {{< tdclose >}}
 
@@ -358,7 +360,7 @@ Project brainstorming
 {{< tdopen >}}
 Visit to MIT laser cutter and 3-D printer
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 
@@ -379,7 +381,7 @@ Project team work
 {{< tdopen >}}
 Project team work
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 
@@ -412,7 +414,7 @@ Blog/Lab notebook review Sketch model due
 {{< tdopen >}}
 Project team work
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 
@@ -433,7 +435,7 @@ Project team work
 {{< tdopen >}}
 Role-playing simulation games
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Final prototype due at MIT Museum at D-Lab Finale
 {{< tdclose >}}
 
@@ -454,7 +456,7 @@ Project team work, Sketch model review feedback
 {{< tdopen >}}
 Project team work
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 No lab
 {{< tdclose >}}
 
