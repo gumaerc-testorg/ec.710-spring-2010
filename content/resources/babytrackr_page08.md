@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: BabyTrackr
 parent_type: CourseSection
+parent_uid: bb097725-8aab-b7d2-7e42-559fcd0fbc98
 resourcetype: Image
 title: BabyTrackr_page08.jpg
 uid: 145ac3e9-b183-b4cd-79ad-8c8bf6357b21

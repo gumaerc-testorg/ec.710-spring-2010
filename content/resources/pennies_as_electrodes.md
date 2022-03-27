@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: BabyTrackr
 parent_type: CourseSection
+parent_uid: bb097725-8aab-b7d2-7e42-559fcd0fbc98
 resourcetype: Image
 title: Pennies_as_electrodes.jpg
 uid: bb5a163b-3a34-4044-a651-904c6f687715

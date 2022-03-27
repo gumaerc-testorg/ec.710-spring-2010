@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: EyeHeme - Page 2
 parent_type: CourseSection
+parent_uid: f0a881e5-0cc4-23d7-a570-f619feff7140
 resourcetype: Image
 title: eyes.jpg
 uid: 54ae5249-f856-a245-ac67-c3e480ca8218

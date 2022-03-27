@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Nebshair
 parent_type: CourseSection
+parent_uid: f60fa61f-6f4f-bdf5-5fa7-cf2c4c4b918f
 resourcetype: Image
 title: experimental.jpg
 uid: 1dc1f2ff-a197-fe3b-c4b5-81e9b96e316c

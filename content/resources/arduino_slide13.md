@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: BabyTrackr
 parent_type: CourseSection
+parent_uid: bb097725-8aab-b7d2-7e42-559fcd0fbc98
 resourcetype: Image
 title: Arduino_slide13.jpg
 uid: dcfcdc5d-5a67-653d-25f2-fb9cb09463b2

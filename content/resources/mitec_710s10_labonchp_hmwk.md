@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fba44aef-aca5-c08e-c21b-aa606017c091
 resourcetype: Document
 title: Diagnostics Lab
 uid: 38c044ff-9a0c-bdf2-c850-7e38f665eac9

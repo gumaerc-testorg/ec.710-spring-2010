@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Ambuzap
 parent_type: CourseSection
+parent_uid: bc5c9eac-df21-936f-ac53-72945b747c52
 resourcetype: Image
 title: ambulance_interior.jpg
 uid: c636ee58-1c8b-5e2f-64ba-5e51ada237d9

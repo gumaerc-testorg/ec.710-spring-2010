@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Nebshair - Page 2
 parent_type: CourseSection
+parent_uid: 8c3a3d5c-2820-b60c-8818-e9cf57c805e1
 resourcetype: Image
 title: sensor_setup.jpg
 uid: 893e3add-ef19-cd90-cb85-f92b09a0f5af

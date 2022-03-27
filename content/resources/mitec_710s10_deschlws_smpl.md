@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fba44aef-aca5-c08e-c21b-aa606017c091
 resourcetype: Document
 title: Sample Design Challenge Worksheet
 uid: 9dcecfcd-1cfd-a45b-5de1-e7a8077b563b

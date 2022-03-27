@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Swiss Army Electrocautery - Page 2
 parent_type: CourseSection
+parent_uid: 3afda621-10e0-e1d8-6bbf-98bd79ec4f99
 resourcetype: Image
 title: hand_written_notes.jpg
 uid: 2f24a593-be39-e841-1bbc-620129eb8c0a

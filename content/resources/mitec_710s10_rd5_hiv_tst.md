@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Labs and Readings
 parent_type: CourseSection
+parent_uid: 1053c86f-f8f7-3883-4828-1c0a87e6ec57
 resourcetype: Document
 title: Overview of HIV Testing Technologies
 uid: 6fa74a1e-d07e-24c6-e080-e27c6e91e642

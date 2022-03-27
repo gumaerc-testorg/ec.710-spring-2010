@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Nebshair - Page 2
 parent_type: CourseSection
+parent_uid: 8c3a3d5c-2820-b60c-8818-e9cf57c805e1
 resourcetype: Image
 title: valve_cut_outs.jpg
 uid: 84742882-fa27-4393-bc3f-b87cb324c37a

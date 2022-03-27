@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fba44aef-aca5-c08e-c21b-aa606017c091
 resourcetype: Document
 title: Design Challenge Worksheet
 uid: d26e04a5-cbe1-9c3c-7a73-1ec339b9c70c

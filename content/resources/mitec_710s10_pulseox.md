@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fba44aef-aca5-c08e-c21b-aa606017c091
 resourcetype: Document
 title: Pulse Oximetry & Microcontrollers
 uid: 9798f931-ac06-8017-d688-addf60109430

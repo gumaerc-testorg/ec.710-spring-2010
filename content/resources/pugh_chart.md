@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: BabyTrackr
 parent_type: CourseSection
+parent_uid: bb097725-8aab-b7d2-7e42-559fcd0fbc98
 resourcetype: Image
 title: pugh_chart.jpg
 uid: 3609e5f4-369e-c324-572f-235d3dc9ac59

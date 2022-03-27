@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fba44aef-aca5-c08e-c21b-aa606017c091
 resourcetype: Document
 title: FDA 510(k) Homework
 uid: 47a0088d-0064-7273-527f-10c4c74eb7c0

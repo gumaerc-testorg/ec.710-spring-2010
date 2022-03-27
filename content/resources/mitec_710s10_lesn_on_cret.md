@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: 37dd8120-10d8-6590-5aa5-9b6e57afc6cb
 resourcetype: Document
 title: The Challenges of Teaching & Learning Creativity
 uid: 7de3270c-8328-d5d8-40bd-bd46450c8ce0

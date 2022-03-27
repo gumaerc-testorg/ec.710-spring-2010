@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: 37dd8120-10d8-6590-5aa5-9b6e57afc6cb
 resourcetype: Document
 title: Lecture 11
 uid: 2cd004c4-6bd0-69f4-48d8-39764ea83e64

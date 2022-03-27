@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Swiss Army Electrocautery - Page 3
 parent_type: CourseSection
+parent_uid: bfbe597f-c281-aece-7644-2ceb2a3ff08d
 resourcetype: Document
 title: Pugh Chart
 uid: 8cc6ea04-5efc-aa83-a62b-51fbfeef6655

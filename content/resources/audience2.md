@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: babytrackr4-gallery
 parent_type: CourseSection
+parent_uid: e536b319-9193-b55a-39cf-dc26a2849a02
 resourcetype: Image
 title: audience2.jpg
 uid: fd163f70-5f38-3f56-9914-96b69e21ed9c
