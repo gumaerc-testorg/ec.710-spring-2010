@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page provides details on the course assignments and supporting files.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Assignments
 uid: fba44aef-aca5-c08e-c21b-aa606017c091
 ---
 
-This page provides details on coursework for the term. In addition to the assignments below, students are required to document their project team work in a series of blog postings (see the [Projects]({{< baseurl >}}/pages/projects) page to read these team blogs).
+This page provides details on coursework for the term. In addition to the assignments below, students are required to document their project team work in a series of blog postings (see the {{% resource_link fd032552-908b-39df-9f46-c936d1092c8c "Projects" %}} page to read these team blogs).
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -59,7 +60,7 @@ Homework 2
 Graph Asthma or Heart Disease approaches using the Global Health Innovation Compass
 {{< tdclose >}}
 {{< tdopen >}}
-[Summary and instructions]({{< baseurl >}}/pages/assignments/summary-and-instructions)
+{{% resource_link 0ff0dfa9-90ca-535e-b4c9-f41e25e219c3 "Summary and instructions" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,9 +74,9 @@ For those who traveled to Nicaragua during spring break, complete the Design Cha
 {{< tdopen >}}
 
 
-Design Challenge Template ([PDF]({{< baseurl >}}/resources/mitec_710s10_deschlws_smpl))
+Design Challenge Template ({{% resource_link 9dcecfcd-1cfd-a45b-5de1-e7a8077b563b "PDF" %}})
 
-Sample Design Challenge Template ([PDF]({{< baseurl >}}/resources/mitec_710s10_dsgnchlngwrk))
+Sample Design Challenge Template ({{% resource_link d26e04a5-cbe1-9c3c-7a73-1ec339b9c70c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -133,7 +134,7 @@ plot(y)
 
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF]({{< baseurl >}}/resources/mitec_710s10_instrumn_lab))
+Slides ({{% resource_link a0f1f181-8e4e-e1fe-1505-e30e6a7883b9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +156,7 @@ Diagnostics lab:
 
 {{< tdclose >}}
 {{< tdopen >}}
-Lab-on-a-chip instructions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitec_710s10_labonchp_hmwk))
+Lab-on-a-chip instructions ({{% resource_link 38c044ff-9a0c-bdf2-c850-7e38f665eac9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +174,7 @@ Build a prototype pulse oximeter using the Arduino microcontroller.
 
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF]({{< baseurl >}}/resources/mitec_710s10_pulseox))
+Slides ({{% resource_link 9798f931-ac06-8017-d688-addf60109430 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,7 +204,7 @@ FDA 510(k) homework
 Use the U.S. Food and Drug Administration (FDA) Web site to search for 510(k) Premarket Notifications for your medical device, and identify any predicate devices.
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB]({{< baseurl >}}/resources/mitec_710s10_510k_homework))
+Slides ({{% resource_link 47a0088d-0064-7273-527f-10c4c74eb7c0 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +245,7 @@ Role-playing simulation games
 Students form teams for a role-playing game to explore the various stakeholders and difficulties involved in medical innovation and commercialization.
 {{< tdclose >}}
 {{< tdopen >}}
-Simulation game roles ([PDF]({{< baseurl >}}/resources/mitec_710s10_simlgame))
+Simulation game roles ({{% resource_link 7b3c64a1-05ce-8d9b-26b5-d785c2440f75 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

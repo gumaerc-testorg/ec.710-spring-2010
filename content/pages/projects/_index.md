@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides photos, videos, and project blogs relating to a
+  class trip to Nicaragua to identify public health or medical needs that might be
+  effectively addressed by appropriate medical technologies.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -19,12 +22,12 @@ Upon returning from Nicaragua, students identified five final design projects. T
 Project Blogs
 -------------
 
-[Ambuzap]({{< baseurl >}}/pages/projects/ambuzap)
+{{% resource_link bc5c9eac-df21-936f-ac53-72945b747c52 "Ambuzap" %}}
 
-[BabyTrackr]({{< baseurl >}}/pages/projects/baby-trackr)
+{{% resource_link bb097725-8aab-b7d2-7e42-559fcd0fbc98 "BabyTrackr" %}}
 
-[EyeHeme]({{< baseurl >}}/pages/projects/eyeheme)
+{{% resource_link 50b2cdae-c3d8-7904-96ad-3dffc1b0dad5 "EyeHeme" %}}
 
-[NebShair]({{< baseurl >}}/pages/projects/nebshair)
+{{% resource_link f60fa61f-6f4f-bdf5-5fa7-cf2c4c4b918f "NebShair" %}}
 
-[Swiss Army Electrocautery]({{< baseurl >}}/pages/projects/swiss-army-electrocautery)
+{{% resource_link c540ebe0-0382-03ff-bd95-87abe902d3f4 "Swiss Army Electrocautery" %}}

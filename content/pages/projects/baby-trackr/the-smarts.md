@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Page two of a blog entry cataloging student progress and the final presentation
+  for a group project on a labor contraction monitor for Nicaraguan hospitals.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: BabyTrackr
@@ -9,7 +11,7 @@ title: BabyTrackr - Page 2
 uid: 1f285a39-6e3b-596b-f990-f46eed40d51c
 ---
 
-\<\< [Previous]({{< baseurl >}}/pages/projects/baby-trackr) [1]({{< baseurl >}}/pages/projects/baby-trackr) 2 [3]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) [Next]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) >>
+\<\< {{% resource_link bb097725-8aab-b7d2-7e42-559fcd0fbc98 "Previous" %}} {{% resource_link bb097725-8aab-b7d2-7e42-559fcd0fbc98 "1" %}} 2 {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "3" %}} {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Next" %}} >>
 
 {{< anchor "The_Smarts" >}}{{< /anchor >}}The Smarts, and How We Got There.  
 _by Maysun M. Hasan_
@@ -232,7 +234,7 @@ Visuals should include these:
 _by \[LT\]_
 -------------------------------------------------------------------------------------------
 
-_![gantt_chart.jpg]({{< resource_file 7be116d8-fb6a-1d1a-c983-2a20c66b7cb3 >}})  
+_{{< resource 7be116d8-fb6a-1d1a-c983-2a20c66b7cb3 >}}  
 _
 
 Gantt Chart
@@ -259,19 +261,19 @@ So I should have posted this about a week ago, but my computer died and stuff ha
 
 The **Electromyography** (EMG) is a technique of recording the electrical activity in muscles. So the principle theory is that uterine contractions are caused by a series of action potentials that will cause a voltage change that can be detected, similar to how an ECG works. So how should we go about making an EMG? First we need a way to detect electrical activity. We can do this with a differential amplifier. The voltage difference is measured from two electrodes, which are placed relatively close together on the surface of the mother belly, (on the uterus). They are compared to ground, which is place on the mother's hip, where there is no muscle activity. The Diff Amp should output a signal like below, which is an EMG for a bicep:
 
-![emg_1.jpg]({{< resource_file d02a3c0e-7d9e-db96-eac1-c7b7498464d6 >}})
+{{< resource d02a3c0e-7d9e-db96-eac1-c7b7498464d6 >}}
 
 Image by MIT OpenCourseWare.
 
 This signal has been high and low passed filtered, which is something our circuit needs to do. The signal should then be rectified so that only the positive part of the signal is kept, like below.
 
-![emg_2.jpg]({{< resource_file e5b89f83-f368-aae5-eba1-7af7396a2f6e >}})
+{{< resource e5b89f83-f368-aae5-eba1-7af7396a2f6e >}}
 
 Image by MIT OpenCourseWare.
 
 Finally, we need to smooth our signal out so that we form an "envelope", as seen below.
 
-![emg_3.jpg]({{< resource_file ed251d8e-b4ef-257d-3a43-f47592a80da2 >}})
+{{< resource ed251d8e-b4ef-257d-3a43-f47592a80da2 >}}
 
 Image by MIT OpenCourseWare.
 
@@ -304,4 +306,4 @@ The next step will be to connect it to the display and get everything running!
 {{< image-gallery-item href="3ceac5f40e983a1c0bd569ece42e8f12_gallery3img7.jpg" data-ngdesc="Four test materials with squeeze toys." text="Four test materials with squeeze toys." >}}
 {{< image-gallery-item href="309aee961e455f6ebb011d8afff6f898_gallery3img8.jpg" data-ngdesc="Squeezing a toy ball." text="Squeezing a toy ball." >}}
 {{</ image-gallery >}}
-\<\< [Previous]({{< baseurl >}}/pages/projects/baby-trackr) [1]({{< baseurl >}}/pages/projects/baby-trackr) 2 [3]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) [Next]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) >>
+\<\< {{% resource_link bb097725-8aab-b7d2-7e42-559fcd0fbc98 "Previous" %}} {{% resource_link bb097725-8aab-b7d2-7e42-559fcd0fbc98 "1" %}} 2 {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "3" %}} {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Next" %}} >>

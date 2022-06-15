@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/84742882fa274393bc3fb87cb324c37a_valve_cut_outs.jpg
+file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/84742882fa274393bc3fb87cb324c37a_valve_cut_outs.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

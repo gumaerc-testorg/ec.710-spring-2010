@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding .
-file: /media/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/8cc6ea045efcaa83a62b51fbfeef6655_MITEC_710S10_SArm_ElecPC.pdf
+file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/8cc6ea045efcaa83a62b51fbfeef6655_MITEC_710S10_SArm_ElecPC.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: Pugh Chart
 uid: 8cc6ea04-5efc-aa83-a62b-51fbfeef6655
 ---
+This resource contains the information regarding .
+

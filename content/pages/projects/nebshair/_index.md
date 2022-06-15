@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Blog entry cataloging student progress and the final presentation for
+  a group project on a breath-actuated, dosage-monitoring attachment for jet nebulizers
+  to treat multiple patients for respiratory illnesses.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -16,7 +19,7 @@ Team: Caroline Hane-Weijman, Shan Tie, Mary Jue Xu, and anonymous MIT student \[
 
 This content is presented courtesy of the students and used with permission.
 
-1 [2]({{< baseurl >}}/pages/projects/nebshair/one-way-valves) [Next]({{< baseurl >}}/pages/projects/nebshair/one-way-valves) >>
+1 {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "2" %}} {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Next" %}} >>
 
 *   [Ideas Right Now](#Ideas_Right_Now)
 *   [Problem and Background Information Gathering](#Problem_and_Background)
@@ -28,15 +31,15 @@ This content is presented courtesy of the students and used with permission.
 *   [Design Update: Playing with Nebulizer Reservoir](#Design_Update)
 *   [Background on anti-static coating for the reservoir surface to minimize aerosol particle coagulation](#Background_on_Anti-Static)
 *   [Pictures of our Reservoir Prototyping Round 1](#Pictures_of_our_Reservoir)
-*   [One-Way Valves]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#One-Way_Valves)
-*   [Preliminary vapor quantity testing]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#Preliminary_Vapor_Quantity_Testing)
-*   [Vapor Sensor: Physical setup]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#Vapor_Sensor:_Physical_Setup)
-*   [Photos of Testing]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#Photos_of_Testing)
-*   [Prototyping and Testing]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#Prototyping_and_Testing)
-*   [General Project Overview & Ryan Assistance]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#General_Project_Overview)
-*   [D-Lab Showcase!]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#D-Lab_Showcase_)
-*   [Vapor quantity testing part 2]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#Vapor_Quantity_Testing_Part_2)
-*   [Mini Update]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#Mini_Update)
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "One-Way Valves" "#One-Way_Valves" %}}
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Preliminary vapor quantity testing" "#Preliminary_Vapor_Quantity_Testing" %}}
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Vapor Sensor: Physical setup" "#Vapor_Sensor:_Physical_Setup" %}}
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Photos of Testing" "#Photos_of_Testing" %}}
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Prototyping and Testing" "#Prototyping_and_Testing" %}}
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "General Project Overview & Ryan Assistance" "#General_Project_Overview" %}}
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "D-Lab Showcase!" "#D-Lab_Showcase_" %}}
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Vapor quantity testing part 2" "#Vapor_Quantity_Testing_Part_2" %}}
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Mini Update" "#Mini_Update" %}}
 
 {{< anchor "Ideas_Right_Now" >}}{{< /anchor >}}Ideas Right Now  
 _by Mary Jue Xu_
@@ -156,7 +159,7 @@ More details coming soon!
 _by Caroline Hane-Weijman_
 ----------------------------------------------------------------------------------------------------------
 
-![broken_nebulizer.jpg]({{< resource_file aaecbf2a-9891-d8cb-cd97-fb3ca6ef68b0 >}})
+{{< resource aaecbf2a-9891-d8cb-cd97-fb3ca6ef68b0 >}}
 
 Broken nebulizer
 
@@ -251,7 +254,7 @@ _by Shan Tie_
 
 Chemical solutions to static electricity: [http://www.explainthatstuff.com/howantistaticcoatingswork.html](http://www.explainthatstuff.com/howantistaticcoatingswork.html)
 
-Glass pipes with a protective antistatic coating: (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://link.springer.com/article/10.1007/BF00701014))
+Glass pipes with a protective antistatic coating: ([PDF](https://link.springer.com/article/10.1007/BF00701014))
 
 The optimal composition of the applied film is found to be: 50% SnCI~.5H20 with a concentration of 1% SbCI3.
 
@@ -283,7 +286,7 @@ Found various anti-static tape:
 _by Caroline Hane-Weijman_
 -----------------------------------------------------------------------------------------------------------------------------------
 
-![vapor_laser.jpg]({{< resource_file c5bed93f-33ac-4b46-3392-27fedbbcab2b >}})
+{{< resource c5bed93f-33ac-4b46-3392-27fedbbcab2b >}}
 
 Vapor laser sensor connected to the Arduino can measure particle size and concentration
 
@@ -291,10 +294,10 @@ We need to explore a valve system so that the pressure does not get too high ins
 
 Next step: Build the patient tube with a one-way valve and another vapor sensor!
 
-![experimental.jpg]({{< resource_file 1dc1f2ff-a197-fe3b-c4b5-81e9b96e316c >}})
+{{< resource 1dc1f2ff-a197-fe3b-c4b5-81e9b96e316c >}}
 
 Experimental setup with patient tube, one-way valve, and second vapor sensor
 
 [Back to top](#A_breath-actuated)
 
-1 [2]({{< baseurl >}}/pages/projects/nebshair/one-way-valves) [Next]({{< baseurl >}}/pages/projects/nebshair/one-way-valves) >>
+1 {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "2" %}} {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Next" %}} >>

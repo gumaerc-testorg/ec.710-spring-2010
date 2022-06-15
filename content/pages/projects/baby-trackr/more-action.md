@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Image gallery for a group project on a labor contraction monitor for
+  Nicaraguan hospitals.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: BabyTrackr

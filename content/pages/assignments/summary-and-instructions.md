@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Instructions for an assignment to graph asthma or heart disease approaches
+  using the Global Health Innovation Compass.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -89,7 +91,7 @@ and with a different type of damage called Mitral Regurgitation: ([WAV](http://d
 
 The following chart shows the progression of the disease and opportunities for care.
 
-![Flow chart of causal pathway and preventative measures for rheumatic heart disease.]({{< resource_file 64e0bd59-7fe8-1408-1cb4-050499da4a24 >}})
+{{< resource 64e0bd59-7fe8-1408-1cb4-050499da4a24 >}}
 
 Image by MIT OpenCourseWare. After Carapetis, New England Journal of Medicine, 2007.
 

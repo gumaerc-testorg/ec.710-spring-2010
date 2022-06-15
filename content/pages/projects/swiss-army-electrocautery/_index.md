@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Blog entry cataloging student progress and the final presentation for
+  a group project on a combination scalpel and extendable electrocautery tip for rural
+  surgical procedures.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -16,7 +19,7 @@ Team: Sonya Makhni, Victoria Lee, and anonymous MIT students \[AK\] and \[SG\]
 
 This content is presented courtesy of the students and used with permission.
 
-1 [2]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) [3]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2) [Next]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) >>
+1 {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "2" %}} {{% resource_link bfbe597f-c281-aece-7644-2ceb2a3ff08d "3" %}} {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "Next" %}} >>
 
 *   [Post 1](#Post_1)
 *   [Pricing for Electrocautery](#Pricing_for_Electrocautery)
@@ -28,26 +31,26 @@ This content is presented courtesy of the students and used with permission.
 *   [Material Science Contact](#Material_Science_Contact)
 *   [Answers from Ailis (Correspondence 2)](#Answers_from_Ailis)
 *   [Bovie Electrocautery Tip Material](#Bovie_Electrocautery)
-*   [Tip ideas]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1#Tip ideas)
-*   [Cautery Post Material]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1#Cautery post Material)
-*   [Material Data Sheet from Bovie]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1#Material_Data_Sheet_from_Bovie)
-*   [Talk with Dennis]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1#Talk_with_Dennis)
-*   [Call to Ailis and Response to meeting with Dennis]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1#Call_to_Ailis_and_Response)
-*   [Bovie Med Equipment is HERE!]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1#Bovie_Med_Equipment_is_HERE_)
-*   [Properties of Materials]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1#Properties_of_Materials)
-*   [Group chat with Dennis; Next steps]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1#Group_chat_with_Dennis)
-*   [Final Design Plan]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1#Final_Design_Plan)
-*   [Dennis meeting]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1#Dennis_Meeting)
-*   [Response to Dennis Meeting]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2#Responce to Dennis Meeting)
-*   [Google Doc]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2#Google Doc)
-*   [Autoclaving Info]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2#Autoclaving_Info)
-*   [More autoclavable materials info]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2#More_Autoclavable_Materials_Info)
-*   [\=)]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2#__)
-*   [Another good day! =)]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2#Another_good_day____)
-*   [Progress]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2#Progress)
-*   [Other materials for the scalpel]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2#Other_Materials_for_the_Scalpel)
-*   [Tip designs we emailed to Ailis]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2#Tip_Designs)
-*   [Final Pugh Chart]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2#Final)
+*   {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "Tip ideas" "#Tip ideas" %}}
+*   {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "Cautery Post Material" "#Cautery post Material" %}}
+*   {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "Material Data Sheet from Bovie" "#Material_Data_Sheet_from_Bovie" %}}
+*   {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "Talk with Dennis" "#Talk_with_Dennis" %}}
+*   {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "Call to Ailis and Response to meeting with Dennis" "#Call_to_Ailis_and_Response" %}}
+*   {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "Bovie Med Equipment is HERE!" "#Bovie_Med_Equipment_is_HERE_" %}}
+*   {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "Properties of Materials" "#Properties_of_Materials" %}}
+*   {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "Group chat with Dennis; Next steps" "#Group_chat_with_Dennis" %}}
+*   {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "Final Design Plan" "#Final_Design_Plan" %}}
+*   {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "Dennis meeting" "#Dennis_Meeting" %}}
+*   {{% resource_link bfbe597f-c281-aece-7644-2ceb2a3ff08d "Response to Dennis Meeting" "#Responce to Dennis Meeting" %}}
+*   {{% resource_link bfbe597f-c281-aece-7644-2ceb2a3ff08d "Google Doc" "#Google Doc" %}}
+*   {{% resource_link bfbe597f-c281-aece-7644-2ceb2a3ff08d "Autoclaving Info" "#Autoclaving_Info" %}}
+*   {{% resource_link bfbe597f-c281-aece-7644-2ceb2a3ff08d "More autoclavable materials info" "#More_Autoclavable_Materials_Info" %}}
+*   {{% resource_link bfbe597f-c281-aece-7644-2ceb2a3ff08d "\=)" "#__" %}}
+*   {{% resource_link bfbe597f-c281-aece-7644-2ceb2a3ff08d "Another good day! =)" "#Another_good_day____" %}}
+*   {{% resource_link bfbe597f-c281-aece-7644-2ceb2a3ff08d "Progress" "#Progress" %}}
+*   {{% resource_link bfbe597f-c281-aece-7644-2ceb2a3ff08d "Other materials for the scalpel" "#Other_Materials_for_the_Scalpel" %}}
+*   {{% resource_link bfbe597f-c281-aece-7644-2ceb2a3ff08d "Tip designs we emailed to Ailis" "#Tip_Designs" %}}
+*   {{% resource_link bfbe597f-c281-aece-7644-2ceb2a3ff08d "Final Pugh Chart" "#Final" %}}
 
 {{< anchor "Post_1" >}}{{< /anchor >}}Post 1
 --------------------------------------------
@@ -269,4 +272,4 @@ I also asked about the two different temperature settings:
 
 [Back to top](#A_combination_scalpel)
 
-1 [2]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) [3]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2) [Next]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) >>
+1 {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "2" %}} {{% resource_link bfbe597f-c281-aece-7644-2ceb2a3ff08d "3" %}} {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "Next" %}} >>

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/050a2f3ca805561a9078de0726b4f2bd_world_map.jpg
+file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/050a2f3ca805561a9078de0726b4f2bd_world_map.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

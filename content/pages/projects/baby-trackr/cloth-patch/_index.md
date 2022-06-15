@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Page three of a blog entry cataloging student progress and the final
+  presentation for a group project on a labor contraction monitor for Nicaraguan hospitals.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: BabyTrackr
@@ -9,7 +11,7 @@ title: BabyTrackr - Page 3
 uid: f4a65097-6cb8-db2f-dac4-78dd84c5f5ef
 ---
 
-\<\< [Previous]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) [1]({{< baseurl >}}/pages/projects/baby-trackr) [2]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) 3
+\<\< {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Previous" %}} {{% resource_link bb097725-8aab-b7d2-7e42-559fcd0fbc98 "1" %}} {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "2" %}} 3
 
 {{< anchor "Cloth_Patch" >}}{{< /anchor >}}Cloth Patch for Monitoring Contractions!  
 _by Karina Isaak_
@@ -92,13 +94,13 @@ Hey,
 
 So I totally suck at blogging!!! I have a lot to say about the progress of our device that has happened in the last week. The last time I wrote, I had a plan for the EMG and I was about to build. Well I built it and realized that this was not the best way to do it... This is the schematics for it anyways.
 
-![BabyTrackr_page10.jpg]({{< resource_file d23e5034-f1d7-2498-ae95-f012c8d2e253 >}})
+{{< resource d23e5034-f1d7-2498-ae95-f012c8d2e253 >}}
 
 Image by MIT OpenCourseWare. Adapted from circuit designed by Ankit Gordhandas, Irena Hwang, and Vinay Ramasesh.
 
 This is the differential amplifier stage I described earlier. I built it, along with super cheap, super cool electrodes :) (See below)
 
-![Pennies_as_electrodes.jpg]({{< resource_file bb5a163b-3a34-4044-a651-904c6f687715 >}})
+{{< resource bb5a163b-3a34-4044-a651-904c6f687715 >}}
 
 Pennies as electrodes
 
@@ -155,7 +157,7 @@ Ok, it's me again,
 
 So, last time I told about the EMG circuit, which we rejected from our prototype because the signal was not what we expected and it was way too small and noise. I was reading up on other ways to do determine contractions (this was about 2-3 weeks ago), and discovered that EMG is not common method to detect contractions, even in the use. This is because there is also of other muscle interference, like fetal heart beat, maternal heartbeat, and maternal body movement artifacts. There is some cool research into additive filtering, and also how EMG's are better in detecting when the baby is going to be delivered, but this research is not even applied here in the US, and what doctors need now is something that works. That is why we switched focus to a tocodynamometer, toco for short. This is basically a pressure sensor on the stomach that detects the upward movement of the uterus during contraction:
 
- ![copy_of_BabyTrackr_Hesperian.jpg]({{< resource_file 00584b34-888d-19db-e616-16e661c73c26 >}})
+ {{< resource 00584b34-888d-19db-e616-16e661c73c26 >}}
 
 Courtesy Hesperian Foundation. Used with permission. From Werner, David, Carol Thuman, and Jane Maxwell. [_Where There Is No Doctor: A Village Health Care Handbook_](http://www.hesperian.org/publications_download_wtnd.php). Berkeley, CA: Hesperian Foundation, 2010, pp. 258. ISBN: 9780942364156.
 
@@ -165,13 +167,13 @@ C= ϵ{{< sub "0" >}} ϵ{{< sub "r" >}} _A/D_
 
 so as you squeeze the plates together, the capacitance changes, and all you need for the sensor are 2 conductive plates, which is locally available!!! I thought it was brilliant. To measure the difference in capacitance, I was going to make a simple LC oscillator, and have the sensor is parallel with the oscillator C. Thus, as the plates are squeezed together, the frequency of the oscillator changes, and we can plot the frequency changes over time. Here is the oscillator, the antenna in the picture is our sensor:
 
-![BabyTrackr_Page07.jpg]({{< resource_file 9ca82d51-4dc2-b95c-dc80-53aa55f75c3d >}})
+{{< resource 9ca82d51-4dc2-b95c-dc80-53aa55f75c3d >}}
 
 Image by MIT OpenCourseWare. Adapted from Ron Roscoe's 6.102 Introductory RF Design Laboratory, Laboratory No. 4, Spring 2008.
 
 I figured that there was about 10 pF variable capacitance, so in order to get a good frequency range, I was going to have two oscillators and mixer them and filter out all the frequencies I didn't want:
 
-![circuit_design.jpg]({{< resource_file fa4c5f5d-9e90-f563-7282-135c3744cc43 >}})
+{{< resource fa4c5f5d-9e90-f563-7282-135c3744cc43 >}}
 
 Circuit design to filter unwanted frequencies
 
@@ -179,7 +181,7 @@ I know, a little technical... but it needs to be documented.
 
 The mixer is below:
 
-![BabyTrackr_page08.jpg]({{< resource_file 145ac3e9-b183-b4cd-79ad-8c8bf6357b21 >}})
+{{< resource 145ac3e9-b183-b4cd-79ad-8c8bf6357b21 >}}
 
 Image by MIT OpenCourseWare
 
@@ -191,7 +193,7 @@ Image by MIT OpenCourseWare
 _by Grace Yao_
 ---------------------------------------------------------
 
-_![baby_trakr.jpg]({{< resource_file 7dd03c7a-0642-f23e-afbd-7a8d1f017932 >}})  
+_{{< resource 7dd03c7a-0642-f23e-afbd-7a8d1f017932 >}}  
 _
 
 Team name in baby blue block letters next to baby's footprints.
@@ -214,7 +216,7 @@ Now working with it, I did find some problems. There is actually no stable basel
 
 To display the waveform the pressure sensor picked up, I used this code to make a simple oscilloscope with an Arduino ([http://accrochages.drone.ws/en/node/90](http://accrochages.drone.ws/en/node/90)). With this display, I tested out different methods of arranging the Velostat to make it work better. First, I tried bending the material like this:
 
-![velostat.jpg]({{< resource_file c5f61510-0371-fdfd-ca20-261cea0f3b62 >}})
+{{< resource c5f61510-0371-fdfd-ca20-261cea0f3b62 >}}
 
 Arrangement of Velostat during testing.
 

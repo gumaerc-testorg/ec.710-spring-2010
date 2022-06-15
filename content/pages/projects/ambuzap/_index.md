@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Blog entry cataloging student progress and the final presentation for
+  a group project on a portable low-cost defibrillator rechargeable through the ambulance's
+  power.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -16,7 +19,7 @@ Team: Divya Srinivasan, Michael Melgar, Krithika Shanmugasundaram, and Swetha Ka
 
 This content is presented courtesy of the students and used with permission.
 
-1 [2]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters) [Next]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters) >>
+1 {{% resource_link accd11b1-0193-bb3d-7f64-ff2b6e4efcd6 "2" %}} {{% resource_link accd11b1-0193-bb3d-7f64-ff2b6e4efcd6 "Next" %}} >>
 
 *   [Hello to our favorite superheroes!](#Hello_to_our)
 *   [Trains of thought](#Trains_of_Thought)
@@ -26,14 +29,14 @@ This content is presented courtesy of the students and used with permission.
 *   ["Day" flashes](#_Day__Flashes)
 *   [Making progress is wonderful! :)](#Making_Progress)
 *   [First attempt at the differential amplifier and noise filters done](#First_Attempt)
-*   [Explanation of the two filters]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters#Explanation)
-*   [Ideas for signal visualization]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters#Ideas_for_Signal_Visualization)
-*   [Shock delivery details]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters#Shock_Delivery_Details)
-*   [Meeting With Prof. Roger Mark]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters#Meeting_With_Prof._Roger_Mark)
-*   [Paul helped debug the differential amplifier]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters#Paul_Helped_Debug_the_Differential_Amplifier)
-*   [To Do List]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters#To_Do_List)
-*   [The Longest Yard]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters#The_Longest_Yard)
-*   [USAID Presentations]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters#USAID_Presentations)
+*   {{% resource_link accd11b1-0193-bb3d-7f64-ff2b6e4efcd6 "Explanation of the two filters" "#Explanation" %}}
+*   {{% resource_link accd11b1-0193-bb3d-7f64-ff2b6e4efcd6 "Ideas for signal visualization" "#Ideas_for_Signal_Visualization" %}}
+*   {{% resource_link accd11b1-0193-bb3d-7f64-ff2b6e4efcd6 "Shock delivery details" "#Shock_Delivery_Details" %}}
+*   {{% resource_link accd11b1-0193-bb3d-7f64-ff2b6e4efcd6 "Meeting With Prof. Roger Mark" "#Meeting_With_Prof._Roger_Mark" %}}
+*   {{% resource_link accd11b1-0193-bb3d-7f64-ff2b6e4efcd6 "Paul helped debug the differential amplifier" "#Paul_Helped_Debug_the_Differential_Amplifier" %}}
+*   {{% resource_link accd11b1-0193-bb3d-7f64-ff2b6e4efcd6 "To Do List" "#To_Do_List" %}}
+*   {{% resource_link accd11b1-0193-bb3d-7f64-ff2b6e4efcd6 "The Longest Yard" "#The_Longest_Yard" %}}
+*   {{% resource_link accd11b1-0193-bb3d-7f64-ff2b6e4efcd6 "USAID Presentations" "#USAID_Presentations" %}}
 
 {{< anchor "Hello_to_our" >}}{{< /anchor >}}Hello to our Favorite Superheroes!  
 _by Krithika Shanmugasundaram_
@@ -49,7 +52,7 @@ The motivation for our project was the simple (yet shocking, for me anyways) rea
 
 Our challenge is to incentivize the retention or, at least the return, of ambulance equipment. Ideas have included making modular instruments/equipment that would increase the ease of returning equipment to the ambulance and also make it look like it belongs more so in the ambulance than the hospital. This also combats the hazard of loose wires that are hanging from the inside of the ambulance since the equipment is literally ripped from walls it is attached to.
 
-![ambulance_interior.jpg]({{< resource_file c636ee58-1c8b-5e2f-64ba-5e51ada237d9 >}})
+{{< resource c636ee58-1c8b-5e2f-64ba-5e51ada237d9 >}}
 
 Photo by Anonymous MIT student. Hospitals had stripped the ambulance clean of its medical supplies.
 
@@ -159,7 +162,7 @@ After discussing with Jose, we decided to work on an ED, perhaps using a flash f
 _by Divya Srinivasan_
 ----------------------------------------------------------------------------------
 
-![electric_circuit.jpg]({{< resource_file eb93fdb1-9941-c8c4-d64f-66998d06fd24 >}})
+{{< resource eb93fdb1-9941-c8c4-d64f-66998d06fd24 >}}
 
 Photo courtesy of David Gossard, from the MIT OpenCourseWare site 2.003 Modeling Dynamics and Control I, Spring 2002. The electric circuit from a disposable camera.
 
@@ -193,4 +196,4 @@ After long, arduous hours at D-Lab, Divya and I have built three of the circuits
 
 [Back to top](#Portable_low-cost_defibrillator)
 
-1 [2]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters) [Next]({{< baseurl >}}/pages/projects/ambuzap/explanation-of-the-two-filters) >>
+1 {{% resource_link accd11b1-0193-bb3d-7f64-ff2b6e4efcd6 "2" %}} {{% resource_link accd11b1-0193-bb3d-7f64-ff2b6e4efcd6 "Next" %}} >>

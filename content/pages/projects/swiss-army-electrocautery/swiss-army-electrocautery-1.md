@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Page two of a blog entry cataloging student progress and the final presentation
+  for a group project on a combination scalpel and extendable electrocautery tip for
+  rural surgical procedures.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Swiss Army Electrocautery
@@ -9,7 +12,7 @@ title: Swiss Army Electrocautery - Page 2
 uid: 3afda621-10e0-e1d8-6bbf-98bd79ec4f99
 ---
 
-\<\< [Previous]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) [1]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) 2 [3]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2) [Next]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) >>
+\<\< {{% resource_link c540ebe0-0382-03ff-bd95-87abe902d3f4 "Previous" %}} {{% resource_link c540ebe0-0382-03ff-bd95-87abe902d3f4 "1" %}} 2 {{% resource_link bfbe597f-c281-aece-7644-2ceb2a3ff08d "3" %}} {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "Next" %}} >>
 
 {{< anchor "Tip_Ideas" >}}{{< /anchor >}}Tip Ideas
 --------------------------------------------------
@@ -166,7 +169,7 @@ What to do next:
 _by \[SG\]_
 --------------------------------------------------------------------------------
 
-![hand_written_notes.jpg]({{< resource_file 2f24a593-be39-e841-1bbc-620129eb8c0a >}})
+{{< resource 2f24a593-be39-e841-1bbc-620129eb8c0a >}}
 
 Final design plans for the "retractable antenna" model and the scalpel tip
 
@@ -192,4 +195,4 @@ The third thing we talked about was the design of the scalpel tip. We thought ab
 
 [Back to top](#Tip_Ideas)
 
-\<\< [Previous]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) [1]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) 2 [3]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-2) [Next]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) >>
+\<\< {{% resource_link c540ebe0-0382-03ff-bd95-87abe902d3f4 "Previous" %}} {{% resource_link c540ebe0-0382-03ff-bd95-87abe902d3f4 "1" %}} 2 {{% resource_link bfbe597f-c281-aece-7644-2ceb2a3ff08d "3" %}} {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "Next" %}} >>

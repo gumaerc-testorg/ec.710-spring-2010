@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, goals,
+  structure, text, grading, and the schedule of lecture topics, lab topics, and assignment
+  due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -53,7 +56,7 @@ Course Text
 
 Hilts, Philip J. _Rx for Survival: Why We Must Rise to the Global Health Challenge_. New York, NY: Penguin, 2007 (reprint). ISBN: 9780143037989.
 
-This text is supplemented by papers and resources listed on the [Lectures and Readings]({{< baseurl >}}/pages/lectures-and-readings) and [Labs and Readings]({{< baseurl >}}/pages/labs-and-readings) pages.
+This text is supplemented by papers and resources listed on the {{% resource_link 37dd8120-10d8-6590-5aa5-9b6e57afc6cb "Lectures and Readings" %}} and {{% resource_link 1053c86f-f8f7-3883-4828-1c0a87e6ec57 "Labs and Readings" %}} pages.
 
 Grading
 -------
