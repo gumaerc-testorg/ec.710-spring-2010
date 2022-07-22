@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: Blog entry cataloging student progress and the final presentation for
+  a group project on a labor contraction monitor for Nicaraguan hospitals.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: fd032552-908b-39df-9f46-c936d1092c8c
 title: BabyTrackr
 uid: bb097725-8aab-b7d2-7e42-559fcd0fbc98
@@ -12,7 +18,7 @@ Team: Maysun M. Hasan, Grace Yao, Karina Isaak, and anonymous MIT students \[LT\
 
 This content is presented courtesy of the students and used with permission.
 
-1 [2]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) [3]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) [Next]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) >>
+1 {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "2" %}} {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "3" %}} {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Next" %}} >>
 
 *   [Welcome to the Contraction Monitor team blog!](#Welcome)
 *   [April 15 Post](#April_15_Post)
@@ -23,25 +29,25 @@ This content is presented courtesy of the students and used with permission.
 *   [Team Info, Revised Problem Statement, Some early brainstorming thoughts (Pugh Chart, Design Specs)](#Team_Info)
 *   [Pitch](#Pitch)
 *   [Re-direction of our Project](#Re-direction)
-*   [The Smarts, and how we got there]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts#The_Smarts)
-*   [Updates 4/24]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts#Updates_4_24)
-*   [Research]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts#Research)
-*   [Quick Question]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts#Quick_Question)
-*   [Button logic pseudocode and visuals]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts#Button_Logic)
-*   [Meeting 4/28- What we're up to!]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts#Meeting_4_28-_)
-*   [EMG Plan]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts#EMG_Plan)
-*   [Playing around with different materials, toys and Arduinos]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts#Playing_Around)
-*   [Cloth patch for monitoring contractions!]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch#Cloth_Patch)
-*   [Home stretch]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch#Home_Stretch)
-*   [Response from Nicaragua]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch#Response_From)
-*   [Instructable]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch#Instructable)
-*   [Pennies for your muscles]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch#Pennies)
-*   [Convo with Dr. Acker]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch#Convo_with)
-*   [Radio awesomeness]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch#Radio_Awesomeness)
-*   [Logo]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch#Logo)
-*   [Alien Mind Control!!!]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch#Alien_Mind_)
-*   [Presentation at MIT Museum]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch#Presentation)
-*   [More action shots PLUS interested Physician from Brazil!]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch#More_Action_Shots_PLUS)
+*   {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "The Smarts, and how we got there" "#The_Smarts" %}}
+*   {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Updates 4/24" "#Updates_4_24" %}}
+*   {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Research" "#Research" %}}
+*   {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Quick Question" "#Quick_Question" %}}
+*   {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Button logic pseudocode and visuals" "#Button_Logic" %}}
+*   {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Meeting 4/28- What we're up to!" "#Meeting_4_28-_" %}}
+*   {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "EMG Plan" "#EMG_Plan" %}}
+*   {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Playing around with different materials, toys and Arduinos" "#Playing_Around" %}}
+*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Cloth patch for monitoring contractions!" "#Cloth_Patch" %}}
+*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Home stretch" "#Home_Stretch" %}}
+*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Response from Nicaragua" "#Response_From" %}}
+*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Instructable" "#Instructable" %}}
+*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Pennies for your muscles" "#Pennies" %}}
+*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Convo with Dr. Acker" "#Convo_with" %}}
+*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Radio awesomeness" "#Radio_Awesomeness" %}}
+*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Logo" "#Logo" %}}
+*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Alien Mind Control!!!" "#Alien_Mind_" %}}
+*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Presentation at MIT Museum" "#Presentation" %}}
+*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "More action shots PLUS interested Physician from Brazil!" "#More_Action_Shots_PLUS" %}}
 
 {{< anchor "Welcome" >}}{{< /anchor >}}Welcome to the Contraction Monitor team blog!  
 _by Grace Yao_
@@ -269,11 +275,11 @@ Thought for Ball contraction monitor: info sent to doctor's phone.
 
 **See below for our Pugh chart and Prelim Design Specs!**
 
-![pugh_chart.jpg]({{< resource_file 3609e5f4-369e-c324-572f-235d3dc9ac59 >}})
+{{< resource 3609e5f4-369e-c324-572f-235d3dc9ac59 >}}
 
 Pugh Chart
 
-![design_specifications.jpg]({{< resource_file 10cd268b-7e2c-93ff-8478-704c14b263a3 >}})
+{{< resource 10cd268b-7e2c-93ff-8478-704c14b263a3 >}}
 
 Design specifications
 
@@ -310,4 +316,4 @@ So:
 
 [Back to top](#Labor_contraction_monitor_for_Nicaraguan_hospitals)
 
-1 [2]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) [3]({{< baseurl >}}/pages/projects/baby-trackr/cloth-patch) [Next]({{< baseurl >}}/pages/projects/baby-trackr/the-smarts) >>
+1 {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "2" %}} {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "3" %}} {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Next" %}} >>

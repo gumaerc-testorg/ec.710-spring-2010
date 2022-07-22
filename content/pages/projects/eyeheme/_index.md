@@ -1,6 +1,13 @@
 ---
 content_type: page
+description: Blog entry cataloging student progress and the final presentation for
+  a group project on a non-invasive anemia diagnostic based on reflectance spectroscopy
+  from the eye.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: fd032552-908b-39df-9f46-c936d1092c8c
 title: EyeHeme
 uid: 50b2cdae-c3d8-7904-96ad-3dffc1b0dad5
@@ -12,7 +19,7 @@ Team: Seema Kacker, and anonymous MIT students \[AJ\] and \[KK\]
 
 This content is presented courtesy of the students and used with permission.
 
-1 [2]({{< baseurl >}}/pages/projects/eyeheme/eyeheme-1) [Next]({{< baseurl >}}/pages/projects/eyeheme/eyeheme-1) >>
+1 {{% resource_link f0a881e5-0cc4-23d7-a570-f619feff7140 "2" %}} {{% resource_link f0a881e5-0cc4-23d7-a570-f619feff7140 "Next" %}} >>
 
 *   [Design Challenge/Problem Statement/Design Specs/Selection Matrix](#Design_Challenge)
 *   [Noninvasive Anemia Diagnostic: Mission Accepted!](#Noninvasive_Anemia)
@@ -22,19 +29,19 @@ This content is presented courtesy of the students and used with permission.
 *   [Grad students are awesome!](#Grad_Students)
 *   [Roger, we have reflectance signal](#Roger__we_have)
 *   [T minus 108 hours…](#T_Minus_108_Hours_)
-*   [New Directions]({{< baseurl >}}/pages/projects/eyeheme/eyeheme-1#New_Directions)
-*   [The Quest for a Consistent Signal]({{< baseurl >}}/pages/projects/eyeheme/eyeheme-1#The_Quest_for_a_Consistent_Signal)
-*   [Team Dx presents the eyeHeme at the D-Lab Museum Showcase]({{< baseurl >}}/pages/projects/eyeheme/eyeheme-1#Team_Dx_Presents)
-*   [My relationship with the eye]({{< baseurl >}}/pages/projects/eyeheme/eyeheme-1#My_relationship)
-*   [Elevator Pitch]({{< baseurl >}}/pages/projects/eyeheme/eyeheme-1#Elevator_Pitch)
-*   [Fact Sheet from Museum Showcase]({{< baseurl >}}/pages/projects/eyeheme/eyeheme-1#Fact_Sheet_from)
-*   [Posters and Presentations]({{< baseurl >}}/pages/projects/eyeheme/eyeheme-1#Posters_and_Presentations)
-*   [Biosense gets recognition]({{< baseurl >}}/pages/projects/eyeheme/eyeheme-1#Biosense_Gets_Recognition)
+*   {{% resource_link f0a881e5-0cc4-23d7-a570-f619feff7140 "New Directions" "#New_Directions" %}}
+*   {{% resource_link f0a881e5-0cc4-23d7-a570-f619feff7140 "The Quest for a Consistent Signal" "#The_Quest_for_a_Consistent_Signal" %}}
+*   {{% resource_link f0a881e5-0cc4-23d7-a570-f619feff7140 "Team Dx presents the eyeHeme at the D-Lab Museum Showcase" "#Team_Dx_Presents" %}}
+*   {{% resource_link f0a881e5-0cc4-23d7-a570-f619feff7140 "My relationship with the eye" "#My_relationship" %}}
+*   {{% resource_link f0a881e5-0cc4-23d7-a570-f619feff7140 "Elevator Pitch" "#Elevator_Pitch" %}}
+*   {{% resource_link f0a881e5-0cc4-23d7-a570-f619feff7140 "Fact Sheet from Museum Showcase" "#Fact_Sheet_from" %}}
+*   {{% resource_link f0a881e5-0cc4-23d7-a570-f619feff7140 "Posters and Presentations" "#Posters_and_Presentations" %}}
+*   {{% resource_link f0a881e5-0cc4-23d7-a570-f619feff7140 "Biosense gets recognition" "#Biosense_Gets_Recognition" %}}
 
 {{< anchor "Design_Challenge" >}}{{< /anchor >}}Design Challenge/Problem Statement/Design Specs/Selection Matrix
 ----------------------------------------------------------------------------------------------------------------
 
-![Design.jpg]({{< resource_file c0026ac6-56cb-c8bb-c94e-ec976c1d9c2a >}})
+{{< resource c0026ac6-56cb-c8bb-c94e-ec976c1d9c2a >}}
 
 ### Problem or Need
 
@@ -50,9 +57,9 @@ This equipment can be used any time a pulse ox or anemia diagnostic is needed. I
 
 **Readout declares:**
 
-*   9.5 < Hb < 11 = mildly anemic.
-*   7 < Hb < 9.5 = moderate anemia
-*   Hb < 7 = severe anemia. AND/OR similar using hematocrit. (Hct ~ 3 \* Hb).
+*   9.5 \< Hb \< 11 = mildly anemic.
+*   7 \< Hb \< 9.5 = moderate anemia
+*   Hb \< 7 = severe anemia. AND/OR similar using hematocrit. (Hct ~ 3 \* Hb).
 
 Correlation value w/ established lab test, r > 0.75
 
@@ -60,9 +67,9 @@ Sensitivity > 80%
 
 Specificity > 60%
 
-< $100 for device (could be subsidized w/ US sales)
+\< $100 for device (could be subsidized w/ US sales)
 
-<$0.50 per test (average maintenance, power consumption, sterilization, etc)
+\<$0.50 per test (average maintenance, power consumption, sterilization, etc)
 
 ### How is the Local User Community Approaching thePproblem? What Type of Improvised, or Local Solutions are Being Used?
 
@@ -123,14 +130,14 @@ Design Specifications
 
 Readout declares:
 
-*   9.5 < Hb < 11 = mildly anemic.
-*   7 < Hb < 9.5 = moderate anemia
-*   Hb < 7 = severe anemia. AND/OR similar using hematocrit. (Hct ~ 3 \* Hb).
+*   9.5 \< Hb \< 11 = mildly anemic.
+*   7 \< Hb \< 9.5 = moderate anemia
+*   Hb \< 7 = severe anemia. AND/OR similar using hematocrit. (Hct ~ 3 \* Hb).
 *   Correlation value w/ established lab test, r > 0.75
 *   Sensitivity > 80%
 *   Specificity > 60%
-*   < $100 for device (could be subsidized w/ US sales)
-*   <$0.50 per test (average maintenance, power consumption, sterilization, etc)
+*   \< $100 for device (could be subsidized w/ US sales)
+*   \<$0.50 per test (average maintenance, power consumption, sterilization, etc)
 
 Selection Matrix
 ----------------
@@ -774,7 +781,7 @@ Our comment: The gold standard for diagnosing anemia is drawing blood and gettin
 
 **A Problem: How will we make sure that the signal we are getting out is from the blood vessels, the Hb? This tissue will also be reflecting back at the incident wavelength…**
 
-![tissue.jpg]({{< resource_file 354419f1-a8d8-b481-145b-3db936a11bad >}})
+{{< resource 354419f1-a8d8-b481-145b-3db936a11bad >}}
 
 Tissue reflectance
 
@@ -795,7 +802,7 @@ Yes! We love prototyping breakthroughs! Here's a nice timeline:
 
 **Big breakthrough 1:** We decided not open up and destroy the ophthalmoscope, (even though it is fun to break things and not be able to put them back together), and decided to **place the red LED, hooked up to the Arduino, into the place where the normal halogen lamp is in the ophthalmoscope**. This makes a lot of sense because since the LED is such a diffuse light source, we were having problems collimating the light and making sure that incident light was not hitting the detector (we want the reflected light off of the sample to hit the detector). For a while we were trying to figure out ways to manipulate the light and put a physical barrier in front so that we could avoid this problem, but we forgot that we had the ophthalmoscope head, that does exactly what we want it to do! Let me explain a bit:
 
-![EyeHeme_slide12.jpg]({{< resource_file 385fa09b-eefd-ee38-555d-6883e74f7bc2 >}})
+{{< resource 385fa09b-eefd-ee38-555d-6883e74f7bc2 >}}
 
 Image by MIT OpenCourseWare.
 
@@ -833,4 +840,4 @@ P.S. Inkscape is an _amazing_ tool for poster-making. And it's open source!
 
 [Back to top](#Non-invasive_anemia_)
 
-1 [2]({{< baseurl >}}/pages/projects/eyeheme/eyeheme-1) [Next]({{< baseurl >}}/pages/projects/eyeheme/eyeheme-1) >>
+1 {{% resource_link f0a881e5-0cc4-23d7-a570-f619feff7140 "2" %}} {{% resource_link f0a881e5-0cc4-23d7-a570-f619feff7140 "Next" %}} >>

@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: Page two of a blog entry cataloging student progress and the final presentation
+  for a group project on a non-invasive anemia diagnostic based on reflectance spectroscopy
+  from the eye.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: EyeHeme
+parent_type: CourseSection
 parent_uid: 50b2cdae-c3d8-7904-96ad-3dffc1b0dad5
 title: EyeHeme - Page 2
 uid: f0a881e5-0cc4-23d7-a570-f619feff7140
 ---
 
-<< [Previous]({{< baseurl >}}/pages/projects/eyeheme) [1]({{< baseurl >}}/pages/projects/eyeheme) 2
+\<\< {{% resource_link 50b2cdae-c3d8-7904-96ad-3dffc1b0dad5 "Previous" %}} {{% resource_link 50b2cdae-c3d8-7904-96ad-3dffc1b0dad5 "1" %}} 2
 
 {{< anchor "New_Directions" >}}{{< /anchor >}}New Directions
 ------------------------------------------------------------
@@ -19,7 +25,7 @@ Seema suggested: Why do we need to only get the reflectance signal? We could sub
 
 So that's where we proceeded… and made this makeshift prototype:
 
-![led.jpg]({{< resource_file 3a2f8f09-94be-1f0e-cca3-ff03e8901ccc >}})
+{{< resource 3a2f8f09-94be-1f0e-cca3-ff03e8901ccc >}}
 
 Prototype
 
@@ -42,7 +48,7 @@ Seema talked with Andrew Berger from the spectroscopy lab at MIT, and he gave us
 
 **Prototype 1:** Superbright red led + cuvettes of watered-down paint
 
-![prototype_1.jpg]({{< resource_file 8e81a760-e8c7-17fb-c883-544c67011d7c >}})
+{{< resource 8e81a760-e8c7-17fb-c883-544c67011d7c >}}
 
 Prototype 1
 
@@ -54,7 +60,7 @@ So after talking with a Professor Andrew Berger, we tried a different design!
 
 **Prototype 2:** Red laser + pools of dyed milk
 
-![prototype_2.jpg]({{< resource_file 6c923762-3009-12bf-d5c2-a74c7caaba9d >}})
+{{< resource 6c923762-3009-12bf-d5c2-a74c7caaba9d >}}
 
 Prototype 2
 
@@ -66,7 +72,7 @@ So… we took it to D-Shop.
 
 **Prototype 3:** Constructed setup + red laser + pool of dyed milk
 
-![prototype_3.jpg]({{< resource_file 8f081878-0f12-da51-ad0a-383810594341 >}})
+{{< resource 8f081878-0f12-da51-ad0a-383810594341 >}}
 
 Prototype 3
 
@@ -119,7 +125,7 @@ Extraneous Personal background:
 
 *   I like eyes. Aside from serving as a rich medical diagnostic tool, a person's eyes are a medium for emotional expression. Haven't you ever seen someone’s eyes smile?
 *   I'm not very good at drawing in general, but I remember that when I was about 11, I took an art class over the summer and managed to get through it by drawing eyes for most of my projects. The toughest part was trying to make each eye in a pair compatible with the other, but I managed to escape this by drawing only one in some more…abstract form.
-*   Some people are taken back by any sort of touching of the eye, but I've been comfortable with it from a young age. I think I first started wearing glasses in 2nd grade, and I've had contacts since middle school. My vision is terrible (about -8.0 in both eyes) and I've spent a large amount of time and money on diagnostic eye exams, prescription lens fittings, treatment for eye ulcers, etc. And because my brother also has terrible vision and when we were younger I went along with him to eye exams and our doctor allowed me to peer into her ophthalmoscope, I've been able to gain an appreciation for the complexity and elegance of this organ.
+*   Some people are taken back by any sort of touching of the eye, but I've been comfortable with it from a young age. I think I first started wearing glasses in 2{{< sup "nd" >}} grade, and I've had contacts since middle school. My vision is terrible (about -8.0 in both eyes) and I've spent a large amount of time and money on diagnostic eye exams, prescription lens fittings, treatment for eye ulcers, etc. And because my brother also has terrible vision and when we were younger I went along with him to eye exams and our doctor allowed me to peer into her ophthalmoscope, I've been able to gain an appreciation for the complexity and elegance of this organ.
 
 Please note that I do not prescribe to alternative medicine techniques like "eyelogy" or "iridology" or "scelerology." My impression is that although the eye can be a very useful tool for some diagnostic purposes, these fields are generally accepted as bogus.
 
@@ -173,11 +179,11 @@ This can involve:
 *   A leading cause of global burden of disease, associated with severe morbidity, mortality, and birth complications
 *   Substantial Economic Impact (lost productivity, lost life)
 
-![Eye_Heme_Slide3Top.jpg]({{< resource_file 474632db-22c4-4040-aed4-e7e87def2fd7 >}})
+{{< resource 474632db-22c4-4040-aed4-e7e87def2fd7 >}}
 
 Courtesy of The World Bank. Used with permission.
 
-![Eye_Heme_Slide3Bottom.jpg]({{< resource_file fe538802-3999-0477-411b-13cecd91ed12 >}})
+{{< resource fe538802-3999-0477-411b-13cecd91ed12 >}}
 
 Courtesy of The World Bank. Used with permission.
 
@@ -201,7 +207,7 @@ Courtesy of The World Bank. Used with permission.
 *   Use of insecticide-treated materials and bed nets, particularly by at-risk groups, to prevent anemia
 *   Deworming (anthelminthics) in at-risk groups
 
-![world_map.jpg]({{< resource_file 050a2f3c-a805-561a-9078-de0726b4f2bd >}})
+{{< resource 050a2f3c-a805-561a-9078-de0726b4f2bd >}}
 
 Courtesy of the World Health Organization. Used with permission. For complete publication, see de Benoist, Bruno, Erin McLean, Ines Egli, and Mary Cogswell, eds. "Worldwide Prevalence of Anaemia 1993-2005: WHO Global Database on Anaemia." Geneva, Switzerland: WHO Press, 2008.
 
@@ -217,7 +223,7 @@ Reference: [http://www.who.int/topics/anaemia/en/](http://www.who.int/topics/ana
 
 Obvious changes in the palpebral conjunctiva → useful for diagnostic purposes?
 
-![eyes.jpg]({{< resource_file 54ae5249-f856-a245-ac67-c3e480ca8218 >}})
+{{< resource 54ae5249-f856-a245-ac67-c3e480ca8218 >}}
 
 Courtesy of Society of Photo Optical Instrumentation Engineers. Used with permission. For complete article, see McCurdy, John W. et al. "Diffuse Reflectance Spectra of the Palpebral Conjunctiva and its Utility as a Noninvasive Indicator of Total Hemoglobin." _Journal of Biomedical Optics_ 11, no. 1 (2006): 014019.
 
@@ -245,4 +251,4 @@ But congrats to Biosense for drawing more attention to the worldwide anemia prob
 
 [Back to top](#New_Directions)
 
-<< [Previous]({{< baseurl >}}/pages/projects/eyeheme) [1]({{< baseurl >}}/pages/projects/eyeheme) 2
+\<\< {{% resource_link 50b2cdae-c3d8-7904-96ad-3dffc1b0dad5 "Previous" %}} {{% resource_link 50b2cdae-c3d8-7904-96ad-3dffc1b0dad5 "1" %}} 2

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page presents an outline of lab topics and required readings.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Labs and Readings
 uid: 1053c86f-f8f7-3883-4828-1c0a87e6ec57
 ---
@@ -108,7 +111,7 @@ Sia, Samuel K., and Larry J. Kricka. "[Microfluidics and Point-of-Care Testing](
 
 Sia, Samuel K., and George M. Whitesides. "[Microfluidic Devices Fabricated in Poly(dimethylsiloxane) for Biological Studies](http://onlinelibrary.wiley.com/doi/10.1002/elps.200305584/abstract)." _Electrophoresis_ 24, no. 21 (2003): 3563-76.
 
-U.S. CDC and WHO. "Overview of HIV Testing Technologies." Module 3 in [_HIV Rapid Testing Training Package, Participant Manual_](https://www.who.int/diagnostics_laboratory/documents/guidance/hivrttraining_participant/en/), 2005. ([PDF]({{< baseurl >}}/resources/mitec_710s10_rd5_hiv_tst))
+U.S. CDC and WHO. "Overview of HIV Testing Technologies." Module 3 in [_HIV Rapid Testing Training Package, Participant Manual_](https://www.who.int/diagnostics_laboratory/documents/guidance/hivrttraining_participant/en/), 2005. ({{% resource_link 6fa74a1e-d07e-24c6-e080-e27c6e91e642 "PDF" %}})
 
 
 {{< tdclose >}}

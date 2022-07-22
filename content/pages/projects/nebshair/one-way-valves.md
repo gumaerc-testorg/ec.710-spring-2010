@@ -1,18 +1,24 @@
 ---
 content_type: page
+description: Page two of a blog entry cataloging student progress and the final presentation
+  for a group project on a breath-actuated, dosage-monitoring attachment for jet nebulizers
+  to treat multiple patients for respiratory illnesses.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Nebshair
+parent_type: CourseSection
 parent_uid: f60fa61f-6f4f-bdf5-5fa7-cf2c4c4b918f
 title: Nebshair - Page 2
 uid: 8c3a3d5c-2820-b60c-8818-e9cf57c805e1
 ---
 
-<< [Previous]({{< baseurl >}}/pages/projects/nebshair) [1]({{< baseurl >}}/pages/projects/nebshair) 2
+\<\< {{% resource_link f60fa61f-6f4f-bdf5-5fa7-cf2c4c4b918f "Previous" %}} {{% resource_link f60fa61f-6f4f-bdf5-5fa7-cf2c4c4b918f "1" %}} 2
 
 {{< anchor "One-Way_Valves" >}}{{< /anchor >}}One-Way Valves  
 _by Mary Jue Xu_
 -------------------------------------------------------------------------------
 
-![valve_cut_outs.jpg]({{< resource_file 84742882-fa27-4393-bc3f-b87cb324c37a >}})
+{{< resource 84742882-fa27-4393-bc3f-b87cb324c37a >}}
 
 Designs for valve cut-outs
 
@@ -82,7 +88,7 @@ We need to create a standard for the amount of particles flowing through based o
 _by Mary Jue Xu_
 -----------------------------------------------------------------------------------------------------------
 
-![sensor_setup.jpg]({{< resource_file 893e3add-ef19-cd90-cb85-f92b09a0f5af >}})
+{{< resource 893e3add-ef19-cd90-cb85-f92b09a0f5af >}}
 
 Vapor sensor setup
 
@@ -97,15 +103,15 @@ Today to build the initial vapor pressure prototype, we connected 4 tube ends wi
 {{< anchor "Photos_of_Testing" >}}{{< /anchor >}}Photos of Testing
 ------------------------------------------------------------------
 
-![testing.jpg]({{< resource_file 25e4f514-ad60-ab62-15cd-8c62b1aa477c >}})
+{{< resource 25e4f514-ad60-ab62-15cd-8c62b1aa477c >}}
 
 Testing the nebulizer
 
-![breadboard_circuit.jpg]({{< resource_file ae3ba528-091e-6818-33bc-92195e3d9ede >}})
+{{< resource ae3ba528-091e-6818-33bc-92195e3d9ede >}}
 
 Breadboard circuit
 
-![complete_setup.jpg]({{< resource_file 445b0e71-dc1f-ae18-4bea-c0599ffd1da1 >}})
+{{< resource 445b0e71-dc1f-ae18-4bea-c0599ffd1da1 >}}
 
 Complete setup
 
@@ -127,7 +133,7 @@ We got a lot of testing done and have these components at least working separate
 
 I looked specifically at the **System Pressure monitoring of the System**. We drove the air compressor by a voltage source, connected it to the nebulizer cup (using any type of connectors we could make work), placed a Vernier Gas Pressure sensor inside the reservoir that communicated with a LoggerPro and the accompanying software, and connected the reservoir to a tube with a one-way valve placed at the end. We were exploring 0.07 psi and 1.5 psi valves. The following labeled photograph shows the experimental setup!
 
-![experimental_setup.jpg]({{< resource_file 8804b46f-4aba-2019-dc70-fff6c479d339 >}})
+{{< resource 8804b46f-4aba-2019-dc70-fff6c479d339 >}}
 
 Experimental setup
 
@@ -140,7 +146,7 @@ Experimental setup
 *   The system kept leaking which is why the pressure was constant while flowing air through the system without opening the valve, however when we made attempts to seal these leaks, the pressure would quickly increase and pop the lid of the container.
 *   While sealing leaks, pressure was able to be maintained relatively constant when we activated the valves (breathed in) which is positive. The highlighted portion of the graph below shows consistency due to breathing in (while the others are due to leakage). Peaks occur when the lid pops off the container.
 
-![pressure.jpg]({{< resource_file 3b4eb45b-36e6-f63f-aba6-4b4c8fb0ad14 >}})
+{{< resource 3b4eb45b-36e6-f63f-aba6-4b4c8fb0ad14 >}}
 
 Pressure-vs.-time data
 
@@ -231,13 +237,13 @@ digitalWrite(dosePin, HIGH);
 
 sensorValue = analogRead(sensorPin); // defines analog output from the sensor as "sensorValue"
 
-if (sensorValue >= threshold && lastsensorValue <= threshold){
+if (sensorValue >= threshold && lastsensorValue \<= threshold){
 
 startTime = millis();
 
 }
 
-if (sensorValue <= threshold && lastsensorValue >= threshold){
+if (sensorValue \<= threshold && lastsensorValue >= threshold){
 
 elapsedTime = millis() - startTime;
 
@@ -278,4 +284,4 @@ This summer, we will be in China, New York, and Boston, so maybe some of us can 
 
 [Back to top](#One-Way_Valves)
 
-<< [Previous]({{< baseurl >}}/pages/projects/nebshair) [1]({{< baseurl >}}/pages/projects/nebshair) 2
+\<\< {{% resource_link f60fa61f-6f4f-bdf5-5fa7-cf2c4c4b918f "Previous" %}} {{% resource_link f60fa61f-6f4f-bdf5-5fa7-cf2c4c4b918f "1" %}} 2

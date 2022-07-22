@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: Page three of a blog entry cataloging student progress and the final
+  presentation for a group project on a combination scalpel and extendable electrocautery
+  tip for rural surgical procedures.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Swiss Army Electrocautery
+parent_type: CourseSection
 parent_uid: c540ebe0-0382-03ff-bd95-87abe902d3f4
 title: Swiss Army Electrocautery - Page 3
 uid: bfbe597f-c281-aece-7644-2ceb2a3ff08d
 ---
 
-<< [Previous]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) [1]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) [2]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) 3
+\<\< {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "Previous" %}} {{% resource_link c540ebe0-0382-03ff-bd95-87abe902d3f4 "1" %}} {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "2" %}} 3
 
 {{< anchor "Response_to_Dennis_Meeting" >}}{{< /anchor >}}Response to Dennis Meeting  
 _by Sonya Makhni_
@@ -123,7 +129,7 @@ Other metals such as gold, silver, and platinum have lower heat capacities than 
 _by \[AK\]_
 ----------------------------------------------------------------------------------------
 
-![possible_tip.jpg]({{< resource_file 8f70f4e4-c8ab-a2cf-8db1-dd52a73fe89b >}})
+{{< resource 8f70f4e4-c8ab-a2cf-8db1-dd52a73fe89b >}}
 
 Possible tip designs
 
@@ -138,8 +144,8 @@ This Pugh Chart indicates that our design is quite useful. The only design that 
 
 I'm also uploading the old one so we can compare and see how our ideas have changed/how we got to where we are with the project.
 
-Final Pugh Chart ([PDF]({{< baseurl >}}/resources/mitec_710s10_sarm_elecpc))
+Final Pugh Chart ({{% resource_link 8cc6ea04-5efc-aa83-a62b-51fbfeef6655 "PDF" %}})
 
 [Back to top](#Response_to_Dennis_Meeting)
 
-<< [Previous]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) [1]({{< baseurl >}}/pages/projects/swiss-army-electrocautery) [2]({{< baseurl >}}/pages/projects/swiss-army-electrocautery/swiss-army-electrocautery-1) 3
+\<\< {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "Previous" %}} {{% resource_link c540ebe0-0382-03ff-bd95-87abe902d3f4 "1" %}} {{% resource_link 3afda621-10e0-e1d8-6bbf-98bd79ec4f99 "2" %}} 3

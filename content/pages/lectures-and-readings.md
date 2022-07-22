@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, links to readings,
+  and lecture materials for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lectures and Readings
 uid: 37dd8120-10d8-6590-5aa5-9b6e57afc6cb
 ---
@@ -37,7 +41,7 @@ READINGS
 Introduction, global health overview
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4MB]({{< baseurl >}}/resources/mitec_710s10_lecture1_ocw))
+Slides ({{% resource_link 621eb64a-6778-4767-c89d-af1805b04dbd "PDF - 2.4MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -87,7 +91,7 @@ Flinn, Edward D. "Ouch-less Injections." _Popular Science_, October 1998. \[Read
 Infectious diseases
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF - 3.5MB]({{< baseurl >}}/resources/mitec_710s10_infecdses_ocw))
+Slides ({{% resource_link 39a1241e-8fa5-b340-f4d5-0595c2277164 "PDF - 3.5MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -111,7 +115,7 @@ Disease Control Priorities Project. [_Disease Control Priorities in Developing C
 \- Chapter 30, "Diabetes: The Pandemic and Potential Solutions." by K. M. Venkat Narayan, et al.  
 \- Chapter 33, "Cardiovascular Disease." by Thomas A. Gaziano, et al.
 
-International Atomic Energy Agency. _A Silent Crisis: Cancer Treatment in Developing Countries_. September 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://screening.iarc.fr/doc/treatingcancer.pdf))
+International Atomic Energy Agency. _A Silent Crisis: Cancer Treatment in Developing Countries_. September 2003. ([PDF](http://screening.iarc.fr/doc/treatingcancer.pdf))
 
 McNeil Jr., Donald G. "[In India, a Quest to Ease the Pain of the Dying](http://www.nytimes.com/2007/09/11/health/11pain.html?_r=3)." _New York Times_, September 11, 2007.
 
@@ -131,7 +135,7 @@ Monroy-Hernandez, Andres, and Leo Anthony Celi, MD. "ICT4D to Scale Cervical Can
 Capturing heart and lung sounds on a mobile phone – guest lecture by Katherine Kuan
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB]({{< baseurl >}}/resources/mitec_710s10_lecture5)). Courtesy of Katherine Kuan.
+Slides ({{% resource_link c88f190b-7f46-e18f-2626-623dbb73b1c0 "PDF - 1.4MB" %}}). Courtesy of Katherine Kuan.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -146,18 +150,18 @@ Slides (![This resource may not render correctly in a screen reader.](/images/in
 Advances in telemedicine and patient monitoring
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF]({{< baseurl >}}/resources/mitec_710s10_lecture6)). Courtesy of Gari Clifford. Presentation from Spring 2009 edition of D-Lab Health.
+Slides ({{% resource_link bc35b623-e4fb-51d8-7c2d-89a7caad1a68 "PDF" %}}). Courtesy of Gari Clifford. Presentation from Spring 2009 edition of D-Lab Health.
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 Martinez, Andres W., et al. "[Simple Telemedicine for Developing Regions: Camera Phones and Paper-Based Microfluidic Devices for Real-Time, Off-Site Diagnosis](http://dx.doi.org/10.1021/ac800112r)." _Analytical Chemistry_ 80 (2008): 3699-707.
 
-Szot, Agneiszka, et al. "Diagnostic Accuracy of Chest X-rays Acquired Using a Digital Camera for Low-cost Teleradiology." _International Journal of Medical Informatics_ 73 (2004): 65-73. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.sciencedirect.com/science/article/pii/S138650560300159X?via%3Dihub))
+Szot, Agneiszka, et al. "Diagnostic Accuracy of Chest X-rays Acquired Using a Digital Camera for Low-cost Teleradiology." _International Journal of Medical Informatics_ 73 (2004): 65-73. ([PDF](https://www.sciencedirect.com/science/article/pii/S138650560300159X?via%3Dihub))
 
 amithap1982. "CytoSight a Telepathology Solution by KTwo powered by Intel." February 4, 2009. YouTube. Accessed August 25, 2009. [http://www.youtube.com/watch?v=ssp4cJyfOEU](http://www.youtube.com/watch?v=ssp4cJyfOEU).
 
-Gomez-Marquez, Jose. "The Challenges of Teaching and Learning Creativity." Supplemental reading for D-Lab Health, 2010. ([PDF]({{< baseurl >}}/resources/mitec_710s10_lesn_on_cret))
+Gomez-Marquez, Jose. "The Challenges of Teaching and Learning Creativity." Supplemental reading for D-Lab Health, 2010. ({{% resource_link 7de3270c-8328-d5d8-40bd-bd46450c8ce0 "PDF" %}})
 
 [Zoomify Enterprise](http://www.zoomify.com/enterprise.htm) - a telepathology software interface.
 
@@ -173,7 +177,7 @@ Gomez-Marquez, Jose. "The Challenges of Teaching and Learning Creativity." Suppl
 Vaccines
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF - 1.1MB]({{< baseurl >}}/resources/mitec_710s10_vaccines_ocw))
+Slides ({{% resource_link 269c1ca2-edd4-6af3-572a-66b7b6742b96 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -208,7 +212,7 @@ Chowdury, Zafrin. "[Bangladesh Launches Mass Immunization Campaign after Polio R
 Arduous Arduino – guest lecture by Paul Hlebowitsh
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF - 1.8MB]({{< baseurl >}}/resources/mitec_710s10_arduino)). Courtesy of Paul Hlebowitsh. Used with permission.
+Slides ({{% resource_link 51cb9d78-c49d-a800-3800-97df4d996d15 "PDF - 1.8MB" %}}). Courtesy of Paul Hlebowitsh. Used with permission.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -271,7 +275,7 @@ Prototyping of medical devices
 Neglected tropical diseases
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF - 1.5MB]({{< baseurl >}}/resources/mitec_710s10_neg_dis_ocw))
+Slides ({{% resource_link 2cd004c4-6bd0-69f4-48d8-39764ea83e64 "PDF - 1.5MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -280,7 +284,7 @@ Enserink, Martin. "[Some Neglected Diseases Are More Neglected Than Others](http
 
 Yager, Paul, Gonzalo J. Domingo, and John Gerdes. "[Point-of-Care Diagnostics for Global Health](http://dx.doi.org/10.1146/annurev.bioeng.10.061807.160524)." A_nnual Review of Biomedical Engineering_ 10 (2008): 107-44.
 
-Moran, Mary et al. "Neglected Disease Research and Development: How Much Are We Really Spending?" _PLoS Medicine_ 6, no. 2 (2009). ([PDF - 1.1MB]({{< baseurl >}}/resources/mitec_710s10_hwmchrvspen))
+Moran, Mary et al. "Neglected Disease Research and Development: How Much Are We Really Spending?" _PLoS Medicine_ 6, no. 2 (2009). ({{% resource_link 86481bf0-e922-d983-f669-ea1967fadbab "PDF - 1.1MB" %}})
 
 
 {{< tdclose >}}
@@ -520,9 +524,9 @@ Supplemental Readings
 Supporting material for the course textbook (_Rx for Survival_)
 
 *   [_Rx for Survival: A Global Health Challenge_](http://www.pbs.org/wgbh/rxforsurvival/index.html). This 2005 PBS television series, available on DVD, plus associated web resources, coincided with the book's publication.
-*   Reader's Guide to _Rx for Survival_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.pbs.org/wgbh/rxforsurvival/pdf/Rx_PenguinReadGuide.pdf))
+*   Reader's Guide to _Rx for Survival_ ([PDF](http://www.pbs.org/wgbh/rxforsurvival/pdf/Rx_PenguinReadGuide.pdf))
 
-Geelhoed, Glenn W. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Surgery and Healing in the Developing World. (PDF - 4.71MB)_](https://www.rnfa.org/wp-content/uploads/2016/12/Surgery-Developing-World-Geelhoed.pdf) Georgetown, TX: Landes Biosciences, 2005. \[a complete online text\]
+Geelhoed, Glenn W. [_Surgery and Healing in the Developing World. (PDF - 4.71MB)_](https://www.rnfa.org/wp-content/uploads/2016/12/Surgery-Developing-World-Geelhoed.pdf) Georgetown, TX: Landes Biosciences, 2005. \[a complete online text\]
 
 Werner, David, Carol Thurman, and Jane Maxwell. [_Where There Is No Doctor: A Village Health Care Handbook_](http://www.hesperian.org/publications_download_wtnd.php). Updated. 2nd ed. Berkely, CA: Hesperian Foundation, 1992. ISBN: 9780942364156.
 

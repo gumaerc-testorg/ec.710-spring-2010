@@ -1,6 +1,13 @@
 ---
 content_type: page
+description: Blog entry cataloging student progress and the final presentation for
+  a group project on a breath-actuated, dosage-monitoring attachment for jet nebulizers
+  to treat multiple patients for respiratory illnesses.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: fd032552-908b-39df-9f46-c936d1092c8c
 title: Nebshair
 uid: f60fa61f-6f4f-bdf5-5fa7-cf2c4c4b918f
@@ -12,7 +19,7 @@ Team: Caroline Hane-Weijman, Shan Tie, Mary Jue Xu, and anonymous MIT student \[
 
 This content is presented courtesy of the students and used with permission.
 
-1 [2]({{< baseurl >}}/pages/projects/nebshair/one-way-valves) [Next]({{< baseurl >}}/pages/projects/nebshair/one-way-valves) >>
+1 {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "2" %}} {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Next" %}} >>
 
 *   [Ideas Right Now](#Ideas_Right_Now)
 *   [Problem and Background Information Gathering](#Problem_and_Background)
@@ -24,15 +31,15 @@ This content is presented courtesy of the students and used with permission.
 *   [Design Update: Playing with Nebulizer Reservoir](#Design_Update)
 *   [Background on anti-static coating for the reservoir surface to minimize aerosol particle coagulation](#Background_on_Anti-Static)
 *   [Pictures of our Reservoir Prototyping Round 1](#Pictures_of_our_Reservoir)
-*   [One-Way Valves]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#One-Way_Valves)
-*   [Preliminary vapor quantity testing]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#Preliminary_Vapor_Quantity_Testing)
-*   [Vapor Sensor: Physical setup]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#Vapor_Sensor:_Physical_Setup)
-*   [Photos of Testing]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#Photos_of_Testing)
-*   [Prototyping and Testing]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#Prototyping_and_Testing)
-*   [General Project Overview & Ryan Assistance]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#General_Project_Overview)
-*   [D-Lab Showcase!]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#D-Lab_Showcase_)
-*   [Vapor quantity testing part 2]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#Vapor_Quantity_Testing_Part_2)
-*   [Mini Update]({{< baseurl >}}/pages/projects/nebshair/one-way-valves#Mini_Update)
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "One-Way Valves" "#One-Way_Valves" %}}
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Preliminary vapor quantity testing" "#Preliminary_Vapor_Quantity_Testing" %}}
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Vapor Sensor: Physical setup" "#Vapor_Sensor:_Physical_Setup" %}}
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Photos of Testing" "#Photos_of_Testing" %}}
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Prototyping and Testing" "#Prototyping_and_Testing" %}}
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "General Project Overview & Ryan Assistance" "#General_Project_Overview" %}}
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "D-Lab Showcase!" "#D-Lab_Showcase_" %}}
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Vapor quantity testing part 2" "#Vapor_Quantity_Testing_Part_2" %}}
+*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Mini Update" "#Mini_Update" %}}
 
 {{< anchor "Ideas_Right_Now" >}}{{< /anchor >}}Ideas Right Now  
 _by Mary Jue Xu_
@@ -40,7 +47,7 @@ _by Mary Jue Xu_
 
 Our blog begins! Many things have happened over the past few weeks, including speaking to many experts at Children's Hospital in Boston. (We will post noted from that shortly. In summary, there are three large areas of focus for improving the nebulizer: dosage, interface, and sterilization. We decided to focus on dosage.
 
-Initially, we started off with the idea of capnography, in which we would measure CO2 exhaled to correlate to dosage intake. The design would have to incorporate the fact that CO2 does not directly link to the dosage. For example, maybe the nebulizer outlet is far from the mouth or the patient breaths out too fast. Also, a physician at the Children's Hospital informed us that a baby's exhale was not enough to be measured with capnography.
+Initially, we started off with the idea of capnography, in which we would measure CO{{< sub "2" >}} exhaled to correlate to dosage intake. The design would have to incorporate the fact that CO{{< sub "2" >}} does not directly link to the dosage. For example, maybe the nebulizer outlet is far from the mouth or the patient breaths out too fast. Also, a physician at the Children's Hospital informed us that a baby's exhale was not enough to be measured with capnography.
 
 So, it was back to the drawing boards. Right now, we are focused upon an attachment to the current compressed air nebulizers that will allow 1) dosage to be monitored and 2) multiple patients to use it. So off the end of the nebulizer motor, image a the medicine being pumped into a reservoir that stores the vapors. Then several outlets would lead to the individual patient's interface. The interface would only open or release vapors under the direction of the patient. Maybe this is by a mechanical sensor that needs to sit on the face or maybe this is a one way valve that is breath mediated so that only with the baby's breath will the vapors be released from the reservoir. Moving on past this part of the interface is a sensor (likely an LED sensor) that can detect and sum up the amount (volume/time possibly) that passes by and will sum up the volume or time and signal when the full dosage has been given. Jose also had the idea to use some kind of sticker on the face that is color changing after receiving a particular dose.
 
@@ -152,7 +159,7 @@ More details coming soon!
 _by Caroline Hane-Weijman_
 ----------------------------------------------------------------------------------------------------------
 
-![broken_nebulizer.jpg]({{< resource_file aaecbf2a-9891-d8cb-cd97-fb3ca6ef68b0 >}})
+{{< resource aaecbf2a-9891-d8cb-cd97-fb3ca6ef68b0 >}}
 
 Broken nebulizer
 
@@ -183,17 +190,17 @@ Another device Jose helped us come across which almost basically solves our issu
 _by Shan Tie_
 ------------------------------------------------------------------------------------------------------------------------
 
-The use of capnography was first considered as a way to monitor dosage. Caroline had initially discovered this technology in the context of its usage for anesthesia and intensive care. The capnogram directly measures the inhaled and exhaled concentration or partial pressure of CO2 produced by the patient. Furthermore, the device can indirectly measure the amount of arterial CO2.
+The use of capnography was first considered as a way to monitor dosage. Caroline had initially discovered this technology in the context of its usage for anesthesia and intensive care. The capnogram directly measures the inhaled and exhaled concentration or partial pressure of CO{{< sub "2" >}} produced by the patient. Furthermore, the device can indirectly measure the amount of arterial CO{{< sub "2" >}}.
 
-There are five major physical methods for detecting CO2; however, the least expensive and most popular method for CO2 detection involves using IR technology.
+There are five major physical methods for detecting CO{{< sub "2" >}}; however, the least expensive and most popular method for CO{{< sub "2" >}} detection involves using IR technology.
 
-The actual device interface includes a mask that contains an IR light source, some filters and focusing lenses, and an IR detector. The IR source shines IR light through the cloud of CO2 particles produced by the patient. CO2 selectively absorbs 4.3 micron IR light. The absorption amount is directly correlated to the CO2 concentration and thus the amount detected can be compared to a known standard of CO2.
+The actual device interface includes a mask that contains an IR light source, some filters and focusing lenses, and an IR detector. The IR source shines IR light through the cloud of CO{{< sub "2" >}} particles produced by the patient. CO{{< sub "2" >}} selectively absorbs 4.3 micron IR light. The absorption amount is directly correlated to the CO{{< sub "2" >}} concentration and thus the amount detected can be compared to a known standard of CO{{< sub "2" >}}.
 
-The information that the capnography provides includes CO2 production, pulmonary perfusion, alveolar ventilation, respiratory patterns, and CO2 elimination. These data is presented as the inspired and/or expired CO2 plotted over time (Kodali, [capnography.com](http://capnography.com/)).
+The information that the capnography provides includes CO{{< sub "2" >}} production, pulmonary perfusion, alveolar ventilation, respiratory patterns, and CO{{< sub "2" >}} elimination. These data is presented as the inspired and/or expired CO{{< sub "2" >}} plotted over time (Kodali, [capnography.com](http://capnography.com/)).
 
-This technology initially appealed to us because it was a technology that had concepts based very much like the pulse oximeter, is already interfaced with a mask, and is used to measure gas production. Our belief was that if we could place the sensor close between the drug outlet of the mask and the nose of the patient, the patient's breathing can be monitored by his CO2 production and we can assume due to proximity of the drug outlet to the patient's nose, that he would be effectively breathing the medicine. We can then use this to track the breathing of the patient over time and count up the amount of time that his CO2 production was above a minimal threshold (to account for adequate breathing) until it totally 10 minutes.
+This technology initially appealed to us because it was a technology that had concepts based very much like the pulse oximeter, is already interfaced with a mask, and is used to measure gas production. Our belief was that if we could place the sensor close between the drug outlet of the mask and the nose of the patient, the patient's breathing can be monitored by his CO{{< sub "2" >}} production and we can assume due to proximity of the drug outlet to the patient's nose, that he would be effectively breathing the medicine. We can then use this to track the breathing of the patient over time and count up the amount of time that his CO{{< sub "2" >}} production was above a minimal threshold (to account for adequate breathing) until it totally 10 minutes.
 
-After speaking with Brian Walsh, a respiratory specialist at the Children's Hospital Boston, we discovered some limitations in using capnography. We intended on using this technology for patients under 5 years of age. Currently, the capnograhy either directly measure the CO2 in the mask or takes measurements from side stream line that pulls out samples from the mask. Unfortunately, the amount of CO2 production by these young patients will be too low for any capnography device made cheaply to detect. Furthermore, the capnography device requires a near perfect seal between the patient and the mask. However, the current masks contain vents to allow the release of the CO2 and a perfect seal for infants is nearly impossible. Given these limitations, we decided we needed a more feasible and reliable method for monitoring dosage.
+After speaking with Brian Walsh, a respiratory specialist at the Children's Hospital Boston, we discovered some limitations in using capnography. We intended on using this technology for patients under 5 years of age. Currently, the capnograhy either directly measure the CO{{< sub "2" >}} in the mask or takes measurements from side stream line that pulls out samples from the mask. Unfortunately, the amount of CO{{< sub "2" >}} production by these young patients will be too low for any capnography device made cheaply to detect. Furthermore, the capnography device requires a near perfect seal between the patient and the mask. However, the current masks contain vents to allow the release of the CO{{< sub "2" >}} and a perfect seal for infants is nearly impossible. Given these limitations, we decided we needed a more feasible and reliable method for monitoring dosage.
 
 [Back to top](#A_breath-actuated)
 
@@ -247,7 +254,7 @@ _by Shan Tie_
 
 Chemical solutions to static electricity: [http://www.explainthatstuff.com/howantistaticcoatingswork.html](http://www.explainthatstuff.com/howantistaticcoatingswork.html)
 
-Glass pipes with a protective antistatic coating: (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://link.springer.com/article/10.1007/BF00701014))
+Glass pipes with a protective antistatic coating: ([PDF](https://link.springer.com/article/10.1007/BF00701014))
 
 The optimal composition of the applied film is found to be: 50% SnCI~.5H20 with a concentration of 1% SbCI3.
 
@@ -279,7 +286,7 @@ Found various anti-static tape:
 _by Caroline Hane-Weijman_
 -----------------------------------------------------------------------------------------------------------------------------------
 
-![vapor_laser.jpg]({{< resource_file c5bed93f-33ac-4b46-3392-27fedbbcab2b >}})
+{{< resource c5bed93f-33ac-4b46-3392-27fedbbcab2b >}}
 
 Vapor laser sensor connected to the Arduino can measure particle size and concentration
 
@@ -287,10 +294,10 @@ We need to explore a valve system so that the pressure does not get too high ins
 
 Next step: Build the patient tube with a one-way valve and another vapor sensor!
 
-![experimental.jpg]({{< resource_file 1dc1f2ff-a197-fe3b-c4b5-81e9b96e316c >}})
+{{< resource 1dc1f2ff-a197-fe3b-c4b5-81e9b96e316c >}}
 
 Experimental setup with patient tube, one-way valve, and second vapor sensor
 
 [Back to top](#A_breath-actuated)
 
-1 [2]({{< baseurl >}}/pages/projects/nebshair/one-way-valves) [Next]({{< baseurl >}}/pages/projects/nebshair/one-way-valves) >>
+1 {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "2" %}} {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Next" %}} >>
