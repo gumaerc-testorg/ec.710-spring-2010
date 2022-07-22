@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A photo of the instructor squeezing the prototype and looking at the
     data readout on the computer.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: BabyTrackr - Page 3
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: presentation5.jpg
 uid: f0eafd12-30d5-902b-6255-8bc6f1aa7bad
 ---
 Instructor Amit Srivastava testing the prototype.
-

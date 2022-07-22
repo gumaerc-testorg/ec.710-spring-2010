@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: A photo showing a team member presenting the prototype to an attendee.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: BabyTrackr - Page 4
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: audience2.jpg
 uid: 05c2ac16-782b-76e0-389c-59e0ff4a9aba
 ---
 Presenting the prototype.
-

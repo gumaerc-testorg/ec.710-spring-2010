@@ -5,6 +5,7 @@ file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Instrumentation Lab
 uid: a0f1f181-8e4e-e1fe-1505-e30e6a7883b9
 ---
 This resource contains the information regarding instrumentation lab.
-

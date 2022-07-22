@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A photo showing an attendee squeezing the prototype, which was connected
     to a circuit board.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: babytrackr4-gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: testing.jpg
 uid: 82ab9169-2b10-6947-2dd7-58cf9243a2b5
 ---
 An attendee at the MIT Museum squeezing the prototype to test the system. 
-

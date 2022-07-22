@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A photo showing a response curve displayed on the computer screen during
     testing.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: BabyTrackr - Page 4
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: comp_screen.jpg
 uid: f1b6e2d8-0404-e041-3efa-ed95fcca40f7
 ---
 Readout on screen of prototype during testing.
-

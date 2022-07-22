@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: Photo of materials on table, and team member squeezing a toy ball.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: BabyTrackr - Page 2
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: gallery3img8.jpg
 uid: 309aee96-1e45-5f6e-bb01-1d8afff6f898
 ---
 Squeezing a toy ball.
-

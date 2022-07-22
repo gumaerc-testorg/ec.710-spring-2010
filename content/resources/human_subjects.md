@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: ' A photo showing electrodes taped to the arm.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: babytrackr4-gallery
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: human_subjects.jpg
 uid: f0d4b6ef-c0fb-f6ab-e0a4-71d963e44848
 ---
 Securing electrodes on the arm
-

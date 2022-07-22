@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: Photo of a disposable glove filled with cotton.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: BabyTrackr - Page 2
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: gallery3img4.jpg
 uid: fb1355db-1888-a070-36db-8e02cbaa6ab4
 ---
 Cotton 
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: Photo of a disposable glove filled with dirt and sand.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: BabyTrackr - Page 2
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: gallery3img5.jpg
 uid: 57ce3bf5-f358-f4e4-5465-172f5075516f
 ---
 Dirt/Sand 
-

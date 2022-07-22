@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: ' A photo showing the change in voltage on an oscilloscope.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: BabyTrackr - Page 4
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: tektronix.jpg
 uid: fded3ab3-eaa4-4bbb-2e48-f3c29501e2b4
 ---
 Oscilloscope readout from prototype. 
-

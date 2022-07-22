@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: Photo of squeezing an early prototype, connected to the circuit board.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: BabyTrackr - Page 2
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: gallery3img2.jpg
 uid: 1ba0044b-509d-a0ca-8455-7653a1194b1b
 ---
 Prototype with circuit board.
-

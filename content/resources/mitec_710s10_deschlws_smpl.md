@@ -6,6 +6,7 @@ file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Sample Design Challenge Worksheet
 uid: 9dcecfcd-1cfd-a45b-5de1-e7a8077b563b
 ---
 This resource contains the information regarding sample design challenge worksheet.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: Photo of a disposable glove filled with foam.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: BabyTrackr - Page 2
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: gallery3img6.jpg
 uid: daf1a541-357c-73af-a1bc-ffc038a43996
 ---
 Foam 
-

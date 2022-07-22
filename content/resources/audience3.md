@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A photo showing a team member speaking with an attendee with poster and
     prototype nearby.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: babytrackr4-gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: audience3.jpg
 uid: 47cc2e35-860a-21d0-64d2-046c96ae2687
 ---
 Speaking with an attendee at the MIT Museum. 
-

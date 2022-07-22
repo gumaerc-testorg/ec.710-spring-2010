@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: A photo showing the data readout on the computer when squeezing the prototype.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: BabyTrackr - Page 3
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: presentation7.jpg
 uid: 9c18c1d7-69da-9549-af7d-ebb99d7cff4d
 ---
 Squeezing the prototype, showing the data readout on the computer. 
-

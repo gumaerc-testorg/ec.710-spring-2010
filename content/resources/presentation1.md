@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photo by the BabyTrackr Team.'
   image-alt: A photo showing the team presenting to the audience.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: BabyTrackr - Page 3
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: presentation1.jpg
 uid: 8b5ae109-73b9-8bee-1a3f-c1fc110f9408
 ---
 Presentation at the MIT Museum.
-
