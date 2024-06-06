@@ -2,6 +2,7 @@
 content_type: page
 description: Blog entry cataloging student progress and the final presentation for
   a group project on a labor contraction monitor for Nicaraguan hospitals.
+draft: false
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -11,47 +12,46 @@ parent_uid: fd032552-908b-39df-9f46-c936d1092c8c
 title: BabyTrackr
 uid: bb097725-8aab-b7d2-7e42-559fcd0fbc98
 ---
-
-_{{< anchor "Labor_contraction_monitor_for_Nicaraguan_hospitals" >}}{{< /anchor >}}Labor contraction monitor for Nicaraguan hospitals_
+{{< anchor "Labor_contraction_monitor_for_Nicaraguan_hospitals" >}}{{< /anchor >}}*Labor contraction monitor for Nicaraguan hospitals*
 
 Team: Maysun M. Hasan, Grace Yao, Karina Isaak, and anonymous MIT students \[LT\] and \[AB\]
 
 This content is presented courtesy of the students and used with permission.
 
-1 {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "2" %}} {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "3" %}} {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Next" %}} >>
+1 {{% resource_link "1f285a39-6e3b-596b-f990-f46eed40d51c" "2" %}} {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "3" %}} {{% resource_link "1f285a39-6e3b-596b-f990-f46eed40d51c" "Next" %}} >>
 
-*   [Welcome to the Contraction Monitor team blog!](#Welcome)
-*   [April 15 Post](#April_15_Post)
-*   [April 16 Post](#April_16_Post)
-*   [April 19 Post](#April_19_Post)
-*   [Patents for various contraction monitors](#Patents_for_Various)
-*   [Retroactive post](#Retroactive_Post)
-*   [Team Info, Revised Problem Statement, Some early brainstorming thoughts (Pugh Chart, Design Specs)](#Team_Info)
-*   [Pitch](#Pitch)
-*   [Re-direction of our Project](#Re-direction)
-*   {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "The Smarts, and how we got there" "#The_Smarts" %}}
-*   {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Updates 4/24" "#Updates_4_24" %}}
-*   {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Research" "#Research" %}}
-*   {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Quick Question" "#Quick_Question" %}}
-*   {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Button logic pseudocode and visuals" "#Button_Logic" %}}
-*   {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Meeting 4/28- What we're up to!" "#Meeting_4_28-_" %}}
-*   {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "EMG Plan" "#EMG_Plan" %}}
-*   {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Playing around with different materials, toys and Arduinos" "#Playing_Around" %}}
-*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Cloth patch for monitoring contractions!" "#Cloth_Patch" %}}
-*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Home stretch" "#Home_Stretch" %}}
-*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Response from Nicaragua" "#Response_From" %}}
-*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Instructable" "#Instructable" %}}
-*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Pennies for your muscles" "#Pennies" %}}
-*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Convo with Dr. Acker" "#Convo_with" %}}
-*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Radio awesomeness" "#Radio_Awesomeness" %}}
-*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Logo" "#Logo" %}}
-*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Alien Mind Control!!!" "#Alien_Mind_" %}}
-*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Presentation at MIT Museum" "#Presentation" %}}
-*   {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "More action shots PLUS interested Physician from Brazil!" "#More_Action_Shots_PLUS" %}}
+- [Welcome to the Contraction Monitor team blog!](#Welcome)
+- [April 15 Post](#April_15_Post)
+- [April 16 Post](#April_16_Post)
+- [April 19 Post](#April_19_Post)
+- [Patents for various contraction monitors](#Patents_for_Various)
+- [Retroactive post](#Retroactive_Post)
+- [Team Info, Revised Problem Statement, Some early brainstorming thoughts (Pugh Chart, Design Specs)](#Team_Info)
+- [Pitch](#Pitch)
+- [Re-direction of our Project](#Re-direction)
+- {{% resource_link "1f285a39-6e3b-596b-f990-f46eed40d51c" "The Smarts, and how we got there" "#The_Smarts" %}}
+- {{% resource_link "1f285a39-6e3b-596b-f990-f46eed40d51c" "Updates 4/24" "#Updates_4_24" %}}
+- {{% resource_link "1f285a39-6e3b-596b-f990-f46eed40d51c" "Research" "#Research" %}}
+- {{% resource_link "1f285a39-6e3b-596b-f990-f46eed40d51c" "Quick Question" "#Quick_Question" %}}
+- {{% resource_link "1f285a39-6e3b-596b-f990-f46eed40d51c" "Button logic pseudocode and visuals" "#Button_Logic" %}}
+- {{% resource_link "1f285a39-6e3b-596b-f990-f46eed40d51c" "Meeting 4/28- What we're up to!" "#Meeting_4_28-_" %}}
+- {{% resource_link "1f285a39-6e3b-596b-f990-f46eed40d51c" "EMG Plan" "#EMG_Plan" %}}
+- {{% resource_link "1f285a39-6e3b-596b-f990-f46eed40d51c" "Playing around with different materials, toys and Arduinos" "#Playing_Around" %}}
+- {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "Cloth patch for monitoring contractions!" "#Cloth_Patch" %}}
+- {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "Home stretch" "#Home_Stretch" %}}
+- {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "Response from Nicaragua" "#Response_From" %}}
+- {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "Instructable" "#Instructable" %}}
+- {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "Pennies for your muscles" "#Pennies" %}}
+- {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "Convo with Dr. Acker" "#Convo_with" %}}
+- {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "Radio awesomeness" "#Radio_Awesomeness" %}}
+- {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "Logo" "#Logo" %}}
+- {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "Alien Mind Control!!!" "#Alien_Mind_" %}}
+- {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "Presentation at MIT Museum" "#Presentation" %}}
+- {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "More action shots PLUS interested Physician from Brazil!" "#More_Action_Shots_PLUS" %}}
 
-{{< anchor "Welcome" >}}{{< /anchor >}}Welcome to the Contraction Monitor team blog!  
-_by Grace Yao_
------------------------------------------------------------------------------------------------------
+{{< anchor "Welcome" >}}{{< /anchor >}}Welcome to the Contraction Monitor team blog!
+
+## *by Grace Yao*
 
 By the way, should we try to come up with a catchier name, maybe like Laborsaver or something like that? Just a random thing I thought of!
 
@@ -61,23 +61,22 @@ In developing countries, such as Nicaragua, maternal health is very rudimentary 
 
 [Back to top](#Labor_contraction_monitor_for_Nicaraguan_hospitals)
 
-{{< anchor "April_15_Post" >}}{{< /anchor >}}April 15 Post  
-_by Karina Isaak_
-------------------------------------------------------------------------------
+{{< anchor "April_15_Post" >}}{{< /anchor >}}April 15 Post
+
+## *by Karina Isaak*
 
 Hi team,
 
 I just found this article which was published in May 2009.
 
-Haws, Rachel A., Mohammad Yawar Yakoob, Tanya Soomro, et al. "[Reducing Stillbirths: Screening and Monitoring During Pregnancy and Labour](http://www.biomedcentral.com/1471-2393/9/S1/S5)." _BMC Pregnancy and Childbirth_ 9, 2009.
+Haws, Rachel A., Mohammad Yawar Yakoob, Tanya Soomro, et al. "[Reducing Stillbirths: Screening and Monitoring During Pregnancy and Labour](http://www.biomedcentral.com/1471-2393/9/S1/S5)." *BMC Pregnancy and Childbirth* 9, 2009.
 
 It gives a review of the interventions used worldwide to prevent stillbirths.
 
 Please, take a look at the section called
 
-[  
-](#Labor_contraction_monitor_for_Nicaraguan_hospitals)**Monitoring in Labour**  
-_Use of the partograph_
+**Monitoring in Labour**    
+*Use of the partograph*
 
 starting on page 33.
 
@@ -91,32 +90,31 @@ What do you guys think?
 
 [Back to top](#Labor_contraction_monitor_for_Nicaraguan_hospitals)
 
-{{< anchor "April_16_Post" >}}{{< /anchor >}}April 16 Post
-----------------------------------------------------------
+## {{< anchor "April_16_Post" >}}{{< /anchor >}}April 16 Post
 
 Hey team,
 
-Grace, I agree, we definitely need a more creative name... let's brainstorm about it in class today. Here is a study comparing the EMG contraction monitor to a tocotransducer belt. EMG seems to be the better way to measure contractions.
+Grace, I agree, we definitely need a more creative name… let's brainstorm about it in class today. Here is a study comparing the EMG contraction monitor to a tocotransducer belt. EMG seems to be the better way to measure contractions.
 
-Maul, H., W. L. Maner, G. Olson, et al. "[Non-Invasive Transabdominal Uterine Electromyography Correlates with the Strength of Intrauterine Pressure and is Predictive of Labor and Delivery](http://informahealthcare.com/doi/abs/10.1080/14767050410001695301)." _Journal of Maternal and Fetal-Neonatal Medicine_ 15, no. 5 (2004): 297-301.
+Maul, H., W. L. Maner, G. Olson, et al. "[Non-Invasive Transabdominal Uterine Electromyography Correlates with the Strength of Intrauterine Pressure and is Predictive of Labor and Delivery](http://informahealthcare.com/doi/abs/10.1080/14767050410001695301)." *Journal of Maternal and Fetal-Neonatal Medicine* 15, no. 5 (2004): 297-301.
 
 Let's first test the resistive flex sensor \[LT\] ordered and then start working on the EMG/EKG if the sensor turns out to be not reliable for measuring contractions.
 
 [Back to top](#Labor_contraction_monitor_for_Nicaraguan_hospitals)
 
-{{< anchor "April_19_Post" >}}{{< /anchor >}}April 19 Post  
-_by \[AB\]_
-------------------------------------------------------------------------
+{{< anchor "April_19_Post" >}}{{< /anchor >}}April 19 Post
+
+## *by \[AB\]*
 
 Hey all,
 
 Hope you're enjoying the long weekend! I found another interesting article that shows how an external taco meter is just as good as an internal one, although the internal one uses pressure gauges. Just to confirm that we should make both an EMG and an external tocodynamometer. Anyways, I also think we could think of a better name. So I looked up LaborSaver, and apparently it's already a product that allows workers to save money. How about laborhelper? Regardless, here's the article.
 
-Bakker, Jannet J. H., Corine J. M. Verhoeven, Petra F. Janssen, et al. "[Outcomes after Internal Versus External Tocodynamometry for Monitoring Labor](http://www.nejm.org/doi/full/10.1056/NEJMoa0902748)." _New England Journal of Medicine_ 362, no. 4 (2010): 306-13.
+Bakker, Jannet J. H., Corine J. M. Verhoeven, Petra F. Janssen, et al. "[Outcomes after Internal Versus External Tocodynamometry for Monitoring Labor](http://www.nejm.org/doi/full/10.1056/NEJMoa0902748)." *New England Journal of Medicine* 362, no. 4 (2010): 306-13.
 
 Here's another article I found on how to make an embedded microcontroller and EMG:
 
-Wu, Han-Chang, Chao-Hung Lin, Shuenn-Tsong Young, et al. "[Monitoring Long-Term Uterine Contractions](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?reload=true&arnumber=1005658)." _IEEE Instrumentation and Measurement Magazine_ 5, no. 2 (2002): 36-40.
+Wu, Han-Chang, Chao-Hung Lin, Shuenn-Tsong Young, et al. "[Monitoring Long-Term Uterine Contractions](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?reload=true&arnumber=1005658)." *IEEE Instrumentation and Measurement Magazine* 5, no. 2 (2002): 36-40.
 
 I think it's very similar to what Maysun sent out a couple days ago.
 
@@ -124,30 +122,30 @@ Let's meet up some time (I think we're agreeing for tomorrow 3 pm) to discuss sp
 
 [Back to top](#Labor_contraction_monitor_for_Nicaraguan_hospitals)
 
-{{< anchor "Patents_for_Various" >}}{{< /anchor >}}Patents for Various Contraction Monitors  
-_by Grace Yao_
-------------------------------------------------------------------------------------------------------------
+{{< anchor "Patents_for_Various" >}}{{< /anchor >}}Patents for Various Contraction Monitors
 
-[Apparatus for non-invasive monitoring of uterine contractions](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=4989615.PN.&OS=PN/4989615&RS=PN/4989615)  
+## *by Grace Yao*
+
+[Apparatus for non-invasive monitoring of uterine contractions](https://pubchem.ncbi.nlm.nih.gov/patent/US-5195536-A)    
 United States Patent 4989615
 
 From Abstract: "An apparatus which includes a bladder element (10) which is at least partially filled with fluid, a belt-like element (12) which holds the bladder against the patient's abdomen with some pressure, and a pressure monitoring device (18) which is connected to the bladder (10) to detect changes in the pressure of the fluid in the bladder (10) as the abdomen hardens due to uterine contractions."
 
-[External uterine contraction monitoring device](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=5070888.PN.&OS=PN/5070888&RS=PN/5070888)  
+[External uterine contraction monitoring device](https://patents.google.com/patent/US5070888A/en)    
 United States Patent 5070888
 
 From Abstract: "An improved monitoring device for externally monitoring labor contractions preceding childbirth which does not require the use of a belt is disclosed consisting of a transducer removable assembly fixed to a base adhesively attached to the abdomen of the woman."
 
-[Disposable tocodynamometer with self-adjusting bellows](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=5224490.PN.&OS=PN/5224490&RS=PN/5224490)  
+[Disposable tocodynamometer with self-adjusting bellows](https://patents.google.com/patent/US5224490A/en)    
 United States Patent 5224490
 
 From Abstract: "A non-invasive, disposable, self-adjusting tocodynamometer (10) for monitoring uterine contractions of a patient during pregnancy, labor, and delivery The tocodynamometer includes a pressure-sensitive, fluid. filled bellows (20) responsive to changes in the hardness of the uterus during contractions The bellows has one face which projects into the patient's soft tissue in the abdomen and adjacent the uterus, rending the tocodynamometer sensitive even for obese patients. A plate (22) supports the bellows and provides structure for attaching the tocodynamometer to the patient. A wall (30) formed on the plate receives the bellows as it is compressed during use. A conduit (14) connects the bellows to a pressure transducer (12) which, in turn, is connected to a monitor (16). The bellows, conduit, and pressure transducer form a closed system containing the working fluid."
 
 [Back to top](#Labor_contraction_monitor_for_Nicaraguan_hospitals)
 
-{{< anchor "Retroactive_Post" >}}{{< /anchor >}}Retroactive Post  
-_by Grace Yao_
----------------------------------------------------------------------------------
+{{< anchor "Retroactive_Post" >}}{{< /anchor >}}Retroactive Post
+
+## *by Grace Yao*
 
 This is where we were 5 days ago, before the meeting with Jose:
 
@@ -155,10 +153,10 @@ Below is a list of Ob/Gyn's in Boston that I grabbed from [thecityofboston.com](
 
 What are the times we have to measure to know the things we want to indicate, which are
 
-1.  when the mother should go to the hospital
-2.  when the mother needs attention but not critical
-3.  when the mother needs critical attention
-4.  when the doctor needs to be there to deliver the baby.
+1. when the mother should go to the hospital
+2. when the mother needs attention but not critical
+3. when the mother needs critical attention
+4. when the doctor needs to be there to deliver the baby.
 
 Then the 5th thing we're having a light for is an indicator of when she's actually having a contraction, which is pretty straightforward.
 
@@ -168,7 +166,7 @@ Materials: what kind of material for the squeezy part? The wire connecting the b
 
 Smarts: Microcontroller? Something else? Maysun, can you maybe summarize what you talked about with Paul?
 
-User Interface: How much information should the mother have? How are we going to display it?  
+User Interface: How much information should the mother have? How are we going to display it?    
 (Number/graph/both?) Do we need to design a radio component too? Would sound be better?
 
 Acker, David B MD - Brigham Women's Hospital
@@ -253,9 +251,9 @@ Boston, MA
 
 [Back to top](#Labor_contraction_monitor_for_Nicaraguan_hospitals)
 
-{{< anchor "Team_Info" >}}{{< /anchor >}}Team Info, Revised Problem Statement, Some Early Brainstorming Thoughts (Pugh Chart, Design Specs)  
-_by \[LT\]_
----------------------------------------------------------------------------------------------------------------------------------------------------------
+{{< anchor "Team_Info" >}}{{< /anchor >}}Team Info, Revised Problem Statement, Some Early Brainstorming Thoughts (Pugh Chart, Design Specs)
+
+## *by \[LT\]*
 
 Hi! This is also sort of a retroactive post. We are the Contraction Monitor team!
 
@@ -275,19 +273,19 @@ Thought for Ball contraction monitor: info sent to doctor's phone.
 
 **See below for our Pugh chart and Prelim Design Specs!**
 
-{{< resource 3609e5f4-369e-c324-572f-235d3dc9ac59 >}}
+{{< resource uuid="3609e5f4-369e-c324-572f-235d3dc9ac59" >}}
 
 Pugh Chart
 
-{{< resource 10cd268b-7e2c-93ff-8478-704c14b263a3 >}}
+{{< resource uuid="10cd268b-7e2c-93ff-8478-704c14b263a3" >}}
 
 Design specifications
 
 [Back to top](#Labor_contraction_monitor_for_Nicaraguan_hospitals)
 
-{{< anchor "Pitch" >}}{{< /anchor >}}Pitch  
-_by \[LT\]_
---------------------------------------------------------
+{{< anchor "Pitch" >}}{{< /anchor >}}Pitch
+
+## *by \[LT\]*
 
 A first attempt at a pitch!
 
@@ -297,23 +295,22 @@ When the woman is picked up from her home, the health worker places a band with 
 
 [Back to top](#Labor_contraction_monitor_for_Nicaraguan_hospitals)
 
-{{< anchor "Re-direction" >}}{{< /anchor >}}Re-direction of our Project
------------------------------------------------------------------------
+## {{< anchor "Re-direction" >}}{{< /anchor >}}Re-direction of our Project
 
 After meeting with Jose for feedback on our project, we began to change directions (and revise our problem statement). Instead of working on a squeeze ball monitor alone, we're also prototyping a belt (testing various sensors) and comparing that with the squeeze ball. Ultimately, it will become a behavioral study.
 
 ### Summary of Our Meeting:
 
-We went over what we were planning to do and Jose began to push us to try the belt idea. He's concerned that since the woman control the input with the ball, she can either be too urgent and squeeze it too many times to go to the hospital or not squeeze it enough. He encouraged us to do a behavioral study comparing the ball and belt to see the correlation or accuracy of signals (if we find the ball is just as good and even cheaper, then we go with the ball, for example). Basically he told us to explore both options. We also discussed technical details and the sensors. He thought what we were doing was...settling for too little and we could do more. He encouraged us to explore more bio sensors, homemade EMGs (suggested by Maysun), and other flexi sensors and to really talk to Professor Frey. Maybe even look at making our own sensors if we think we can make them cheaply.
+We went over what we were planning to do and Jose began to push us to try the belt idea. He's concerned that since the woman control the input with the ball, she can either be too urgent and squeeze it too many times to go to the hospital or not squeeze it enough. He encouraged us to do a behavioral study comparing the ball and belt to see the correlation or accuracy of signals (if we find the ball is just as good and even cheaper, then we go with the ball, for example). Basically he told us to explore both options. We also discussed technical details and the sensors. He thought what we were doing was…settling for too little and we could do more. He encouraged us to explore more bio sensors, homemade EMGs (suggested by Maysun), and other flexi sensors and to really talk to Professor Frey. Maybe even look at making our own sensors if we think we can make them cheaply.
 
 We went over what the problem really was and it's actually that they don't use any monitors and need something in the hospital (not necessarily at the home to tell them when to go). The current are too expensive, so we need to make it affordable. He told us to contact Ken Endo at the biomechatronics lab, and sent us an email introducing us to some Nicaraguan contacts I think.
 
 So:
 
-1.  Explore homemade sensors and other sensors, continue contacting people, figure out the smarts with a computer first
-2.  Design: make prototypes (ball and belt) and turn comp into smarts with micro controller
-3.  Clinical: test it out, behavioral studies
+1. Explore homemade sensors and other sensors, continue contacting people, figure out the smarts with a computer first
+2. Design: make prototypes (ball and belt) and turn comp into smarts with micro controller
+3. Clinical: test it out, behavioral studies
 
 [Back to top](#Labor_contraction_monitor_for_Nicaraguan_hospitals)
 
-1 {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "2" %}} {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "3" %}} {{% resource_link 1f285a39-6e3b-596b-f990-f46eed40d51c "Next" %}} >>
+1 {{% resource_link "1f285a39-6e3b-596b-f990-f46eed40d51c" "2" %}} {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "3" %}} {{% resource_link "1f285a39-6e3b-596b-f990-f46eed40d51c" "Next" %}} >>

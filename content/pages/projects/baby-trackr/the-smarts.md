@@ -2,6 +2,7 @@
 content_type: page
 description: Page two of a blog entry cataloging student progress and the final presentation
   for a group project on a labor contraction monitor for Nicaraguan hospitals.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: BabyTrackr
@@ -10,12 +11,11 @@ parent_uid: bb097725-8aab-b7d2-7e42-559fcd0fbc98
 title: BabyTrackr - Page 2
 uid: 1f285a39-6e3b-596b-f990-f46eed40d51c
 ---
+\<\< {{% resource_link "bb097725-8aab-b7d2-7e42-559fcd0fbc98" "1" %}} 2 {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "3" %}} {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "Next" %}} >>
 
-\<\< {{% resource_link bb097725-8aab-b7d2-7e42-559fcd0fbc98 "Previous" %}} {{% resource_link bb097725-8aab-b7d2-7e42-559fcd0fbc98 "1" %}} 2 {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "3" %}} {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Next" %}} >>
+{{< anchor "The_Smarts" >}}{{< /anchor >}}The Smarts, and How We Got There.
 
-{{< anchor "The_Smarts" >}}{{< /anchor >}}The Smarts, and How We Got There.  
-_by Maysun M. Hasan_
---------------------------------------------------------------------------------------------------
+## *by Maysun M. Hasan*
 
 Hi guys,
 
@@ -37,29 +37,29 @@ So we know approximately what we want, and we know how to do it, the next step i
 
 [Back to top](#The_Smarts)
 
-{{< anchor "Updates_4_24" >}}{{< /anchor >}}Updates 4/24  
-_by \[LT\]_
-----------------------------------------------------------------------
+{{< anchor "Updates_4_24" >}}{{< /anchor >}}Updates 4/24
+
+## *by \[LT\]*
 
 ### Updates
 
-*   Karina and \[LT\] made two switch prototypes (massacred a bear and used his leg for a big red button, attempted to stick a switch in the tiger- his guts were everywhere, but he's not bandaged)
-*   \[LT\] and Karina met with Paul Saturday (today 4/24) to begin logic for switches and work on logic for data storage (what information we want to collection, display and how)
-*   Our resistive flexi strain gauges have arrived!
-*   Paul can order us a display for our prototypes
-*   Maysun working on EMG sensor p.m. Sunday (tomorrow 4/25)
-*   \[AB\] and Grace, please feel free to reply to the team with updates on information on posts on blog!
-*   Maysun working on EMG
+- Karina and \[LT\] made two switch prototypes (massacred a bear and used his leg for a big red button, attempted to stick a switch in the tiger- his guts were everywhere, but he's not bandaged)
+- \[LT\] and Karina met with Paul Saturday (today 4/24) to begin logic for switches and work on logic for data storage (what information we want to collection, display and how)
+- Our resistive flexi strain gauges have arrived!
+- Paul can order us a display for our prototypes
+- Maysun working on EMG sensor p.m. Sunday (tomorrow 4/25)
+- \[AB\] and Grace, please feel free to reply to the team with updates on information on posts on blog!
+- Maysun working on EMG
 
 ### Meeting Agenda (4/25)
 
-*   Update on sensor prototypes – Maysun, Karina, \[LT\] ~ 10 min
-*   Update on research – \[AB\], Grace ~ 10 min
-*   Decide deadlines for research, code and prototypes ~ 15 min
-*   Decide on display ~ 20 min
-    *   Graph or dips with LED
-    *   Just numbers and signal lights
-    *   Computer
+- Update on sensor prototypes – Maysun, Karina, \[LT\] ~ 10 min
+- Update on research – \[AB\], Grace ~ 10 min
+- Decide deadlines for research, code and prototypes ~ 15 min
+- Decide on display ~ 20 min
+    - Graph or dips with LED
+    - Just numbers and signal lights
+    - Computer
 
 Gantt Chart review ~ 5 min
 
@@ -69,19 +69,19 @@ List of to-dos and to-blogs ~ 5 min
 
 [Back to top](#The_Smarts)
 
-{{< anchor "Research" >}}{{< /anchor >}}Research  
-_by \[AB\]_
---------------------------------------------------------------
+{{< anchor "Research" >}}{{< /anchor >}}Research
+
+## *by \[AB\]*
 
 Hi all,
 
 Here were the three topics I just researched for discussion at the next meeting:
 
-1.  Complications during pregnancy--uterus twitching
-2.  What else occurs when contraction happens, how flexiforce can be used
-3.  How to make a partogram
+1. Complications during pregnancy--uterus twitching
+2. What else occurs when contraction happens, how flexiforce can be used
+3. How to make a partogram
 
-For (1) I found a helpful Web site that lists all the [disorders that occur during pregnancy](http://www.medicinenet.com/script/main/art.asp?articlekey=40878). All high-risk patients should already be monitored closely, and those include: women with chronic hypertension, diabetes, lupus, incompetent cervix, placenta previa, preeclampsia, premature birth, recurrent miscarriages, and thyroid disorders. I think the disorders we should worry about are connected to the uterus in some way and might give false positives when using the belt we're building:
+For (1) I found a helpful Web site that lists all the [disorders that occur during pregnancy](https://web.archive.org/web/20230209020910/https://www.medicinenet.com/script/main/art.asp?articlekey=40878). All high-risk patients should already be monitored closely, and those include: women with chronic hypertension, diabetes, lupus, incompetent cervix, placenta previa, preeclampsia, premature birth, recurrent miscarriages, and thyroid disorders. I think the disorders we should worry about are connected to the uterus in some way and might give false positives when using the belt we're building:
 
 A) Fibroid Tumors: They are usually undetected non-cancerous masses that occur in the uterus, that go easily undetected in the third trimester of labor. There are four different types of fibroids in the uterus, subserosal, Intramural, submucosal, and Pedunculated. The one that might affect the size of the uterus and is the most common is the Intramural Fibroids, because they develop within the uterine wall and makes the uterus feel larger than normal. This causes pressure and pelvic pain. Another one that could also grow outside the uterus is the Pedunculated fibroids. This enlargement might be confused with the pressure that a contraction makes if we use the flexiforce so we should see if we can use another type of monitor, such as the partogram, which measures the cervix dialation, can be used alongside the flexiforce belt.
 
@@ -89,72 +89,37 @@ B) Placental Abruption: The placenta carries all the nutrients and O2 to the bab
 
 C) Uterine twitches: A normal contraction will occur by shortening and thickening of uterine wall muscle fiber. The contraction starts at the top of the uterine wall and waves down to the bottom. When "true" labor begins, women feel "false" labor pains, or a Braxton Hicks contraction, which is irregular uterine contractions that occur in the second or third trimester of pregnancy. They're the body's way of getting ready for the "real thing." They feel like a tightening in the abdomen that comes and goes. They do not get closer together, do not increase with walking, don't increase how long they last and don't feel stronger over time. Here is a table that doctors ask their patients over the phone apparently:
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 CONTRACTION CHARACTERSTICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 FALSE LABOR
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TRUE LABOR
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 **How often do the contractions occur?**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Contractions come at regular intervals and last about 30-70 seconds. As time goes on, they get closer together.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Contractions come at regular intervals and last about 30-70 seconds. As time goes on, they get closer together.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 **How strong are they?**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Contractions are usually weak and do not get much stronger. Or they may be strong at first and then get weaker.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Contractions steadily increase in strength.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 **Do they change with movement?**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Contractions may stop when you walk or rest, or may even stop if you change positions.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Contractions continue despite movement or changing positions.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 **Where do you feel the pain?**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Contractions are usually only felt in the front of the abdomen or pelvic region.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Contractions usually start in the lower back and move to the front of the abdomen.
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 When twitching occurs, there is no wave-like movement of the contraction, so there is a distinct difference between the two. The twitches are more like a spasm, and also they occur in women who are not pregnant as well, and do not cause pain so there is another difference between contractions and twitches/spasms. One last little tidbit, which you guys might know already: women in the US go to the hospital with contractions occur every five minutes for an hour.
 
@@ -168,26 +133,25 @@ There are two-hour partograms and four-hour partograms, but I think the best one
 
 I think the nurse or health official needs to keep track of this though, which may be a problem if there are more than five women in the ER. There is also clinical pelvimetry, which is used to monitor the size of the birth canal by means of systematic vaginal palpation of specific bony landmarks in the pelvis and the estimation of the distances between them. Internal pelvic diameters are not accessible, so usually midwives or a doctor will infer. This occurs at the first prenatal check-up (do they have those in Nicaragua??) and they're recorded as adequate, borderline, or inadequate, rather than in cm or inches.
 
-Maybe that might be a better idea than partogram? However, I think that we should still make a chart for the partogram and see if it's intuitive enough for the doctors to use...
+Maybe that might be a better idea than partogram? However, I think that we should still make a chart for the partogram and see if it's intuitive enough for the doctors to use…
 
-Anyways that's what I've researched so far...will keep you guys updated on anything else i find. Sorry for the long post!
+Anyways that's what I've researched so far…will keep you guys updated on anything else i find. Sorry for the long post!
 
 [Back to top](#The_Smarts)
 
-{{< anchor "Quick_Question" >}}{{< /anchor >}}Quick Question
-------------------------------------------------------------
+## {{< anchor "Quick_Question" >}}{{< /anchor >}}Quick Question
 
 So I know I couldn't go to the meeting with Jose which may have been where I missed this, but whatever happened to the part about helping mothers know when to call the ambulance? I thought that based on what Ryan said about his personal experience and on one of the problems we had identified in Nicaragua, which was not having babies on the side of the road, we were going to make a home-use component too. Are we not doing that anymore? It seems like this is purely for use by health workers at the hospital - which is okay I guess; I just would like someone to justify why.
 
 [Back to top](#The_Smarts)
 
-{{< anchor "Button_Logic" >}}{{< /anchor >}}Button Logic Pseudocode and Visuals  
-_by Grace Yao_
-------------------------------------------------------------------------------------------------
+{{< anchor "Button_Logic" >}}{{< /anchor >}}Button Logic Pseudocode and Visuals
+
+## *by Grace Yao*
 
 So this is what we talked about in class today, besides looking at the button models \[LT\] and Karina made and eating M&M's from Anna!
 
-Here's a vague idea of how we want the button to work...
+Here's a vague idea of how we want the button to work…
 
 boolean down #true = button is pushed down
 
@@ -213,29 +177,30 @@ elif (!down for >= 5 seconds):
 
 Visuals should include these:
 
-1.  The display should have 2 rows of numbers, top row = duration of contraction in seconds, bottom row = duration of time in between contraction in minutes; these numbers would preferably be offset from each other in a zigzag, but we'll see depending on what the monitor looks like.
-2.  The two little number counters should show
-    
-    a) Rate (how many contractions in the last hour) and
-    
+1. The display should have 2 rows of numbers, top row = duration of contraction in seconds, bottom row = duration of time in between contraction in minutes; these numbers would preferably be offset from each other in a zigzag, but we'll see depending on what the monitor looks like.
+2. The two little number counters should show   
+      
+    a) Rate (how many contractions in the last hour) and   
+      
     b) Time since the last contraction
-    
-3.  Three differently-colored LEDs.
-    
-    a) Contraction button is pressed,
-    
-    b) when the baby is about to come, aka when rate = 10 contractions/hr and time in between contractions = 5 minutes, and
-    
+3. Three differently-colored LEDs.   
+      
+    a) Contraction button is pressed,   
+      
+    b) when the baby is about to come, aka when rate = 10 contractions/hr and time in between contractions = 5 minutes, and   
+      
     c) When there may be a complication -> steady if not urgent, blinking if urgent.
-    
-4.  Maybe a row of LEDs to show intensity?
+4. Maybe a row of LEDs to show intensity?
 
-{{< anchor "Meeting_4_28-_" >}}{{< /anchor >}}Meeting 4/28- What we're Up To!  
-_by \[LT\]_
--------------------------------------------------------------------------------------------
+{{< anchor "Meeting_4_28-_" >}}{{< /anchor >}}Meeting 4/28- What we're Up To!
 
-_{{< resource 7be116d8-fb6a-1d1a-c983-2a20c66b7cb3 >}}  
-_
+## *by \[LT\]*
+
+ 
+
+{{< resource uuid="7be116d8-fb6a-1d1a-c983-2a20c66b7cb3" >}}
+
+ 
 
 Gantt Chart
 
@@ -251,9 +216,9 @@ Grace and I will be finishing up the general code and the screen to display cont
 
 [Back to top](#The_Smarts)
 
-{{< anchor "EMG_Plan" >}}{{< /anchor >}}EMG Plan  
-_by Maysun M. Hasan_
------------------------------------------------------------------------
+{{< anchor "EMG_Plan" >}}{{< /anchor >}}EMG Plan
+
+## *by Maysun M. Hasan*
 
 Hi guys,
 
@@ -261,19 +226,19 @@ So I should have posted this about a week ago, but my computer died and stuff ha
 
 The **Electromyography** (EMG) is a technique of recording the electrical activity in muscles. So the principle theory is that uterine contractions are caused by a series of action potentials that will cause a voltage change that can be detected, similar to how an ECG works. So how should we go about making an EMG? First we need a way to detect electrical activity. We can do this with a differential amplifier. The voltage difference is measured from two electrodes, which are placed relatively close together on the surface of the mother belly, (on the uterus). They are compared to ground, which is place on the mother's hip, where there is no muscle activity. The Diff Amp should output a signal like below, which is an EMG for a bicep:
 
-{{< resource d02a3c0e-7d9e-db96-eac1-c7b7498464d6 >}}
+{{< resource uuid="d02a3c0e-7d9e-db96-eac1-c7b7498464d6" >}}
 
 Image by MIT OpenCourseWare.
 
 This signal has been high and low passed filtered, which is something our circuit needs to do. The signal should then be rectified so that only the positive part of the signal is kept, like below.
 
-{{< resource e5b89f83-f368-aae5-eba1-7af7396a2f6e >}}
+{{< resource uuid="e5b89f83-f368-aae5-eba1-7af7396a2f6e" >}}
 
 Image by MIT OpenCourseWare.
 
 Finally, we need to smooth our signal out so that we form an "envelope", as seen below.
 
-{{< resource ed251d8e-b4ef-257d-3a43-f47592a80da2 >}}
+{{< resource uuid="ed251d8e-b4ef-257d-3a43-f47592a80da2" >}}
 
 Image by MIT OpenCourseWare.
 
@@ -285,9 +250,9 @@ Source: ([PDF](http://web.archive.org/web/20141130125653/http://www.ece.utah.edu
 
 [Back to top](#The_Smarts)
 
-{{< anchor "Playing_Around" >}}{{< /anchor >}}Playing Around With Different Materials, Toys and Arduinos  
-_by Karina Isaak_
-----------------------------------------------------------------------------------------------------------------------------
+{{< anchor "Playing_Around" >}}{{< /anchor >}}Playing Around With Different Materials, Toys and Arduinos
+
+## *by Karina Isaak*
 
 Here are some pictures of our experiments with different sensors (buttons) and materials for the contraction monitor ball, that the women in labor squeezes if she is having a contraction.
 
@@ -295,15 +260,15 @@ Our favorite is the big red button (picture 1) put into a latex glove which is f
 
 We also started programming the Arduino to record when the ball is squeezed, indicating that the women are having contraction. Grace posted the pseudo code that we are working on.
 
-The next step will be to connect it to the display and get everything running!
-{{< image-gallery id="1f285a39-6e3b-596b-f990-f46eed40d51c_nanogallery2" baseUrl="/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/" >}}
-{{< image-gallery-item href="a4f29ae628caf6c910b4c9aa23874ef4_gallery3img1.jpg" data-ngdesc="Big red button" text="Big red button" >}}
-{{< image-gallery-item href="1ba0044b509da0ca84557653a1194b1b_gallery3img2.jpg" data-ngdesc="Prototype with circuit board." text="Prototype with circuit board." >}}
-{{< image-gallery-item href="2b9c9daa4adfb1c1bed1667097e3b89f_gallery3img3.jpg" data-ngdesc="Couscous" text="Couscous" >}}
-{{< image-gallery-item href="fb1355db1888a07036db8e02cbaa6ab4_gallery3img4.jpg" data-ngdesc="Cotton" text="Cotton" >}}
-{{< image-gallery-item href="57ce3bf5f358f4e45465172f5075516f_gallery3img5.jpg" data-ngdesc="Dirt/Sand" text="Dirt/Sand" >}}
-{{< image-gallery-item href="daf1a541357c73afa1bcffc038a43996_gallery3img6.jpg" data-ngdesc="Foam" text="Foam" >}}
-{{< image-gallery-item href="3ceac5f40e983a1c0bd569ece42e8f12_gallery3img7.jpg" data-ngdesc="Four test materials with squeeze toys." text="Four test materials with squeeze toys." >}}
-{{< image-gallery-item href="309aee961e455f6ebb011d8afff6f898_gallery3img8.jpg" data-ngdesc="Squeezing a toy ball." text="Squeezing a toy ball." >}}
-{{</ image-gallery >}}
-\<\< {{% resource_link bb097725-8aab-b7d2-7e42-559fcd0fbc98 "Previous" %}} {{% resource_link bb097725-8aab-b7d2-7e42-559fcd0fbc98 "1" %}} 2 {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "3" %}} {{% resource_link f4a65097-6cb8-db2f-dac4-78dd84c5f5ef "Next" %}} >>
+The next step will be to connect it to the display and get everything running!  
+{{< image-gallery id="1f285a39-6e3b-596b-f990-f46eed40d51c_nanogallery2" baseUrl="/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/" >}}  
+{{< image-gallery-item href="a4f29ae628caf6c910b4c9aa23874ef4_gallery3img1.jpg" data-ngdesc="Big red button" text="Big red button" >}}  
+{{< image-gallery-item href="1ba0044b509da0ca84557653a1194b1b_gallery3img2.jpg" data-ngdesc="Prototype with circuit board." text="Prototype with circuit board." >}}  
+{{< image-gallery-item href="2b9c9daa4adfb1c1bed1667097e3b89f_gallery3img3.jpg" data-ngdesc="Couscous" text="Couscous" >}}  
+{{< image-gallery-item href="fb1355db1888a07036db8e02cbaa6ab4_gallery3img4.jpg" data-ngdesc="Cotton" text="Cotton" >}}  
+{{< image-gallery-item href="57ce3bf5f358f4e45465172f5075516f_gallery3img5.jpg" data-ngdesc="Dirt/Sand" text="Dirt/Sand" >}}  
+{{< image-gallery-item href="daf1a541357c73afa1bcffc038a43996_gallery3img6.jpg" data-ngdesc="Foam" text="Foam" >}}  
+{{< image-gallery-item href="3ceac5f40e983a1c0bd569ece42e8f12_gallery3img7.jpg" data-ngdesc="Four test materials with squeeze toys." text="Four test materials with squeeze toys." >}}  
+{{< image-gallery-item href="309aee961e455f6ebb011d8afff6f898_gallery3img8.jpg" data-ngdesc="Squeezing a toy ball." text="Squeezing a toy ball." >}}  
+{{< /image-gallery >}}  
+\<\< {{% resource_link "bb097725-8aab-b7d2-7e42-559fcd0fbc98" "1" %}} 2 {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "3" %}} {{% resource_link "f4a65097-6cb8-db2f-dac4-78dd84c5f5ef" "Next" %}} >>
