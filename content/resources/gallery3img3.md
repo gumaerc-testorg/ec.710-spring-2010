@@ -2,6 +2,7 @@
 content_type: resource
 description: Couscous
 file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/2b9c9daa4adfb1c1bed1667097e3b89f_gallery3img3.jpg
+file_size: 45502
 file_type: image/jpeg
 image_metadata:
   caption: Couscous

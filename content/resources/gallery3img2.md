@@ -2,6 +2,7 @@
 content_type: resource
 description: Prototype with circuit board.
 file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/1ba0044b509da0ca84557653a1194b1b_gallery3img2.jpg
+file_size: 70103
 file_type: image/jpeg
 image_metadata:
   caption: Prototype with circuit board.

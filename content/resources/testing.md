@@ -2,6 +2,7 @@
 content_type: resource
 description: 'An attendee at the MIT Museum squeezing the prototype to test the system. '
 file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/82ab91692b1069472dd758cf9243a2b5_testing.jpg
+file_size: 49366
 file_type: image/jpeg
 image_metadata:
   caption: An attendee at the MIT Museum squeezing the prototype to test the system.

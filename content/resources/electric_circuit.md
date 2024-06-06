@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/eb93fdb19941c8c4d64f66998d06fd24_electric_circuit.jpg
+file_size: 61265
 file_type: image/jpeg
 image_metadata:
   caption: ''

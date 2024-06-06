@@ -3,6 +3,7 @@ content_type: page
 description: Blog entry cataloging student progress and the final presentation for
   a group project on a breath-actuated, dosage-monitoring attachment for jet nebulizers
   to treat multiple patients for respiratory illnesses.
+draft: false
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -12,38 +13,37 @@ parent_uid: fd032552-908b-39df-9f46-c936d1092c8c
 title: Nebshair
 uid: f60fa61f-6f4f-bdf5-5fa7-cf2c4c4b918f
 ---
-
-_{{< anchor "A_breath-actuated" >}}{{< /anchor >}}A breath-actuated, dosage-monitoring attachment for jet nebulizers to treat multiple patients for respiratory illnesses_
+{{< anchor "A_breath-actuated" >}}{{< /anchor >}}*A breath-actuated, dosage-monitoring attachment for jet nebulizers to treat multiple patients for respiratory illnesses*
 
 Team: Caroline Hane-Weijman, Shan Tie, Mary Jue Xu, and anonymous MIT student \[GK\]
 
 This content is presented courtesy of the students and used with permission.
 
-1 {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "2" %}} {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Next" %}} >>
+1 {{% resource_link "8c3a3d5c-2820-b60c-8818-e9cf57c805e1" "2" %}} {{% resource_link "8c3a3d5c-2820-b60c-8818-e9cf57c805e1" "Next" %}} >>
 
-*   [Ideas Right Now](#Ideas_Right_Now)
-*   [Problem and Background Information Gathering](#Problem_and_Background)
-*   [Broken Nebulizer in Nicaragua](#Broken_Nebulizer)
-*   [Sites and AeroEclipse](#Sites_and_AeroEclipse)
-*   [Background discussion on the Capnography technology](#Background_Discussion)
-*   [Background on Vibrating Mesh technology](#Background_on_Vibrating)
-*   [Ultrasound Nebulizer Background](#Ultrasound_Nebulizer)
-*   [Design Update: Playing with Nebulizer Reservoir](#Design_Update)
-*   [Background on anti-static coating for the reservoir surface to minimize aerosol particle coagulation](#Background_on_Anti-Static)
-*   [Pictures of our Reservoir Prototyping Round 1](#Pictures_of_our_Reservoir)
-*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "One-Way Valves" "#One-Way_Valves" %}}
-*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Preliminary vapor quantity testing" "#Preliminary_Vapor_Quantity_Testing" %}}
-*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Vapor Sensor: Physical setup" "#Vapor_Sensor:_Physical_Setup" %}}
-*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Photos of Testing" "#Photos_of_Testing" %}}
-*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Prototyping and Testing" "#Prototyping_and_Testing" %}}
-*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "General Project Overview & Ryan Assistance" "#General_Project_Overview" %}}
-*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "D-Lab Showcase!" "#D-Lab_Showcase_" %}}
-*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Vapor quantity testing part 2" "#Vapor_Quantity_Testing_Part_2" %}}
-*   {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Mini Update" "#Mini_Update" %}}
+- [Ideas Right Now](#Ideas_Right_Now)
+- [Problem and Background Information Gathering](#Problem_and_Background)
+- [Broken Nebulizer in Nicaragua](#Broken_Nebulizer)
+- [Sites and AeroEclipse](#Sites_and_AeroEclipse)
+- [Background discussion on the Capnography technology](#Background_Discussion)
+- [Background on Vibrating Mesh technology](#Background_on_Vibrating)
+- [Ultrasound Nebulizer Background](#Ultrasound_Nebulizer)
+- [Design Update: Playing with Nebulizer Reservoir](#Design_Update)
+- [Background on anti-static coating for the reservoir surface to minimize aerosol particle coagulation](#Background_on_Anti-Static)
+- [Pictures of our Reservoir Prototyping Round 1](#Pictures_of_our_Reservoir)
+- {{% resource_link "8c3a3d5c-2820-b60c-8818-e9cf57c805e1" "One-Way Valves" "#One-Way_Valves" %}}
+- {{% resource_link "8c3a3d5c-2820-b60c-8818-e9cf57c805e1" "Preliminary vapor quantity testing" "#Preliminary_Vapor_Quantity_Testing" %}}
+- {{% resource_link "8c3a3d5c-2820-b60c-8818-e9cf57c805e1" "Vapor Sensor: Physical setup" "#Vapor_Sensor:_Physical_Setup" %}}
+- {{% resource_link "8c3a3d5c-2820-b60c-8818-e9cf57c805e1" "Photos of Testing" "#Photos_of_Testing" %}}
+- {{% resource_link "8c3a3d5c-2820-b60c-8818-e9cf57c805e1" "Prototyping and Testing" "#Prototyping_and_Testing" %}}
+- {{% resource_link "8c3a3d5c-2820-b60c-8818-e9cf57c805e1" "General Project Overview & Ryan Assistance" "#General_Project_Overview" %}}
+- {{% resource_link "8c3a3d5c-2820-b60c-8818-e9cf57c805e1" "D-Lab Showcase!" "#D-Lab_Showcase_" %}}
+- {{% resource_link "8c3a3d5c-2820-b60c-8818-e9cf57c805e1" "Vapor quantity testing part 2" "#Vapor_Quantity_Testing_Part_2" %}}
+- {{% resource_link "8c3a3d5c-2820-b60c-8818-e9cf57c805e1" "Mini Update" "#Mini_Update" %}}
 
-{{< anchor "Ideas_Right_Now" >}}{{< /anchor >}}Ideas Right Now  
-_by Mary Jue Xu_
----------------------------------------------------------------------------------
+{{< anchor "Ideas_Right_Now" >}}{{< /anchor >}}Ideas Right Now
+
+## *by Mary Jue Xu*
 
 Our blog begins! Many things have happened over the past few weeks, including speaking to many experts at Children's Hospital in Boston. (We will post noted from that shortly. In summary, there are three large areas of focus for improving the nebulizer: dosage, interface, and sterilization. We decided to focus on dosage.
 
@@ -53,9 +53,9 @@ So, it was back to the drawing boards. Right now, we are focused upon an attachm
 
 [Back to top](#A_breath-actuated)
 
-{{< anchor "Problem_and_Background" >}}{{< /anchor >}}Problem and Background Information Gathering  
-_by Caroline Hane-Weijman_
--------------------------------------------------------------------------------------------------------------------------------
+{{< anchor "Problem_and_Background" >}}{{< /anchor >}}Problem and Background Information Gathering
+
+## *by Caroline Hane-Weijman*
 
 Just to give some background to our problem and some of the important information we are working with!
 
@@ -69,126 +69,125 @@ We therefore proceeded to finding more information from experts at Children's Ho
 
 **Nebulizer Dosage**
 
-*   Determined dosage for children
-*   Ongoing discussion amongst doctors
-*   "Dosage should be same" for a child and adult because more is assumed to be wasted for the child
-*   Current dosage is 2.5 mL of premixed albuterol dosage; 0.5 mL parts albuterol and 3 mL of saline
-*   Takes around 15 minutes to administer
-*   Crying isn't necessarily bad- children inhale more deeply while crying
-*   The way to detect inhaled dosage is through
-*   a deposition tracer; using a gamma camera- something that would emit radiation- sensitive photon emitter.
-*   Image of the lung to measure how much goes to the lung
-*   Ventilation profusion scan
-*   Size of dosage particles are very important
-*   Too small particles are not helpful and too large will get stuck in upper part of the mouth and not be inhaled
-*   Diseases cause under ventilation in areas of your body so medicine cannot be ensured to get into all areas of your body that it may need to- also why size matters a lot
-*   Expense of the machine often correlated to how appropriate the size of the particles are
-*   Depending on the disease, would ideally like to be able to alter the particle size
-*   If sealed mask and if humans breath at a rate faster than the nebulizer administers dosage- can assume 100% is being received
+- Determined dosage for children
+- Ongoing discussion amongst doctors
+- "Dosage should be same" for a child and adult because more is assumed to be wasted for the child
+- Current dosage is 2.5 mL of premixed albuterol dosage; 0.5 mL parts albuterol and 3 mL of saline
+- Takes around 15 minutes to administer
+- Crying isn't necessarily bad- children inhale more deeply while crying
+- The way to detect inhaled dosage is through
+- a deposition tracer; using a gamma camera- something that would emit radiation- sensitive photon emitter.
+- Image of the lung to measure how much goes to the lung
+- Ventilation profusion scan
+- Size of dosage particles are very important
+- Too small particles are not helpful and too large will get stuck in upper part of the mouth and not be inhaled
+- Diseases cause under ventilation in areas of your body so medicine cannot be ensured to get into all areas of your body that it may need to- also why size matters a lot
+- Expense of the machine often correlated to how appropriate the size of the particles are
+- Depending on the disease, would ideally like to be able to alter the particle size
+- If sealed mask and if humans breath at a rate faster than the nebulizer administers dosage- can assume 100% is being received
 
 **Interface**
 
-*   Important to allow inhalation through mouth and nose
-*   Especially as many children are sick or crying while they are using it so nose is probably stuffed a large percentage of the time
-*   Hard to nebulize through mouth while with pacifier
-*   Don't like to use mask; sometimes put it by their face while sleeping but they are not getting full medication
-*   Flavors that would taste could help
-*   "Bubble masks" in the shape of fish are currently widely used - figures help compliance. The ventilation holes for this mask is located at the bottom which avoids the eyes being too exposed to the medicine
-*   Mouthpiece for inhaler is used for 5-6 year-olds and older; mask is used for children under 5 years of age
-*   Play therapy is the most effective way of getting a child to comply (role playing on others and yourself to the child more comfortable with the idea)
+- Important to allow inhalation through mouth and nose
+- Especially as many children are sick or crying while they are using it so nose is probably stuffed a large percentage of the time
+- Hard to nebulize through mouth while with pacifier
+- Don't like to use mask; sometimes put it by their face while sleeping but they are not getting full medication
+- Flavors that would taste could help
+- "Bubble masks" in the shape of fish are currently widely used - figures help compliance. The ventilation holes for this mask is located at the bottom which avoids the eyes being too exposed to the medicine
+- Mouthpiece for inhaler is used for 5-6 year-olds and older; mask is used for children under 5 years of age
+- Play therapy is the most effective way of getting a child to comply (role playing on others and yourself to the child more comfortable with the idea)
 
 **Type of Medicines**
 
-*   Steroids (more expensive)
-*   Albuterol
-*   Creates side effects like increased heart rate
-*   Physical changes occur but difficult to use as a way to monitor since reactions are specific to patient
-*   Considered a safe medicine
+- Steroids (more expensive)
+- Albuterol
+- Creates side effects like increased heart rate
+- Physical changes occur but difficult to use as a way to monitor since reactions are specific to patient
+- Considered a safe medicine
 
 **Ideas for monitoring airflow as a way to monitor dosage**
 
-*   Capnography- summing airflow idea
-*   Intubation (exist as a color indicator)
-*   Aerochamber- Meter dose inhalers/ spacers- they have whistles- at proper speed
-*   Video game of trying to stay ball up in the air
-*   Balls stay up- to expand lungs- incentive spirometer
+- Capnography- summing airflow idea
+- Intubation (exist as a color indicator)
+- Aerochamber- Meter dose inhalers/ spacers- they have whistles- at proper speed
+- Video game of trying to stay ball up in the air
+- Balls stay up- to expand lungs- incentive spirometer
 
 **Sterilization**
 
-*   Cold chemical sterilization
-*   Autoclave- would melt the plastic-some plastics are resistant
-*   Anything that touches the patient and anything with a backflow (no retrograde flow) should be sterilized
-*   Tube that touches compressor does not need sterilization, only the cup needs sterilization
-*   Here, mothers will put parts in a breast milk bag, fill with some water and place it in the microwave
-*   For multiple patient use: wash with soap and water then boil
-*   Ball that would expand and compress depending on heat to indicate sterilization? Color changing indicator?
+- Cold chemical sterilization
+- Autoclave- would melt the plastic-some plastics are resistant
+- Anything that touches the patient and anything with a backflow (no retrograde flow) should be sterilized
+- Tube that touches compressor does not need sterilization, only the cup needs sterilization
+- Here, mothers will put parts in a breast milk bag, fill with some water and place it in the microwave
+- For multiple patient use: wash with soap and water then boil
+- Ball that would expand and compress depending on heat to indicate sterilization? Color changing indicator?
 
 **Three major types of Nebulizers**
 
-*   Jet nebulizer (Air compressor as seen in Nicaragua and most commonly used worldwide)
-    *   Most commonly used here is the Pariproneb with 50 psi pressure (much higher than Nicaraguan which was around 15 to 20 psi)
-*   Vibrating Mesh
-    *   New technology as of a couple of years age
-    *   Aeroneb Solo System (Not widely used)
-        *   Very cool!
-        *   Disposable piece that would cost $40
-        *   Would break up into adequate particles sizes of 3-5 microns
-        *   Piece connected to a controller with batteries and frequency generator (set)
-        *   Can be placed into series with other machines such as ventilators
-        *   Medicine is gravity fed through a vibrating mesh that breaks up the particles- mesh is a one-way valve
-        *   Solves dosage problem: device is breath-actuated so whatever medicine is used is ensured to be in the patient.
-        *   Problem is that reservoir gets clogged if the medicine isn't breathed in fast enough Brainstorming ways to stop vibrating mesh if too clogged; can possibly be detected through shining an LED through it. Or if controller can only trigger for next breath?
-        *   Currently used with corrugated tubing can replace with see-through to look at dosage that is in it.
-        *   Need sealed area
-        *   Ideas to prolong life of disposable piece is to create a one-way valve mask that can be attached
-    *   Ultrasonic
-        *   Widely used before but it would steam copiously and would also "rip" particles rather than just breaking them up into too small particles
-        *   Stopped being used in the '80s and '90s; no considerable efforts have been put into improving technology so still room for improvement and play.
-        *   Idea: common reservoir with multiple outlets for multiple patient use??
-            *   Nurse described E-flow compressor
-            *   Only used for astroneum medicine
-            *   Works similarly to vibrating mesh
-            *   Patients having trouble with cleaning it
-            *   Fun Fact: Teenage patient used it to inhale marijuana!! (what is the world coming to.. :) )
+- Jet nebulizer (Air compressor as seen in Nicaragua and most commonly used worldwide)
+    - Most commonly used here is the Pariproneb with 50 psi pressure (much higher than Nicaraguan which was around 15 to 20 psi)
+- Vibrating Mesh
+    - New technology as of a couple of years age
+    - Aeroneb Solo System (Not widely used)
+        - Very cool!
+        - Disposable piece that would cost $40
+        - Would break up into adequate particles sizes of 3-5 microns
+        - Piece connected to a controller with batteries and frequency generator (set)
+        - Can be placed into series with other machines such as ventilators
+        - Medicine is gravity fed through a vibrating mesh that breaks up the particles- mesh is a one-way valve
+        - Solves dosage problem: device is breath-actuated so whatever medicine is used is ensured to be in the patient.
+        - Problem is that reservoir gets clogged if the medicine isn't breathed in fast enough Brainstorming ways to stop vibrating mesh if too clogged; can possibly be detected through shining an LED through it. Or if controller can only trigger for next breath?
+        - Currently used with corrugated tubing can replace with see-through to look at dosage that is in it.
+        - Need sealed area
+        - Ideas to prolong life of disposable piece is to create a one-way valve mask that can be attached
+    - Ultrasonic
+        - Widely used before but it would steam copiously and would also "rip" particles rather than just breaking them up into too small particles
+        - Stopped being used in the '80s and '90s; no considerable efforts have been put into improving technology so still room for improvement and play.
+        - Idea: common reservoir with multiple outlets for multiple patient use??
+            - Nurse described E-flow compressor
+            - Only used for astroneum medicine
+            - Works similarly to vibrating mesh
+            - Patients having trouble with cleaning it
+            - Fun Fact: Teenage patient used it to inhale marijuana!! (what is the world coming to.. :) )
 
 More details coming soon!
 
 [Back to top](#A_breath-actuated)
 
-{{< anchor "Broken_Nebulizer" >}}{{< /anchor >}}Broken Nebulizer in Nicaragua  
-_by Caroline Hane-Weijman_
-----------------------------------------------------------------------------------------------------------
+{{< anchor "Broken_Nebulizer" >}}{{< /anchor >}}Broken Nebulizer in Nicaragua
 
-{{< resource aaecbf2a-9891-d8cb-cd97-fb3ca6ef68b0 >}}
+## *by Caroline Hane-Weijman*
+
+{{< resource uuid="aaecbf2a-9891-d8cb-cd97-fb3ca6ef68b0" >}}
 
 Broken nebulizer
 
 [Back to top](#A_breath-actuated)
 
-{{< anchor "Sites_and_AeroEclipse" >}}{{< /anchor >}}Sites and AeroEclipse  
-_by Caroline Hane-Weijman_
--------------------------------------------------------------------------------------------------------
+{{< anchor "Sites_and_AeroEclipse" >}}{{< /anchor >}}Sites and AeroEclipse
+
+## *by Caroline Hane-Weijman*
 
 Some useful sites that were recommended to us by Jose to explore:
 
-*   [www.instructables.com](http://www.instructables.com/)
-*   [www.asknature.org](http://www.asknature.org/)
-*   [www.hackaday.com](http://www.hackaday.com/)
-*   [www.thingiverse.com](http://www.thingiverse.com/)
-*   [www.medgadget.com](http://www.medgadget.com/)
-*   Respiratory Drug Delivery Conference
-*   Supersoakers
-*   Car wash accessories
+- [www.instructables.com](http://www.instructables.com/)
+- [www.asknature.org](http://www.asknature.org/)
+- [www.hackaday.com](http://www.hackaday.com/)
+- [www.thingiverse.com](http://www.thingiverse.com/)
+- Respiratory Drug Delivery Conference
+- Supersoakers
+- Car wash accessories
 
-Another device Jose helped us come across which almost basically solves our issue... Aeroeclipse!
+Another device Jose helped us come across which almost basically solves our issue… Aeroeclipse!
 
-*   Diaphragm idea that incorporates a breath actuated valve that will direct air from air compressor through medicine when breathing in, and will redirect away while not breathing so only air, no medicine is wasted and therefore dosage delivery can be controlled.
+- Diaphragm idea that incorporates a breath actuated valve that will direct air from air compressor through medicine when breathing in, and will redirect away while not breathing so only air, no medicine is wasted and therefore dosage delivery can be controlled.
 
 [Back to top](#A_breath-actuated)
 
-{{< anchor "Background_Discussion" >}}{{< /anchor >}}Background Discussion on the Capnography Technology  
-_by Shan Tie_
-------------------------------------------------------------------------------------------------------------------------
+{{< anchor "Background_Discussion" >}}{{< /anchor >}}Background Discussion on the Capnography Technology
+
+## *by Shan Tie*
 
 The use of capnography was first considered as a way to monitor dosage. Caroline had initially discovered this technology in the context of its usage for anesthesia and intensive care. The capnogram directly measures the inhaled and exhaled concentration or partial pressure of CO{{< sub "2" >}} produced by the patient. Furthermore, the device can indirectly measure the amount of arterial CO{{< sub "2" >}}.
 
@@ -204,9 +203,9 @@ After speaking with Brian Walsh, a respiratory specialist at the Children's Hosp
 
 [Back to top](#A_breath-actuated)
 
-{{< anchor "Background_on_Vibrating" >}}{{< /anchor >}}Background on Vibrating Mesh Technology  
-_by Shan Tie_
---------------------------------------------------------------------------------------------------------------
+{{< anchor "Background_on_Vibrating" >}}{{< /anchor >}}Background on Vibrating Mesh Technology
+
+## *by Shan Tie*
 
 During our visit to speak with Brian Walsh, he introduced a new nebulizer that is based on vibrating mesh instead of the standard air jet from the compressor pump.
 
@@ -216,8 +215,7 @@ This technology seemed promising because it addressed two major pitfalls in the 
 
 [Back to top](#A_breath-actuated)
 
-{{< anchor "Ultrasound_Nebulizer" >}}{{< /anchor >}}Ultrasound Nebulizer Background
------------------------------------------------------------------------------------
+## {{< anchor "Ultrasound_Nebulizer" >}}{{< /anchor >}}Ultrasound Nebulizer Background
 
 When we visited Brian Walsh and Chris Hug, they also mentioned a type of nebulizer that operated by sending ultrasonic waves through the drug. These were developed around 30 years ago, and consist of a piezoelectric plate which transmits high-frequency vibrations through a liquid. These devices output a far higher volume of nebulized material than traditional jet nebulizers, and since the frequency can be very easily controlled do not have the problem of varying particle size encountered by jet nebulizer. At first we had the idea to utilize the high-volume output by collecting it in a reservoir from which multiple patients could be nebulized. However, we were told that though the particle size was uniform, it could often be too small - meaning that either that the particles would only be effective on deep-lung conditions or that they would not settle in the lungs at all but be immediately exhaled. In some cases, the ultrasonic nebulizers actually ripped up the molecular structure of the drug, rendering it useless.
 
@@ -225,8 +223,7 @@ We decided that considering the far higher cost of ultrasonic nebulizers they ma
 
 [Back to top](#A_breath-actuated)
 
-{{< anchor "Design_Update" >}}{{< /anchor >}}Design Update: Playing with Nebulizer Reservoir
---------------------------------------------------------------------------------------------
+## {{< anchor "Design_Update" >}}{{< /anchor >}}Design Update: Playing with Nebulizer Reservoir
 
 1) Drilling holes in Tupperware reservoir
 
@@ -246,9 +243,9 @@ Today, we were orientated to the setup and we plan on doing some tests during th
 
 [Back to top](#A_breath-actuated)
 
-{{< anchor "Background_on_Anti-Static" >}}{{< /anchor >}}Background on Anti-Static Coating for the Reservoir Surface to Minimize Aerosol Particle Coagulation  
-_by Shan Tie_
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{{< anchor "Background_on_Anti-Static" >}}{{< /anchor >}}Background on Anti-Static Coating for the Reservoir Surface to Minimize Aerosol Particle Coagulation
+
+## *by Shan Tie*
 
 ### Anti-Static Methods
 
@@ -258,7 +255,7 @@ Glass pipes with a protective antistatic coating: ([PDF](https://link.springer.c
 
 The optimal composition of the applied film is found to be: 50% SnCI~.5H20 with a concentration of 1% SbCI3.
 
-[Anti-static coating and its method of preparation](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=4382881.PN.&OS=PN/4382881&RS=PN/4382881):
+Anti-static coating and its method of preparation:
 
 This patent talks about composition of anti-static material composed of a synthetic resin base without any metallic particles. However, it is in the context of using this coating for the fuselage of airplanes; therefore it might be a bit more than what we need for coating our nebulizers.
 
@@ -276,17 +273,17 @@ Found various anti-static tape:
 
 1) [3M 40PR 1/4 in x 72 yd Clear Anti-Static Tape](http://www.google.com/products/catalog?hl=en&client=firefox-a&q=anti-static+tape&cid=6949697957721171161&ei=ZUbYS8ySN5K82ATq28iwBg&sa=title&ved=0CAwQ8wIwATgA#p)
 
-2) [Dadas Tapes 1662-05 - Anti-Static Transparent Tape, 3" Core, 1/2" ...](https://www.hisco.com/Catalog/Adhesives-Sealants-Tapes/Tapes/Anti-Static-Tapes/1662-05)
+2) [Dadas Tapes 1662-05 - Anti-Static Transparent Tape, 3" Core, 1/2" …](https://www.hisco.com/Catalog/Adhesives-Sealants-Tapes/Tapes/Anti-Static-Tapes/1662-05)
 
 3) [Botron B1651 (1/2"x36yd Clear ESD Tape) - 1/2"x36yd Clear ESD Tape](http://www.google.com/products/catalog?hl=en&client=firefox-a&q=anti-static+tape&cid=8208940519448190384&ei=ZUbYS8ySN5K82ATq28iwBg&sa=title&ved=0CCcQ8wIwBzgA#p)
 
 [Back to top](#A_breath-actuated)
 
-{{< anchor "Pictures_of_our_Reservoir" >}}{{< /anchor >}}Pictures of our Reservoir Prototyping Round 1  
-_by Caroline Hane-Weijman_
------------------------------------------------------------------------------------------------------------------------------------
+{{< anchor "Pictures_of_our_Reservoir" >}}{{< /anchor >}}Pictures of our Reservoir Prototyping Round 1
 
-{{< resource c5bed93f-33ac-4b46-3392-27fedbbcab2b >}}
+## *by Caroline Hane-Weijman*
+
+{{< resource uuid="c5bed93f-33ac-4b46-3392-27fedbbcab2b" >}}
 
 Vapor laser sensor connected to the Arduino can measure particle size and concentration
 
@@ -294,10 +291,10 @@ We need to explore a valve system so that the pressure does not get too high ins
 
 Next step: Build the patient tube with a one-way valve and another vapor sensor!
 
-{{< resource 1dc1f2ff-a197-fe3b-c4b5-81e9b96e316c >}}
+{{< resource uuid="1dc1f2ff-a197-fe3b-c4b5-81e9b96e316c" >}}
 
 Experimental setup with patient tube, one-way valve, and second vapor sensor
 
 [Back to top](#A_breath-actuated)
 
-1 {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "2" %}} {{% resource_link 8c3a3d5c-2820-b60c-8818-e9cf57c805e1 "Next" %}} >>
+1 {{% resource_link "8c3a3d5c-2820-b60c-8818-e9cf57c805e1" "2" %}} {{% resource_link "8c3a3d5c-2820-b60c-8818-e9cf57c805e1" "Next" %}} >>

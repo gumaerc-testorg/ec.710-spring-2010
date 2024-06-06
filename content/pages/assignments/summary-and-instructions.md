@@ -2,38 +2,37 @@
 content_type: page
 description: Instructions for an assignment to graph asthma or heart disease approaches
   using the Global Health Innovation Compass.
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: fba44aef-aca5-c08e-c21b-aa606017c091
-title: 'Summary and Instructions '
+title: Summary and Instructions
 uid: 0ff0dfa9-90ca-535e-b4c9-f41e25e219c3
 ---
-
 Using the Global Health Innovation Compass framework described in Lec #1, map out two healthcare interventions to show how medical technology can play an important role in treatment.
 
 Your two options are:
 
-1.  Asthma
-2.  Cardiovascular Disease (using Rheumatic Heart Disease as an example)
+1. Asthma
+2. Cardiovascular Disease (using Rheumatic Heart Disease as an example)
 
 The exercise will be evaluated on:
 
-*   How well you were able to show the relationships between solutions
-*   The use of adequate Device Design Parameters in showing a solution (you have to show at least five parameters)
+- How well you were able to show the relationships between solutions
+- The use of adequate Device Design Parameters in showing a solution (you have to show at least five parameters)
 
-Asthma
-------
+## Asthma
 
 The National Library of Medicine offers this description of asthma:
 
-_"Asthma is a chronic disease that affects your airways. Your airways are tubes that carry air in and out of your lungs. If you have asthma, the inside walls of your airways become sore and swollen. That makes them very sensitive, and they may react strongly to things that you are allergic to or find irritating. When your airways react, they get narrower and your lungs get less air. This can cause wheezing, coughing, chest tightness and trouble breathing, especially early in the morning or at night._
+*"Asthma is a chronic disease that affects your airways. Your airways are tubes that carry air in and out of your lungs. If you have asthma, the inside walls of your airways become sore and swollen. That makes them very sensitive, and they may react strongly to things that you are allergic to or find irritating. When your airways react, they get narrower and your lungs get less air. This can cause wheezing, coughing, chest tightness and trouble breathing, especially early in the morning or at night.*
 
-_When your asthma symptoms become worse than usual, it's called an asthma attack. In a severe asthma attack, the airways can close so much that your vital organs do not get enough oxygen. People can die from severe asthma attacks._
+*When your asthma symptoms become worse than usual, it's called an asthma attack. In a severe asthma attack, the airways can close so much that your vital organs do not get enough oxygen. People can die from severe asthma attacks.*
 
-_Asthma is treated with two kinds of medicines: quick-relief medicines to stop asthma symptoms and long-term control medicines to prevent symptoms."_
+*Asthma is treated with two kinds of medicines: quick-relief medicines to stop asthma symptoms and long-term control medicines to prevent symptoms."*
 
 In resource-poor settings, the wonder drugs that have made asthma a chronic manageable disease in industrialized countries are not affordable to the majority of the population. GlaxoSmithKline makes a drug called Advair which is a combination of Fluticasone and Salmeterol. Fluticasone, a corticosteroid, is the anti-inflammatory component of the combination, while Salmeterol treats constriction of the airways. Together, they relieve the symptoms of coughing, wheezing and shortness of breath better than either fluticasone or Salmeterol taken on its own. The unit price of typical Advair inhaler: $150.
 
@@ -47,31 +46,30 @@ An alternative to the albuterol metered dose inhaler is the nebulizer. Nebulizer
 
 For an anatomical look at what as asthma attack looks like see:
 
-{{< resource fb712e31-b7ff-e189-5062-c491fcd15c35 >}}
+{{< resource uuid="fb712e31-b7ff-e189-5062-c491fcd15c35" >}}
 
 This video is from [dougtube777](http://www.youtube.com/user/dougtube777) on YouTube and is not provided under our [Creative Commons license](/terms/#cc).
 
 Healthcare providers along this chain will include:
 
-*   Nurses
-*   General Practitioners
-*   Pulmonologists
-*   Respiratory Therapists
+- Nurses
+- General Practitioners
+- Pulmonologists
+- Respiratory Therapists
 
 Equipment includes:
 
-*   Albuterol Inhalers
-*   Nebulizers
-*   Stethoscopes and their accessories
-*   Systemic corticosteroid injections
-*   Anything else that you can think that will add to the Device Design Parameters used in class.
+- Albuterol Inhalers
+- Nebulizers
+- Stethoscopes and their accessories
+- Systemic corticosteroid injections
+- Anything else that you can think that will add to the Device Design Parameters used in class.
 
 For this exercise, consider all the opportunities for emergency when administering medicine to stop an asthma attack.
 
-For a full case example of asthma treatment, see Cooper, P. J., et al. "[Asthma in Latin America: A Public Health Challenge and Research Opportunity](http://dx.doi.org/10.1111/j.1398-9995.2008.01902.x)." _Allergy_ 64, no. 1 (2009): 5-17.
+For a full case example of asthma treatment, see Cooper, P. J., et al. "[Asthma in Latin America: A Public Health Challenge and Research Opportunity](http://dx.doi.org/10.1111/j.1398-9995.2008.01902.x)." *Allergy* 64, no. 1 (2009): 5-17.
 
-Rheumatic Heart Disease
------------------------
+## Rheumatic Heart Disease
 
 In many developing countries, Rheumatic Heart Disease is responsible for the most common form of valvular heart disease in developing countries.
 
@@ -91,28 +89,28 @@ and with a different type of damage called Mitral Regurgitation: ([WAV](http://d
 
 The following chart shows the progression of the disease and opportunities for care.
 
-{{< resource 64e0bd59-7fe8-1408-1cb4-050499da4a24 >}}
+{{< resource uuid="64e0bd59-7fe8-1408-1cb4-050499da4a24" >}}
 
 Image by MIT OpenCourseWare. After Carapetis, New England Journal of Medicine, 2007.
 
 **Healthcare providers** along this chain will include:
 
-*   Nurses
-*   General Practitioners
-*   Cardiologists
-*   Nurses who have been trained in listening to heart sounds
-*   Community Health Care workers
-*   Cardiac Surgeons
+- Nurses
+- General Practitioners
+- Cardiologists
+- Nurses who have been trained in listening to heart sounds
+- Community Health Care workers
+- Cardiac Surgeons
 
 **Equipment & Technology** includes:
 
-*   Thermometers, Digital and Analog
-*   Diagnostics for Strep A
-*   Antibiotics
-*   Stethoscopes and their accessories
-*   Echocardiograms for advanced heart diagnostics
-*   Anything else that you can think that will add to the Device Design Parameters used in class.
+- Thermometers, Digital and Analog
+- Diagnostics for Strep A
+- Antibiotics
+- Stethoscopes and their accessories
+- Echocardiograms for advanced heart diagnostics
+- Anything else that you can think that will add to the Device Design Parameters used in class.
 
-For a full case example of rheumatic heart disease in the developing world see: Carapetis J. R. "[Rheumatic Heart Disease in Developing Countries](http://content.nejm.org/cgi/content/extract/357/5/439)." _New England Journal of Medicine_ 357, no. 5 (2007): 439-441.
+For a full case example of rheumatic heart disease in the developing world see: Carapetis J. R. "Rheumatic Heart Disease in Developing Countries." *New England Journal of Medicine* 357, no. 5 (2007): 439-441.
 
 For this exercise, consider all the opportunities for care along the progression of the disease. As with all diseases, prevention is the best case. We want to explore what happens when you've crossed that threshold along the different routes.

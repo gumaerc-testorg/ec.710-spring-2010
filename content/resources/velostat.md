@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/c5f615100371fdfdca20261cea0f3b62_velostat.jpg
+file_size: 69764
 file_type: image/jpeg
 image_metadata:
   caption: ''
