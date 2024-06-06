@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Instructor Jose Gomez-Marquez introducing D-Lab Health to the audience. '
 file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/a6fe975a5d2735cf5e79ed8165ccaf11_presentation2.jpg
+file_size: 55466
 file_type: image/jpeg
 image_metadata:
   caption: Instructor Jose Gomez-Marquez introducing D-Lab Health to the audience.

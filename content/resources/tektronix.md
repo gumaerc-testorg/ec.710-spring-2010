@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Oscilloscope readout from prototype. '
 file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/8bb1426d58fc39b4a6748c91b184359c_tektronix.jpg
+file_size: 62524
 file_type: image/jpeg
 image_metadata:
   caption: Oscilloscope readout from prototype.

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/3609e5f4369ec324572f235d3dc9ac59_pugh_chart.jpg
+file_size: 65996
 file_type: image/jpeg
 image_metadata:
   caption: ''
