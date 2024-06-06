@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/c636ee581c8b5e2f64ba5e51ada237d9_ambulance_interior.jpg
+file_size: 63569
 file_type: image/jpeg
 image_metadata:
   caption: ''

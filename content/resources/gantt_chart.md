@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/7be116d8fb6a1d1ac9832a20c66b7cb3_gantt_chart.jpg
+file_size: 48678
 file_type: image/jpeg
 image_metadata:
   caption: ''

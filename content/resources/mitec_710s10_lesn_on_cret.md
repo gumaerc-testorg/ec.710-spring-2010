@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding the Challenges of Teaching
   & Learning Creativity.
 file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/7de3270c8328d5d840bdbd46450c8ce0_MITEC_710S10_lesn_on_cret.pdf
+file_size: 121754
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

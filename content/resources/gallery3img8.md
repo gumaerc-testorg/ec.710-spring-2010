@@ -2,6 +2,7 @@
 content_type: resource
 description: Squeezing a toy ball.
 file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/309aee961e455f6ebb011d8afff6f898_gallery3img8.jpg
+file_size: 65933
 file_type: image/jpeg
 image_metadata:
   caption: Squeezing a toy ball.

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/fe53880239990477411b13cecd91ed12_Eye_Heme_Slide3Bottom.jpg
+file_size: 59533
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding .
 file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/8cc6ea045efcaa83a62b51fbfeef6655_MITEC_710S10_SArm_ElecPC.pdf
+file_size: 246222
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
