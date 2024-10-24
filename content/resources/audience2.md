@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Presenting the prototype.
-file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/fd163f705f383f56991496b69e21ed9c_audience2.jpg
+file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/fd163f705f383f56991496b69e21ed9c_audience2.jpg
 file_size: 73467
 file_type: image/jpeg
 image_metadata:

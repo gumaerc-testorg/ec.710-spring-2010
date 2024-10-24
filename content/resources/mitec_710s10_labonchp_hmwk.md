@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding diagnostics lab.
-file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/38c044ff9a0cbdf2c8507e38f665eac9_MITEC_710S10_labonchp_hmwk.pdf
+file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/38c044ff9a0cbdf2c8507e38f665eac9_MITEC_710S10_labonchp_hmwk.pdf
 file_size: 292856
 file_type: application/pdf
 learning_resource_types:

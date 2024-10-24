@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Securing electrodes on the arm
-file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/f0d4b6efc0fbf6abe0a471d963e44848_human_subjects.jpg
+file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/f0d4b6efc0fbf6abe0a471d963e44848_human_subjects.jpg
 file_size: 46727
 file_type: image/jpeg
 image_metadata:
