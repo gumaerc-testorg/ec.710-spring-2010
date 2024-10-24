@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding instrumentation lab.
-file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/a0f1f1818e4ee1fe1505e30e6a7883b9_MITEC_710S10_instrumn_lab.pdf
+file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/a0f1f1818e4ee1fe1505e30e6a7883b9_MITEC_710S10_instrumn_lab.pdf
 file_size: 517231
 file_type: application/pdf
 learning_resource_types:

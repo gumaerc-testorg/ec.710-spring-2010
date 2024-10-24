@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Four test materials with squeeze toys.
-file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/3ceac5f40e983a1c0bd569ece42e8f12_gallery3img7.jpg
+file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/3ceac5f40e983a1c0bd569ece42e8f12_gallery3img7.jpg
 file_size: 68368
 file_type: image/jpeg
 image_metadata:

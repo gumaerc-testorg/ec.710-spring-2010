@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/4dd7cfc1a4d44853c725e11244f5f0e9_BabyTrackr_Hesperian.jpg
+file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/4dd7cfc1a4d44853c725e11244f5f0e9_BabyTrackr_Hesperian.jpg
 file_size: 52047
 file_type: image/jpeg
 image_metadata:

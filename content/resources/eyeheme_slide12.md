@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/385fa09beefdee38555d6883e74f7bc2_EyeHeme_slide12.jpg
+file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/385fa09beefdee38555d6883e74f7bc2_EyeHeme_slide12.jpg
 file_size: 65658
 file_type: image/jpeg
 image_metadata:

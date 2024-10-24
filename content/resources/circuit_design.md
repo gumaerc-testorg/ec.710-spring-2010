@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/fa4c5f5d9e90f5637282135c3744cc43_circuit_design.jpg
+file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/fa4c5f5d9e90f5637282135c3744cc43_circuit_design.jpg
 file_size: 70982
 file_type: image/jpeg
 image_metadata:
