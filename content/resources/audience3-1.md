@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Speaking with an attendee at the MIT Museum. '
-file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/3bb82ff78e46df5fb2b376075e8feb8b_audience3.jpg
+file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/3bb82ff78e46df5fb2b376075e8feb8b_audience3.jpg
 file_size: 60829
 file_type: image/jpeg
 image_metadata:

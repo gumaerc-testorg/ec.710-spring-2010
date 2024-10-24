@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding lecture 8.
-file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/51cb9d78c49da800380097df4d996d15_MITEC_710S10_arduino.pdf
+file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/51cb9d78c49da800380097df4d996d15_MITEC_710S10_arduino.pdf
 file_size: 1931192
 file_type: application/pdf
 learning_resource_types: []

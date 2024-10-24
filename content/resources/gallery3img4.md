@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Cotton '
-file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/fb1355db1888a07036db8e02cbaa6ab4_gallery3img4.jpg
+file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/fb1355db1888a07036db8e02cbaa6ab4_gallery3img4.jpg
 file_size: 42362
 file_type: image/jpeg
 image_metadata:
