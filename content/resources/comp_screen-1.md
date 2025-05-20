@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Readout on screen of prototype during testing.
-file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/f1b6e2d80404e0413efaed95fcca40f7_comp_screen.jpg
+file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/f1b6e2d80404e0413efaed95fcca40f7_comp_screen.jpg
 file_size: 57322
 file_type: image/jpeg
 image_metadata:

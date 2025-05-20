@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding FDA 510(k) homework.
-file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/47a0088d00647273527f10c4c74eb7c0_MITEC_710S10_510k_homework.pdf
+file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/47a0088d00647273527f10c4c74eb7c0_MITEC_710S10_510k_homework.pdf
 file_size: 1415214
 file_type: application/pdf
 learning_resource_types:
