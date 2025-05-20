@@ -68,8 +68,8 @@ Non-communicable diseases
  
 {{< tdclose >}}{{< tdopen >}}
 
-Disease Control Priorities Project. [*Disease Control Priorities in Developing Countries*](https://www.dcp-3.org/sites/default/files/dcp2/DCPFM.pdf) \[abstracts, PDF and full text HTML available for download\]   
-\- Chapter 30, "Diabetes: The Pandemic and Potential Solutions." by K. M. Venkat Narayan, et al.   
+Disease Control Priorities Project. [*Disease Control Priorities in Developing Countries*](https://www.dcp-3.org/sites/default/files/dcp2/DCPFM.pdf) \[abstracts, PDF and full text HTML available for download\]      
+\- Chapter 30, "Diabetes: The Pandemic and Potential Solutions." by K. M. Venkat Narayan, et al.      
 \- Chapter 33, "Cardiovascular Disease." by Thomas A. Gaziano, et al.
 
 International Atomic Energy Agency. *A Silent Crisis: Cancer Treatment in Developing Countries*. September 2003. ([PDF](http://screening.iarc.fr/doc/treatingcancer.pdf))
@@ -118,7 +118,7 @@ Kahn, Jonathan. "[Race in a Bottle](http://www.scientificamerican.com/article.cf
 
 Wuethrich, Bernice, ed. "[Introduction and Sustainable Use of Vaccines in Developing Countries](http://www.gatesfoundation.org/Media-Center/Press-Releases/2005/09/Sabin-Vaccine-Institute-Receives-150000-Grant)." *Proceedings of the Albert B. Sabin Vaccine Institute 12th Annual Vaccine Policy Colloquium*, October 19-21, 2005. 
 
-"[Students Devise Oral Quick-Dissolve Strips for Rotavirus Vaccine](http://www.eurekalert.org/pub_releases/2007-05/jhu-sdo051407.php)." Johns Hopkins University press release, May 14, 2007.
+"[Students Devise Oral Quick-Dissolve Strips for Rotavirus Vaccine.](https://www.eurekalert.org/news-releases/757657)" Johns Hopkins University press release, May 14, 2007.
 
 Mullins, Justin. "[Immune System in a Jar](http://www.newscientist.com/blog/invention/2008/03/immune-system-in-jar.html)." *New Scientist: Invention Blog*, March 05, 2008.
 

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Demonstration at the MIT Museum.
-file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/3363534db40eacec2df4b058dc236d41_presentation3.jpg
+file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/3363534db40eacec2df4b058dc236d41_presentation3.jpg
 file_size: 68601
 file_type: image/jpeg
 image_metadata:

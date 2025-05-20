@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Poster setup at the MIT Museum. '
-file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/81d0563cab57d41c4f64a1dfbe2222fc_presentation4.jpg
+file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/81d0563cab57d41c4f64a1dfbe2222fc_presentation4.jpg
 file_size: 65032
 file_type: image/jpeg
 image_metadata:
