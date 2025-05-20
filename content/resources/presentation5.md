@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructor Amit Srivastava testing the prototype.
-file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/f0eafd1230d5902b62558bc6f1aa7bad_presentation5.jpg
+file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/f0eafd1230d5902b62558bc6f1aa7bad_presentation5.jpg
 file_size: 72256
 file_type: image/jpeg
 image_metadata:
