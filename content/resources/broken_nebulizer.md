@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/aaecbf2a9891d8cbcd97fb3ca6ef68b0_broken_nebulizer.jpg
+file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/aaecbf2a9891d8cbcd97fb3ca6ef68b0_broken_nebulizer.jpg
 file_size: 66843
 file_type: image/jpeg
 image_metadata:

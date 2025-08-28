@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/893e3addef19cd90cb85f92b09a0f5af_sensor_setup.jpg
+file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/893e3addef19cd90cb85f92b09a0f5af_sensor_setup.jpg
 file_size: 47398
 file_type: image/jpeg
 image_metadata:

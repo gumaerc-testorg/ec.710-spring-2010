@@ -68,8 +68,8 @@ Non-communicable diseases
  
 {{< tdclose >}}{{< tdopen >}}
 
-Disease Control Priorities Project. [*Disease Control Priorities in Developing Countries*](https://www.dcp-3.org/sites/default/files/dcp2/DCPFM.pdf) \[abstracts, PDF and full text HTML available for download\]      
-\- Chapter 30, "Diabetes: The Pandemic and Potential Solutions." by K. M. Venkat Narayan, et al.      
+Disease Control Priorities Project. [*Disease Control Priorities in Developing Countries*](https://www.dcp-3.org/sites/default/files/dcp2/DCPFM.pdf) \[abstracts, PDF and full text HTML available for download\]        
+\- Chapter 30, "Diabetes: The Pandemic and Potential Solutions." by K. M. Venkat Narayan, et al.        
 \- Chapter 33, "Cardiovascular Disease." by Thomas A. Gaziano, et al.
 
 International Atomic Energy Agency. *A Silent Crisis: Cancer Treatment in Developing Countries*. September 2003. ([PDF](http://screening.iarc.fr/doc/treatingcancer.pdf))
@@ -130,7 +130,7 @@ Garcia-Contreras, Lucila, et al. "[Immunization by a Bacterial Aerosol](http://w
 
 Flatow, Ira, and Alex Chadwick. "[Vaccine Tech Could Help Millions in Developing Nations](http://www.npr.org/templates/story/story.php?storyId=4120487)." *National Public Radio*, October 21, 2004.
 
-Chowdury, Zafrin. "[Bangladesh Launches Mass Immunization Campaign after Polio Re-emerges](http://www.unicef.org/infobycountry/bangladesh_33390.html)." UNICEF, 2006. Associated video ([RM - 36K](http://www.unicef.org/videoaudio/ramfiles/6178l_bangladeshpolio.ram)) ([RM - 458K](http://www.unicef.org/videoaudio/ramfiles/6178h_bangladeshpolio.ram)).
+Chowdury, Zafrin. "Bangladesh Launches Mass Immunization Campaign after Polio Re-emerges." UNICEF, 2006.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
