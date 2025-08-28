@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/54ae5249f856a245ac67c3e480ca8218_eyes.jpg
+file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/54ae5249f856a245ac67c3e480ca8218_eyes.jpg
 file_size: 68501
 file_type: image/jpeg
 image_metadata:
