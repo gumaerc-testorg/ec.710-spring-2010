@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding lecture 1.
-file: /courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/621eb64a67784767c89daf1805b04dbd_MITEC_710S10_lecture1_OCW.pdf
+file: /ol-ocw-studio-app/courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010/621eb64a67784767c89daf1805b04dbd_MITEC_710S10_lecture1_OCW.pdf
 file_size: 2537869
 file_type: application/pdf
 learning_resource_types: []
