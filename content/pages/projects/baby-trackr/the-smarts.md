@@ -81,7 +81,7 @@ Here were the three topics I just researched for discussion at the next meeting:
 2. What else occurs when contraction happens, how flexiforce can be used
 3. How to make a partogram
 
-For (1) I found a helpful Web site that lists all the [disorders that occur during pregnancy](https://web.archive.org/web/20230209020910/https://www.medicinenet.com/script/main/art.asp?articlekey=40878). All high-risk patients should already be monitored closely, and those include: women with chronic hypertension, diabetes, lupus, incompetent cervix, placenta previa, preeclampsia, premature birth, recurrent miscarriages, and thyroid disorders. I think the disorders we should worry about are connected to the uterus in some way and might give false positives when using the belt we're building:
+For (1) I found a helpful Web site that lists all the {{% resource_link "b1965361-22c8-4d6e-bc40-1d605221a02b" "disorders that occur during pregnancy" %}}. All high-risk patients should already be monitored closely, and those include: women with chronic hypertension, diabetes, lupus, incompetent cervix, placenta previa, preeclampsia, premature birth, recurrent miscarriages, and thyroid disorders. I think the disorders we should worry about are connected to the uterus in some way and might give false positives when using the belt we're building:
 
 A) Fibroid Tumors: They are usually undetected non-cancerous masses that occur in the uterus, that go easily undetected in the third trimester of labor. There are four different types of fibroids in the uterus, subserosal, Intramural, submucosal, and Pedunculated. The one that might affect the size of the uterus and is the most common is the Intramural Fibroids, because they develop within the uterine wall and makes the uterus feel larger than normal. This causes pressure and pelvic pain. Another one that could also grow outside the uterus is the Pedunculated fibroids. This enlargement might be confused with the pressure that a contraction makes if we use the flexiforce so we should see if we can use another type of monitor, such as the partogram, which measures the cervix dialation, can be used alongside the flexiforce belt.
 
@@ -127,7 +127,7 @@ When twitching occurs, there is no wave-like movement of the contraction, so the
 
 3) I think we should try and make partograms, they're pretty easy and can monitor dilation, fetal heart rate, duration of labor and vital signs. That way delay or deviations of labor can be detected more easily than depending on contraction rate deviations. It also shows a numerical record of features such as urine output and the volume and type of intravenous infusions (including oxytocin drips):
 
-Image removed due to copyright restrictions. Please see image and explanation of a partogram at [http://www.2womenshealth.com/Childbirth/Partogram.htm](http://www.2womenshealth.com/Childbirth/Partogram.htm)
+Image removed due to copyright restrictions. Please see image and explanation of a partogram at {{% resource_link "f3b49232-fd5d-4f87-9742-90f3fd76c512" "http://www.2womenshealth.com/Childbirth/Partogram.htm" %}}
 
 There are two-hour partograms and four-hour partograms, but I think the best one is to do a two-hour study (approved by WHO, because it increases the need for intervention without improving maternal or neonatal outcomes compared to four-hour partogram) and when the labor looks slow, the doctor will do something about it. Doctors say that a rate below the average (1 cm/h) shows a slow labor. First, they rupture the amniotic sac and then give oxytocin to stimulate contractions and labor. Partograms must be used along with the belt because when doctors stimulate contractions, careful monitoring should be made to ensure that contractions do not exceed one every two minutes. If this stimulation doesn't help, then the doctor will perform a C-section, only after the mother's consent.
 
@@ -246,7 +246,7 @@ So our overall EMG system is described in the flow chart below.
 
 This is our plan. Let's see how it goes. I think getting the Diff Amp to give a signal, which is really small, and filtering all the noise is going to be the hardest parts. Since we lack a pregnant women, we will be testing our system on our arms. \[AB\] and I tried to get electrodes from MIT Medical, but ended up getting the run around and failed miserably in our quest. But fortunately my friend Ankit said that he could get us electrodes. So all is well, I hope, at least we'll see when we start building.
 
-Source: ([PDF](http://web.archive.org/web/20141130125653/http://www.ece.utah.edu/~harrison/ece3110/Lab5.pdf))
+Source: ({{% resource_link "09d0e193-23eb-4c4a-b830-1a4474a6838e" "PDF" %}})
 
 [Back to top](#The_Smarts)
 

@@ -48,7 +48,7 @@ For an anatomical look at what as asthma attack looks like see:
 
 {{< resource uuid="fb712e31-b7ff-e189-5062-c491fcd15c35" >}}
 
-This video is from [dougtube777](http://www.youtube.com/user/dougtube777) on YouTube and is not provided under our [Creative Commons license](/terms/#cc).
+This video is from {{% resource_link "407df580-8099-4210-bf93-abe8f8326ae2" "dougtube777" %}} on YouTube and is not provided under our [Creative Commons license](/terms/#cc).
 
 Healthcare providers along this chain will include:
 
@@ -67,7 +67,7 @@ Equipment includes:
 
 For this exercise, consider all the opportunities for emergency when administering medicine to stop an asthma attack.
 
-For a full case example of asthma treatment, see Cooper, P. J., et al. "[Asthma in Latin America: A Public Health Challenge and Research Opportunity](http://dx.doi.org/10.1111/j.1398-9995.2008.01902.x)." *Allergy* 64, no. 1 (2009): 5-17.
+For a full case example of asthma treatment, see Cooper, P. J., et al. "{{% resource_link "06dbccf3-0fa9-419b-9921-09f9b63d517d" "Asthma in Latin America: A Public Health Challenge and Research Opportunity" %}}." *Allergy* 64, no. 1 (2009): 5-17.
 
 ## Rheumatic Heart Disease
 
@@ -81,11 +81,11 @@ The best defense against Rheumatic Heart Disease is to prevent rheumatic the fev
 
 If Rheumatic Fever has already occurred, then the next step is to screen them for valvular damage. valve disorders can usually be diagnosed by listening to the heart with a stethoscope. when the blood passes through a normal valve, no sound is heard. If the valve is damaged, the diseased valve creates a whooshing noise, also called a murmur.
 
-Listen to a murmur: ([WAV](http://depts.washington.edu/physdx/audio/innocent.mp3))
+Listen to a murmur: ({{% resource_link "a631934e-9901-4d40-839d-1f558d916b44" "WAV" %}})
 
-Compare it with a normal heart: ([WAV](http://depts.washington.edu/physdx/audio/normal.mp3))
+Compare it with a normal heart: ({{% resource_link "cc6ea6fe-ff51-4fec-8910-a54a93fb94dc" "WAV" %}})
 
-and with a different type of damage called Mitral Regurgitation: ([WAV](http://depts.washington.edu/physdx/audio/mr.mp3))
+and with a different type of damage called Mitral Regurgitation: ({{% resource_link "d6a42957-760c-41ab-8e36-d4c6500a8357" "WAV" %}})
 
 The following chart shows the progression of the disease and opportunities for care.
 

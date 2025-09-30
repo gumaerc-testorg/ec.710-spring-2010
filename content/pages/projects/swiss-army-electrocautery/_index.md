@@ -157,9 +157,9 @@ K, that's all I think. Let me know if you have any questions, and please respond
 
 1. URLs of products of interest:
 
-[Electrocautery pens and pencils](http://www.orsupply.com/medical/category/Cautery-Supplies-Electrosurgical-Accessories/410/category/ESU-Pens-Pencils/449) (corded - cutting)
+{{% resource_link "b5376561-316c-4235-9f20-c3c75df8acf5" "Electrocautery pens and pencils" %}} (corded - cutting)
 
-[Cordless low and high temp](http://www.orsupply.com/medical/category/Cautery-Supplies-Electrosurgical-Accessories/410/category/Cauteries-Cautery-Supplies/487)
+{{% resource_link "06313161-80e7-4bfd-9467-b975e70718bf" "Cordless low and high temp" %}}
 
 Tips of interest:
 
@@ -207,7 +207,7 @@ Hey guys, these are the big questions that we need to get answered (we've discus
 
 Hey Anna, here are a couple questions on the materials side that we said we would post. Please let us know if you have any suggestions/ ideas/ answers! Also, I don't know if the picture will go through via this email, but I'm also attaching the picture and link of a sample cordless electrocautery pen. This particular one is only high temp, another one is low temp. The company hasn't gotten back to me about the questions I asked them, but they said they would tomorrow or so.
 
-[http://www.medexsupply.com/products/pid-32662/AaronMedicalFineCauteryHighTem.htm?zmam=34602484&zmas=1&zmac=22&zmap=32662](http://www.medexsupply.com/products/pid-32662/AaronMedicalFineCauteryHighTem.htm?zmam=34602484&zmas=1&zmac=22&zmap=32662)
+{{% resource_link "c5f481bf-a6b0-494c-aab1-c26d4fc9537f" "http://www.medexsupply.com/products/pid-32662/AaronMedicalFineCauteryHighTem.htm?zmam=34602484&zmas=1&zmac=22&zmap=32662" %}}
 
 1. What are some autoclavable materials?
 2. Heat conductivity of stainless steel vs. other materials

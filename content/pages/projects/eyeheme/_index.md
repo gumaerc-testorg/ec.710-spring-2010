@@ -688,9 +688,9 @@ In many areas of the world, invasive diagnostics are just not feasible. They cos
 
 Now… how do we do it?
 
-[One way that's been developed (by Orsense)](http://www.orsense.com/) uses NIR transmission – very similar to a pulse ox. This is an attractive method, because you could very easily build combination pulse-ox-hemoglobin devices. This is, infact, what Orsense did. But accuracy is a problem with NIR transmission. Are there better ways to noninvasively measure hemoglobin?
+{{% resource_link "3d00fc0c-0ae7-46f1-9216-e7d5aa8372fe" "One way that's been developed (by Orsense)" %}} uses NIR transmission – very similar to a pulse ox. This is an attractive method, because you could very easily build combination pulse-ox-hemoglobin devices. This is, infact, what Orsense did. But accuracy is a problem with NIR transmission. Are there better ways to noninvasively measure hemoglobin?
 
-[This helpful review article](http://www.clinchem.org/cgi/content/full/54/2/264) lists a few ways that noninvasive hemoglobin measurement has been explored. Electrical conductance, spectrophotometric imaging… we have no idea how these things work!! Hopefully we'll figure it out soon, so we can pick a strategy and run with it.
+{{% resource_link "2ffc95df-948c-48a1-a1b4-7b87a91e2ee6" "This helpful review article" %}} lists a few ways that noninvasive hemoglobin measurement has been explored. Electrical conductance, spectrophotometric imaging… we have no idea how these things work!! Hopefully we'll figure it out soon, so we can pick a strategy and run with it.
 
 In the meantime….full speed ahead!
 
@@ -699,9 +699,9 @@ In the meantime….full speed ahead!
 {{< anchor "hese_are_not" >}}{{< /anchor >}}"These are not Your Children, These are Just Your Ideas"
 ----------------------------------------------------------------------------------------------------
 
-**Big Shift:** Diagnosing anemia via the palpebral conjunctiva (inner eyelid) instead of the finger. When we first started the project, Amit introduced us to this amazing thing called the [OrSense](http://www.orsense.com/?id=808). It's non-invasive and is "useful for hematocrit / hemoglobin determination, hidden blood loss monitoring and for anemia screening."
+**Big Shift:** Diagnosing anemia via the palpebral conjunctiva (inner eyelid) instead of the finger. When we first started the project, Amit introduced us to this amazing thing called the {{% resource_link "5204a521-5dde-4b61-a996-e91953791332" "OrSense" %}}. It's non-invasive and is "useful for hematocrit / hemoglobin determination, hidden blood loss monitoring and for anemia screening."
 
-After watching [this product demonstration](http://www.orsense.com/?id=824), I was sold.
+After watching {{% resource_link "f53899c7-ea5f-44fe-a12e-b4c5252f8acf" "this product demonstration" %}}, I was sold.
 
 What could possibly go wrong with a finger? We already have a platform for a PulseOx, it would be easy. We could make a platform and make it so one could add different components in the future that involve reading blood components by measuring transmittance through the finger.
 
@@ -720,7 +720,7 @@ It turns out I don't like research so much. Jose mentioned two types of people i
 
 Needless to say I wasn't so warm to the idea with the eye, I wanted to start building something, anything.
 
-It sounded like there needed to be image processing in the [review article](http://www.clinchem.org/cgi/content/full/54/2/264) (mentioned previously). Plus, people are definitely more reluctant to have doctors looking into their eyes and would much rather give their finger for testing. (My most dreaded medical treatment ever is at an optometrist's office when they test for glaucoma using air-puff tonometry).
+It sounded like there needed to be image processing in the {{% resource_link "2ffc95df-948c-48a1-a1b4-7b87a91e2ee6" "review article" %}} (mentioned previously). Plus, people are definitely more reluctant to have doctors looking into their eyes and would much rather give their finger for testing. (My most dreaded medical treatment ever is at an optometrist's office when they test for glaucoma using air-puff tonometry).
 
 Seema was really excited for the eye idea and kept pushing it. It has huge advantages, a thinner, mucosal layer that doesn't absorb as much as the thick subcutaneous layer of finger, therefore making it much more accurate.
 
@@ -735,7 +735,7 @@ So I need to let go of this finger PulseOx idea, and embrace the palpebral conju
 
 Here's an idea: let's diagnose anemia… via the eye!
 
-[In this review article](http://www.clinchem.org/cgi/content/full/54/2/264), we read about [using light reflectance off the inner eyelid](http://dx.doi.org/10.1117/1.2167967) to measure hemoglobin. You don't have to worry about melanin variation, and it's pretty accurate. Plus, it's new and different! Finger cuffs that measure Hb? That's been done before. But an anemia-detecting ophthalmoscope?
+{{% resource_link "2ffc95df-948c-48a1-a1b4-7b87a91e2ee6" "In this review article" %}}, we read about {{% resource_link "adfb14e0-7a94-415e-a629-15123a12cb22" "using light reflectance off the inner eyelid" %}} to measure hemoglobin. You don't have to worry about melanin variation, and it's pretty accurate. Plus, it's new and different! Finger cuffs that measure Hb? That's been done before. But an anemia-detecting ophthalmoscope?
 
 Now _that's_ interesting.
 
@@ -752,7 +752,7 @@ Woo hoo!
 
 So we don't actually know anything about optics. We knew this before, but now we really know it. What are we actually measuring? Do we want diffuse reflectance, or the other kind? Are we looking for the wavelength, or the intensity? What kind of incident light do we want? How do we filter out the incident light, so it doesn't drown out our signal?
 
-These are but a few of our questions. We've been emailing people left and right, but with very few replies. We finally lined up a meeting with a grad student in the [Spectroscopy Lab](http://web.mit.edu/spectroscopy/) here at MIT, so hopefully we will find some answers there.
+These are but a few of our questions. We've been emailing people left and right, but with very few replies. We finally lined up a meeting with a grad student in the {{% resource_link "1102bf08-d12f-40f4-bb75-c4d81f4e1315" "Spectroscopy Lab" %}} here at MIT, so hopefully we will find some answers there.
 
 In the meantime, we've been toying around with our difficult-to-spell ophthalmoscope. We met with the resident Expert on Everything, Dennis, who explained to us how it actually worked – light comes in the bottom, bounces off a few mirrors, and then light reflected by the patient's eye comes back into the eye of the doctor. Maybe, we thought, this could be the incident-light-filter we've been looking for! After all, the doctor isn't blinded by the light coming up from the ophthalmoscope.
 
@@ -763,7 +763,7 @@ We tried it with a red LED, and… nothing. We put the eyepiece of the ophthalmo
 {{< anchor "Grad_Students" >}}{{< /anchor >}}Grad Students are Awesome!
 -----------------------------------------------------------------------
 
-Paul Yongkeun Park from the [MIT Spectroscopy Lab](http://web.mit.edu/spectroscopy/) kindly met with us last Wednesday to answer all our critical questions that were proving to be huge blocks to our prototyping.
+Paul Yongkeun Park from the {{% resource_link "1102bf08-d12f-40f4-bb75-c4d81f4e1315" "MIT Spectroscopy Lab" %}} kindly met with us last Wednesday to answer all our critical questions that were proving to be huge blocks to our prototyping.
 
 **Big Question 1: What wavelength should our light source be and what wavelength should our detector select for? Is the reflected ray going to be at a different wavelength than our light source?**
 
