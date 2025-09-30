@@ -140,9 +140,9 @@ In our e-mail correspondence, he clarified that a defibrillator senses electrica
 
 "During a normal rhythm (called sinus rhythm), there is a clear sequence of events marked by atrial activation (P wave on the ECG) followed by ventricular activation (QRS complex on the ECG) and finally ventricular reset (T wave on the ECG). When the ventricles fibrillate, the normal electrical pattern P-QRS-T disappears and is replaced by a less organized, higher frequency and lower amplitude signal.
 
-Sinus Rhythm: [http://www.ecglibrary.com/norm.html](http://www.ecglibrary.com/norm.html)
+Sinus Rhythm: {{% resource_link "54d5e4d5-2171-4e24-a230-4b041cf6a602" "http://www.ecglibrary.com/norm.html" %}}
 
-Ventricular Fibrillation: [http://www.ecglibrary.com/vf.html](http://www.ecglibrary.com/vf.html)"
+Ventricular Fibrillation: {{% resource_link "907f8cdf-6cd4-44ad-8829-69f644f87062" "http://www.ecglibrary.com/vf.html" %}}"
 
 On the phone we discussed what materials we would need to build the sensors on the defib pads and he indicated that the electrodes detect polarization and repolarization, and are usually made of silver and silver chloride. He further instructed us to take guidance a chapter from the book _Medical Instrumentation: Application and Design_ by John Webster called "Biodetection Electrodes." Conveniently available on Amazon. Inconveniently over our $100 budget…
 

@@ -21,7 +21,7 @@ Hey guys,
 
 I found a pressure sensor matrix that we could adapt to a pressure sensor patch on the stomach of the women in labor on this webpage (see below). It gives instructions how to build a pressure sensor by using two pieces of cloth and conductive thread! If I understand it right, you just have to sew everything together in the explained way and connect it with external pull-up resistors! They even provide the Arduino code. Click through the pictures on the top, all steps are explained in detail and a video is provided in which you can see how it works.
 
-[http://www.instructables.com/id/Pressure-Sensor-Matrix/](http://www.instructables.com/id/Pressure-Sensor-Matrix/)
+{{% resource_link "d0a0a3cd-a683-48d0-a53c-71e33801197e" "http://www.instructables.com/id/Pressure-Sensor-Matrix/" %}}
 
 We should try this! Maybe we can make it as a sticky patch.
 
@@ -73,7 +73,7 @@ _by Grace Yao_
 
 I think the Processing code this girl wrote could be helpful to us right now (although our pulse ox code might already do the trick for now); the entire Instructable might be useful in the long run for future work.
 
-[http://www.instructables.com/id/Fabric-bend-sensor/](http://www.instructables.com/id/Fabric-bend-sensor/)
+{{% resource_link "0ca441cc-fd44-4bc6-948b-7f147bb907d3" "http://www.instructables.com/id/Fabric-bend-sensor/" %}}
 
 "Using conductive thread, Velostat and neoprene, sew your own fabric bend sensor.[  
 ](#Response_From)
@@ -159,7 +159,7 @@ So, last time I told about the EMG circuit, which we rejected from our prototype
 
  {{< resource 00584b34-888d-19db-e616-16e661c73c26 >}}
 
-Courtesy Hesperian Foundation. Used with permission. From Werner, David, Carol Thuman, and Jane Maxwell. [_Where There Is No Doctor: A Village Health Care Handbook_](http://www.hesperian.org/publications_download_wtnd.php). Berkeley, CA: Hesperian Foundation, 2010, pp. 258. ISBN: 9780942364156.
+Courtesy Hesperian Foundation. Used with permission. From Werner, David, Carol Thuman, and Jane Maxwell. {{% resource_link "c028fd9e-a0fe-4eaf-bc20-b6db476c1bc6" "_Where There Is No Doctor: A Village Health Care Handbook_" %}}. Berkeley, CA: Hesperian Foundation, 2010, pp. 258. ISBN: 9780942364156.
 
 We have been told that during a contraction, the uterus stiffens and moves about 1cm up. This is where the Toco comes in. It measures the pressure exerted by this upward force. After a long brainstorming section, we decided that a cool why to make a cheap and use to manufacture sensor was to make a capacitor. For a parallel plate capacitor, the equation is:
 
@@ -214,7 +214,7 @@ It costs about $2 for a 1'x3' piece. Now, what is Velostat? Basically, it is a m
 
 Now working with it, I did find some problems. There is actually no stable baseline, but that's where the high-pass filter helps. The problem is there is a definite limit to the filter, since our actual signal is very low frequency. But, this is not a big concern after filtering since we can threshold the sensor in the Arduino. Our second problem was that Velostat seems to be sensitive to heat and to sweat. Now this is a huge problem in our application. Fortunately, a piece of scotch tape around the material seemed to help. Lastly, since it is a flexible thin material, there is no easy way to attach wires to the material so there is often lose material. A cool thing, that a lady during our presentation at the MIT museum mentioned was that we could use conductive tape, like copper tape, but this adds cost.
 
-To display the waveform the pressure sensor picked up, I used this code to make a simple oscilloscope with an Arduino ([http://accrochages.drone.ws/en/node/90](http://accrochages.drone.ws/en/node/90)). With this display, I tested out different methods of arranging the Velostat to make it work better. First, I tried bending the material like this:
+To display the waveform the pressure sensor picked up, I used this code to make a simple oscilloscope with an Arduino ({{% resource_link "30f7e75f-4497-4965-bac0-f90137fc5634" "http://accrochages.drone.ws/en/node/90" %}}). With this display, I tested out different methods of arranging the Velostat to make it work better. First, I tried bending the material like this:
 
 {{< resource c5f61510-0371-fdfd-ca20-261cea0f3b62 >}}
 
