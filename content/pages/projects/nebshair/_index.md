@@ -171,10 +171,10 @@ Broken nebulizer
 
 Some useful sites that were recommended to us by Jose to explore:
 
-- [www.instructables.com](http://www.instructables.com/)
-- [www.asknature.org](http://www.asknature.org/)
-- [www.hackaday.com](http://www.hackaday.com/)
-- [www.thingiverse.com](http://www.thingiverse.com/)
+- {{% resource_link "3fe9af59-c6ed-4fa3-b1c3-00f4981bf02f" "www.instructables.com" %}}
+- {{% resource_link "e19fb62e-5ac4-4371-a6f1-e72cacd8fed3" "www.asknature.org" %}}
+- {{% resource_link "7b81a4f2-f40c-4b7b-bb48-70ffeca4f21b" "www.hackaday.com" %}}
+- {{% resource_link "e172848e-b865-42d3-b505-7de06bacc7d1" "www.thingiverse.com" %}}
 - Respiratory Drug Delivery Conference
 - Supersoakers
 - Car wash accessories
@@ -195,7 +195,7 @@ There are five major physical methods for detecting CO{{< sub "2" >}}; however, 
 
 The actual device interface includes a mask that contains an IR light source, some filters and focusing lenses, and an IR detector. The IR source shines IR light through the cloud of CO{{< sub "2" >}} particles produced by the patient. CO{{< sub "2" >}} selectively absorbs 4.3 micron IR light. The absorption amount is directly correlated to the CO{{< sub "2" >}} concentration and thus the amount detected can be compared to a known standard of CO{{< sub "2" >}}.
 
-The information that the capnography provides includes CO{{< sub "2" >}} production, pulmonary perfusion, alveolar ventilation, respiratory patterns, and CO{{< sub "2" >}} elimination. These data is presented as the inspired and/or expired CO{{< sub "2" >}} plotted over time (Kodali, [capnography.com](http://capnography.com/)).
+The information that the capnography provides includes CO{{< sub "2" >}} production, pulmonary perfusion, alveolar ventilation, respiratory patterns, and CO{{< sub "2" >}} elimination. These data is presented as the inspired and/or expired CO{{< sub "2" >}} plotted over time (Kodali, {{% resource_link "26a79a6c-438f-43f4-a2a5-350936564819" "capnography.com" %}}).
 
 This technology initially appealed to us because it was a technology that had concepts based very much like the pulse oximeter, is already interfaced with a mask, and is used to measure gas production. Our belief was that if we could place the sensor close between the drug outlet of the mask and the nose of the patient, the patient's breathing can be monitored by his CO{{< sub "2" >}} production and we can assume due to proximity of the drug outlet to the patient's nose, that he would be effectively breathing the medicine. We can then use this to track the breathing of the patient over time and count up the amount of time that his CO{{< sub "2" >}} production was above a minimal threshold (to account for adequate breathing) until it totally 10 minutes.
 
@@ -249,9 +249,9 @@ Today, we were orientated to the setup and we plan on doing some tests during th
 
 ### Anti-Static Methods
 
-Chemical solutions to static electricity: [http://www.explainthatstuff.com/howantistaticcoatingswork.html](http://www.explainthatstuff.com/howantistaticcoatingswork.html)
+Chemical solutions to static electricity: {{% resource_link "4c1033e8-f7d1-4b06-a0bf-b50d1d4e4927" "http://www.explainthatstuff.com/howantistaticcoatingswork.html" %}}
 
-Glass pipes with a protective antistatic coating: ([PDF](https://link.springer.com/article/10.1007/BF00701014))
+Glass pipes with a protective antistatic coating: ({{% resource_link "f8912ab1-16bc-49bc-af97-75e5275df619" "PDF" %}})
 
 The optimal composition of the applied film is found to be: 50% SnCI~.5H20 with a concentration of 1% SbCI3.
 
@@ -263,19 +263,19 @@ This patent talks about composition of anti-static material composed of a synthe
 
 Found various anti-static sprays:
 
-1) [Endust Anti-static spray](http://www.google.com/products/catalog?hl=en&client=firefox-a&q=anti-static+sprays&cid=8945457291089959853&ei=wUXYS9eiEYrIwAWtsvnmCQ&sa=title&ved=0CAcQ8wIwADgA#p)
+1) {{% resource_link "60d9a3fd-1d8f-43ef-ba17-e0449dfa6108" "Endust Anti-static spray" %}}
 
-2) [Static Guard Anti-Static Spray 5.5 oz (156 g)](https://www.google.com/shopping/product/16482650461452823800?output=search&q=Static+Guard+Anti-Static+Spray+5.5+oz+%28156+g%29&oq=Static+Guard+Anti-Static+Spray+5.5+oz+%28156+g%29&gws_rd=ssl&prds=paur:ClkAsKraXyRnUC77jk6jziFdT5k14KRu-w0PSagHKHwaszvVwm0Eo5egyTwJGpB3kSgqbuc0JyeklxrLiKVBfwV5_bXmDzstQPH5_g_QJwv11RXhN2zuBkpVOBIZAFPVH70e4ivBzJnBmNdRBVynqy8XNTR8uw&sa=X&ei=-8ScVZ6sGoePuASFjK_ADA&ved=0CE0Q8wIwAA)
+2) {{% resource_link "8bf939e6-07aa-4b82-99c6-0eac8b31ff74" "Static Guard Anti-Static Spray 5.5 oz (156 g)" %}}
 
 3) Aeros anti static spray (END096000) Category: Surface Cleaners
 
 Found various anti-static tape:
 
-1) [3M 40PR 1/4 in x 72 yd Clear Anti-Static Tape](http://www.google.com/products/catalog?hl=en&client=firefox-a&q=anti-static+tape&cid=6949697957721171161&ei=ZUbYS8ySN5K82ATq28iwBg&sa=title&ved=0CAwQ8wIwATgA#p)
+1) {{% resource_link "f0a1a37b-7fde-4dd2-a5bc-65bf64b8d343" "3M 40PR 1/4 in x 72 yd Clear Anti-Static Tape" %}}
 
-2) [Dadas Tapes 1662-05 - Anti-Static Transparent Tape, 3" Core, 1/2" …](https://www.hisco.com/Catalog/Adhesives-Sealants-Tapes/Tapes/Anti-Static-Tapes/1662-05)
+2) {{% resource_link "9c833983-01c2-4a15-ab1a-f15d043e1f14" "Dadas Tapes 1662-05 - Anti-Static Transparent Tape, 3\" Core, 1/2\" …" %}}
 
-3) [Botron B1651 (1/2"x36yd Clear ESD Tape) - 1/2"x36yd Clear ESD Tape](http://www.google.com/products/catalog?hl=en&client=firefox-a&q=anti-static+tape&cid=8208940519448190384&ei=ZUbYS8ySN5K82ATq28iwBg&sa=title&ved=0CCcQ8wIwBzgA#p)
+3) {{% resource_link "4c587de3-51e0-471d-bd23-89471c68d135" "Botron B1651 (1/2\"x36yd Clear ESD Tape) - 1/2\"x36yd Clear ESD Tape" %}}
 
 [Back to top](#A_breath-actuated)
 
