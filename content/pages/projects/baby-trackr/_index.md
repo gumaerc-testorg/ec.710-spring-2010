@@ -69,7 +69,7 @@ Hi team,
 
 I just found this article which was published in May 2009.
 
-Haws, Rachel A., Mohammad Yawar Yakoob, Tanya Soomro, et al. "[Reducing Stillbirths: Screening and Monitoring During Pregnancy and Labour](http://www.biomedcentral.com/1471-2393/9/S1/S5)." *BMC Pregnancy and Childbirth* 9, 2009.
+Haws, Rachel A., Mohammad Yawar Yakoob, Tanya Soomro, et al. "{{% resource_link "d00d37da-a2e1-449c-9092-1a6d99900bf3" "Reducing Stillbirths: Screening and Monitoring During Pregnancy and Labour" %}}." *BMC Pregnancy and Childbirth* 9, 2009.
 
 It gives a review of the interventions used worldwide to prevent stillbirths.
 
@@ -96,7 +96,7 @@ Hey team,
 
 Grace, I agree, we definitely need a more creative name… let's brainstorm about it in class today. Here is a study comparing the EMG contraction monitor to a tocotransducer belt. EMG seems to be the better way to measure contractions.
 
-Maul, H., W. L. Maner, G. Olson, et al. "[Non-Invasive Transabdominal Uterine Electromyography Correlates with the Strength of Intrauterine Pressure and is Predictive of Labor and Delivery](http://informahealthcare.com/doi/abs/10.1080/14767050410001695301)." *Journal of Maternal and Fetal-Neonatal Medicine* 15, no. 5 (2004): 297-301.
+Maul, H., W. L. Maner, G. Olson, et al. "{{% resource_link "6c4f1c8a-3577-4c76-91d9-90248642c0d4" "Non-Invasive Transabdominal Uterine Electromyography Correlates with the Strength of Intrauterine Pressure and is Predictive of Labor and Delivery" %}}." *Journal of Maternal and Fetal-Neonatal Medicine* 15, no. 5 (2004): 297-301.
 
 Let's first test the resistive flex sensor \[LT\] ordered and then start working on the EMG/EKG if the sensor turns out to be not reliable for measuring contractions.
 
@@ -110,11 +110,11 @@ Hey all,
 
 Hope you're enjoying the long weekend! I found another interesting article that shows how an external taco meter is just as good as an internal one, although the internal one uses pressure gauges. Just to confirm that we should make both an EMG and an external tocodynamometer. Anyways, I also think we could think of a better name. So I looked up LaborSaver, and apparently it's already a product that allows workers to save money. How about laborhelper? Regardless, here's the article.
 
-Bakker, Jannet J. H., Corine J. M. Verhoeven, Petra F. Janssen, et al. "[Outcomes after Internal Versus External Tocodynamometry for Monitoring Labor](http://www.nejm.org/doi/full/10.1056/NEJMoa0902748)." *New England Journal of Medicine* 362, no. 4 (2010): 306-13.
+Bakker, Jannet J. H., Corine J. M. Verhoeven, Petra F. Janssen, et al. "{{% resource_link "5296c32d-b42b-4d0f-b34c-ddfc2f5a7dd3" "Outcomes after Internal Versus External Tocodynamometry for Monitoring Labor" %}}." *New England Journal of Medicine* 362, no. 4 (2010): 306-13.
 
 Here's another article I found on how to make an embedded microcontroller and EMG:
 
-Wu, Han-Chang, Chao-Hung Lin, Shuenn-Tsong Young, et al. "[Monitoring Long-Term Uterine Contractions](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?reload=true&arnumber=1005658)." *IEEE Instrumentation and Measurement Magazine* 5, no. 2 (2002): 36-40.
+Wu, Han-Chang, Chao-Hung Lin, Shuenn-Tsong Young, et al. "{{% resource_link "3c9cfc54-d317-4a31-b367-cd9fc5f769c5" "Monitoring Long-Term Uterine Contractions" %}}." *IEEE Instrumentation and Measurement Magazine* 5, no. 2 (2002): 36-40.
 
 I think it's very similar to what Maysun sent out a couple days ago.
 
@@ -126,17 +126,17 @@ Let's meet up some time (I think we're agreeing for tomorrow 3 pm) to discuss sp
 
 ## *by Grace Yao*
 
-[Apparatus for non-invasive monitoring of uterine contractions](https://pubchem.ncbi.nlm.nih.gov/patent/US-5195536-A)    
+{{% resource_link "4fa40aec-3aa0-42fd-a2c1-0b3f4e9eeefc" "Apparatus for non-invasive monitoring of uterine contractions" %}}    
 United States Patent 4989615
 
 From Abstract: "An apparatus which includes a bladder element (10) which is at least partially filled with fluid, a belt-like element (12) which holds the bladder against the patient's abdomen with some pressure, and a pressure monitoring device (18) which is connected to the bladder (10) to detect changes in the pressure of the fluid in the bladder (10) as the abdomen hardens due to uterine contractions."
 
-[External uterine contraction monitoring device](https://patents.google.com/patent/US5070888A/en)    
+{{% resource_link "53a9d319-7a95-4637-937f-d02593ef008c" "External uterine contraction monitoring device" %}}    
 United States Patent 5070888
 
 From Abstract: "An improved monitoring device for externally monitoring labor contractions preceding childbirth which does not require the use of a belt is disclosed consisting of a transducer removable assembly fixed to a base adhesively attached to the abdomen of the woman."
 
-[Disposable tocodynamometer with self-adjusting bellows](https://patents.google.com/patent/US5224490A/en)    
+{{% resource_link "17ada65f-e86c-4325-8781-e2fd041f8908" "Disposable tocodynamometer with self-adjusting bellows" %}}    
 United States Patent 5224490
 
 From Abstract: "A non-invasive, disposable, self-adjusting tocodynamometer (10) for monitoring uterine contractions of a patient during pregnancy, labor, and delivery The tocodynamometer includes a pressure-sensitive, fluid. filled bellows (20) responsive to changes in the hardness of the uterus during contractions The bellows has one face which projects into the patient's soft tissue in the abdomen and adjacent the uterus, rending the tocodynamometer sensitive even for obese patients. A plate (22) supports the bellows and provides structure for attaching the tocodynamometer to the patient. A wall (30) formed on the plate receives the bellows as it is compressed during use. A conduit (14) connects the bellows to a pressure transducer (12) which, in turn, is connected to a monitor (16). The bellows, conduit, and pressure transducer form a closed system containing the working fluid."
@@ -149,7 +149,7 @@ From Abstract: "A non-invasive, disposable, self-adjusting tocodynamometer (10) 
 
 This is where we were 5 days ago, before the meeting with Jose:
 
-Below is a list of Ob/Gyn's in Boston that I grabbed from [thecityofboston.com](http://www.thecityofboston.com/physicians/ob-gyn-physicians.html). I think we've pretty much decided on using the simpler on/off indicator as opposed to measuring force with varying intensity. So what we really need to find out now on the medical side of things is:
+Below is a list of Ob/Gyn's in Boston that I grabbed from {{% resource_link "57075468-3129-483b-9d31-ae364cf210d8" "thecityofboston.com" %}}. I think we've pretty much decided on using the simpler on/off indicator as opposed to measuring force with varying intensity. So what we really need to find out now on the medical side of things is:
 
 What are the times we have to measure to know the things we want to indicate, which are
 

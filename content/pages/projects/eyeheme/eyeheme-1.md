@@ -104,13 +104,13 @@ Hey everyone – I'm new to the blogging thing, but I'll do my best to keep up w
 
 I wanted to write a bit about my relationship with the eye. As \[AJ\] mentioned in one of her earlier posts, I was really into this idea of obtaining a signal from the eye instead of other tissue. Why?
 
-*   Using the eye as a target is the really novel aspect of our project (assuming we get it to work). Obtaining absorbance signals from tissue-based measurements is already pretty common (think Orsense, Pulse-Ox, etc.) Furthermore, as we've been reading the literature, we've found a number of other groups are **currently** attempting to develop optical diagnostics based on the eye. As noted in [Jay, et al., 2007](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4352943&userType=&tag=1), physicians and other providers already qualitatively study pallor of the eye for anemia diagnosis. The challenge is to develop a more quantitative technique that can be used as an initial screen for anemia.
+*   Using the eye as a target is the really novel aspect of our project (assuming we get it to work). Obtaining absorbance signals from tissue-based measurements is already pretty common (think Orsense, Pulse-Ox, etc.) Furthermore, as we've been reading the literature, we've found a number of other groups are **currently** attempting to develop optical diagnostics based on the eye. As noted in {{% resource_link "8fc35da6-a934-405d-9f51-5e56455012ba" "Jay, et al., 2007" %}}, physicians and other providers already qualitatively study pallor of the eye for anemia diagnosis. The challenge is to develop a more quantitative technique that can be used as an initial screen for anemia.
 
 Evidence for diagnostic potential:
 
 *   Mucosal surface, less tissue to absorb light, less scattering of light
 
-The eyes are affected by several conditions stemming from other parts of the body (from The Merck Manual's "[Diseases of the Eye](http://www.merckmanuals.com/home/sec20/ch225/ch225b.html)"). This all suggests that the eye may already be a familiar target for informal/qualitative diagnoses (so our diagnostic may be easily integrated into current practice), and that tools may already exist to better visualize parts of the eye.
+The eyes are affected by several conditions stemming from other parts of the body (from The Merck Manual's "{{% resource_link "d3cf76df-1bc0-47e9-8006-ac820b642d1c" "Diseases of the Eye" %}}"). This all suggests that the eye may already be a familiar target for informal/qualitative diagnoses (so our diagnostic may be easily integrated into current practice), and that tools may already exist to better visualize parts of the eye.
 
 *   Vision loss can be caused by: diabetes, macular degeneration, injuries, some infections, ischemic attack/mini-stroke, etc.
 *   Double vision may be caused by: fatigue, alcohol intoxication, multiple sclerosis, and injury, as well as by a serious disorder of the brain or nervous system, such as a tumor, aneurysm, or stroke.
@@ -211,7 +211,7 @@ Courtesy of The World Bank. Used with permission.
 
 Courtesy of the World Health Organization. Used with permission. For complete publication, see de Benoist, Bruno, Erin McLean, Ines Egli, and Mary Cogswell, eds. "Worldwide Prevalence of Anaemia 1993-2005: WHO Global Database on Anaemia." Geneva, Switzerland: WHO Press, 2008.
 
-Reference: [http://www.who.int/topics/anaemia/en/](http://www.who.int/topics/anaemia/en/)
+Reference: {{% resource_link "fbc5b7ab-cda3-49ed-b0d1-dd223e1ba801" "http://www.who.int/topics/anaemia/en/" %}}
 
 **Diagnosis:**
 
@@ -241,11 +241,11 @@ We also got invited to present at the The World Health Medical Technology Confer
 {{< anchor "Biosense_Gets_Recognition" >}}{{< /anchor >}}Biosense Gets Recognition
 ----------------------------------------------------------------------------------
 
-Mary Xu, in our D-Lab class sent us a link about [Biosense](https://sites.google.com/site/biosenseglobal/blogposts/biosenseisinthefinalrunfortheprestigiousechoinggreenfellowship), a non-invasive anemia screening that is an Echoing Green Fellow receiving up to $90,000 in seed funding and technical support.
+Mary Xu, in our D-Lab class sent us a link about {{% resource_link "768df567-0870-40f9-aec1-d9146f9970fa" "Biosense" %}}, a non-invasive anemia screening that is an Echoing Green Fellow receiving up to $90,000 in seed funding and technical support.
 
 \[KK\] had gotten in contact with them as well and they were willing to meet up with us in Seattle or New York, but I guess we didn't get the chance.
 
-Take a look at Biosense, with their product [ToucHb](http://www.biosense.in/). ToucHb uses a modified pulse-oximeter using the finger as a measuring point for hemoglobin. It looks like they had gone to clinical trials this past January. It would be interesting to see the results of their clinical trials and how accurate their readings were considering the same problems we faced about subcutaneous tissue being different in each person, thus affecting the Hb readings.
+Take a look at Biosense, with their product {{% resource_link "2cb6829d-3903-4c3d-bdb6-e9723aa1b574" "ToucHb" %}}. ToucHb uses a modified pulse-oximeter using the finger as a measuring point for hemoglobin. It looks like they had gone to clinical trials this past January. It would be interesting to see the results of their clinical trials and how accurate their readings were considering the same problems we faced about subcutaneous tissue being different in each person, thus affecting the Hb readings.
 
 But congrats to Biosense for drawing more attention to the worldwide anemia problem!
 
