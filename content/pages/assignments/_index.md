@@ -76,7 +76,7 @@ Instrumentation lab:
 
 \- Email recording to yourself, or use USB cord to transfer it to the computer
 
-\- Convert to WAV format using [PeonySoft-WAV-Converter](http://download.cnet.com/PeonySoft-WAV-Converter/3000-2140_4-10911514.html)
+\- Convert to WAV format using {{% resource_link "e6f11553-8a25-45f8-a12e-8d4fea0d0ccb" "PeonySoft-WAV-Converter" %}}
 
 \- Look at its waveform in MATLAB®:
 
@@ -120,7 +120,7 @@ Lab homework 5
 
 Microfluidics lab:
 
-Students design more complex systems using plastic microfluidic chips, wells, channels, micro pumps, and micro hoses on the [thinXXS lab-on-a-chip platform](http://www.thinxxs.com/main/thinxxs.html?L=1).
+Students design more complex systems using plastic microfluidic chips, wells, channels, micro pumps, and micro hoses on the {{% resource_link "769c621a-70b8-4e45-89c8-04c21012b11b" "thinXXS lab-on-a-chip platform" %}}.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -141,7 +141,7 @@ Sketch model
 {{< tdclose >}}{{< tdopen >}}
 We talked about sketch models in class on Lec #16, and we visited the MIT laser cutter and 3-D printer. We'd like you to turn in a sketch model of your proposed device by the beginning of class on Lec #20. Sketch models are something that you can hold in your hand and may offer some functionality. They are often made up of foam, cardboard, found items, and if you are able to, fabricated pieces (sometimes this is as simple as using scissors). With the sketch model, include a video clip explaining how your device would work (2 minutes minimum, 10 minutes maximum). The sketch model will undergo another round of design critiques in class on Lec #24, which should inform your approach and allow you to refine parameters. By this date, you should have developed an approach to fabrication based on your goals.
 {{< tdclose >}}{{< tdopen >}}
-[3-D modeling tool](https://www.sketchup.com/en)
+{{% resource_link "8d8cf41e-ac32-4ef0-bb43-e2905f0052aa" "3-D modeling tool" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Role-playing simulation games
 {{< tdclose >}}{{< tdopen >}}
